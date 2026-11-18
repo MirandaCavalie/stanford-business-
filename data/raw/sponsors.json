@@ -1,0 +1,614 @@
+{
+  "sponsors": [
+    {
+      "id": "bee5c2fe-c6c9-4d7f-b81d-14e477752a8d",
+      "name": "AdaL",
+      "logoUrl": "/images/companies/adal.jpg",
+      "website": "https://adalagent.ai/"
+    },
+    {
+      "id": "754d2277-26cc-4416-9d3b-e0779870877e",
+      "name": "Agent OS",
+      "logoUrl": "/images/companies/agent-os.jpg",
+      "website": "https://app.theagentos.space/"
+    },
+    {
+      "id": "e0044788-b9ef-4038-8078-367cbf8235cf",
+      "name": "AIGO AI",
+      "logoUrl": "/images/companies/aigo-ai.jpg",
+      "website": "https://aigo.ai/"
+    },
+    {
+      "id": "882365e2-3fe6-4f5b-895c-3a9b7e92148e",
+      "name": "AIHouse",
+      "logoUrl": "/images/companies/aihouse.png",
+      "website": "https://www.aihouze.xyz/"
+    },
+    {
+      "id": "5f14a1e0-512d-4906-b8f6-bfbfe56b9c0a",
+      "name": "AISA One",
+      "logoUrl": "/images/companies/aisa-one.jpg",
+      "website": "https://aisa.one/"
+    },
+    {
+      "id": "5cb3206e-945a-461b-b743-8b4781c0fbcb",
+      "name": "Apify",
+      "logoUrl": "/images/companies/apify.png",
+      "website": "https://apify.com/"
+    },
+    {
+      "id": "061608b2-af67-4a39-9670-631831c950e5",
+      "name": "Ask the W",
+      "logoUrl": "/images/companies/ask-the-w.png",
+      "website": "https://askthew.com/"
+    },
+    {
+      "id": "33646e72-dd9d-42e5-b978-4c6c5bae1d50",
+      "name": "AutonomLayer",
+      "logoUrl": "/images/companies/autonomlayer.png",
+      "website": "https://autonomlayer.com/"
+    },
+    {
+      "id": "aeeb497e-4490-41cc-a99b-fabafb9de69d",
+      "name": "BAND",
+      "logoUrl": "/images/companies/band.png",
+      "website": "https://www.band.ai/"
+    },
+    {
+      "id": "a8b947e6-4514-4a1d-bbce-32e6adbcd8b0",
+      "name": "Brain2",
+      "logoUrl": "/images/companies/brain2.png",
+      "website": null
+    },
+    {
+      "id": "9b7ff73a-03dd-47d2-8a45-42c74cfe8e22",
+      "name": "Celesto AI",
+      "logoUrl": "/images/companies/celesto-ai.png",
+      "website": "https://celesto.ai/"
+    },
+    {
+      "id": "e2361fb1-6445-4e2e-b7ac-ac010b70f5ed",
+      "name": "Cognee",
+      "logoUrl": "/images/companies/cognee.png",
+      "website": "https://www.cognee.ai/"
+    },
+    {
+      "id": "427254d8-abb6-4f25-a63a-294a47df7f19",
+      "name": "Cresca",
+      "logoUrl": "/images/companies/cresca.png",
+      "website": "https://cresca.ai/"
+    },
+    {
+      "id": "bdeab284-92c8-4cd6-a583-d6b97ac3cc17",
+      "name": "Daytona",
+      "logoUrl": "/images/companies/daytona.png",
+      "website": "https://www.daytona.io/"
+    },
+    {
+      "id": "1c7fd6de-4750-4691-ab74-38e05685a3c4",
+      "name": "Enkrypt AI",
+      "logoUrl": "/images/companies/enkrypt-ai.png",
+      "website": "https://www.enkryptai.com/"
+    },
+    {
+      "id": "e5b483d9-122c-4d16-9b3f-0a73c7520b03",
+      "name": "Finchip AI",
+      "logoUrl": "/images/companies/finchip-ai.jpg",
+      "website": "https://finchip.ai/"
+    },
+    {
+      "id": "e4a5ea7f-981a-4268-b7bd-0c820029e613",
+      "name": "Flatkey",
+      "logoUrl": "/images/companies/flatkey.jpg",
+      "website": "https://flatkey.ai/"
+    },
+    {
+      "id": "5754b51e-8d51-454d-8e5f-c2099baf94d5",
+      "name": "Glasser",
+      "logoUrl": "/images/companies/glasser.jpg",
+      "website": "https://glasser.ai/"
+    },
+    {
+      "id": "b2a8b6b8-b12c-4cf0-92fe-554491f86636",
+      "name": "Google AI Studio",
+      "logoUrl": "/images/companies/google-ai-studio.jpg",
+      "website": "https://aistudio.google.com/"
+    },
+    {
+      "id": "1a9c01e6-3691-4a48-8256-8313a31576af",
+      "name": "Govia",
+      "logoUrl": "/images/companies/govia.png",
+      "website": "https://govia.app/"
+    },
+    {
+      "id": "76f43e64-cf39-4c3d-93da-7322286df630",
+      "name": "Growing Pies",
+      "logoUrl": "/images/companies/growing-pies.jpg",
+      "website": "https://growingpies.ai/"
+    },
+    {
+      "id": "23f6d519-7c66-4576-a18d-fc4128c70b84",
+      "name": "GrowthMasters",
+      "logoUrl": "/images/companies/growthmasters.jpg",
+      "website": "https://growthmasters.io/"
+    },
+    {
+      "id": "a0d39611-427c-4b7d-b19e-2c2113b9f38c",
+      "name": "Homebrew Club",
+      "logoUrl": "/images/companies/homebrew-club.jpg",
+      "website": "https://homebrewclub.berrry.app/"
+    },
+    {
+      "id": "9f585aad-9eb6-40b1-be59-22e36cc9bc8c",
+      "name": "HydraDB",
+      "logoUrl": "/images/companies/hydradb.png",
+      "website": "https://hydradb.com/"
+    },
+    {
+      "id": "619d3c70-3a4d-479f-bbd5-f13a2cfcd4ef",
+      "name": "InsForge",
+      "logoUrl": "/images/companies/insforge.png",
+      "website": "https://insforge.dev/"
+    },
+    {
+      "id": "3a75ca05-cfc5-4fdd-9136-88c565183e34",
+      "name": "Kalibr",
+      "logoUrl": "/images/companies/kalibr.jpg",
+      "website": "https://kalibr.systems/"
+    },
+    {
+      "id": "49e8e316-55ce-4198-91a7-3877900d8184",
+      "name": "Kylon",
+      "logoUrl": "/images/companies/kylon.png",
+      "website": "https://kylon.io/"
+    },
+    {
+      "id": "bd108cda-ee55-45a3-a02d-411a5b3aa58e",
+      "name": "LightSage",
+      "logoUrl": "/images/companies/lightsage.png",
+      "website": "https://lightsage.com/"
+    },
+    {
+      "id": "2fdf69d7-58cd-4674-9c56-5fd91c8cd9d8",
+      "name": "Lore",
+      "logoUrl": "/images/companies/lore.png",
+      "website": "https://lore.link/"
+    },
+    {
+      "id": "7f91461b-467d-47c6-b188-2c847d298a2b",
+      "name": "Lovable",
+      "logoUrl": "/images/companies/lovable.png",
+      "website": "https://lovable.dev/"
+    },
+    {
+      "id": "d23c3043-0393-4395-8740-5531f3e4e190",
+      "name": "Lyzr",
+      "logoUrl": "/images/companies/lyzr.jpg",
+      "website": "https://www.lyzr.ai/"
+    },
+    {
+      "id": "b437fdc6-d0b1-4f72-a0a4-5321d1d7c902",
+      "name": "Masky AI",
+      "logoUrl": "/images/companies/masky-ai.png",
+      "website": "https://masky.ai"
+    },
+    {
+      "id": "4eb2d7db-061b-4537-8ce5-0cd339cee4ce",
+      "name": "Massive",
+      "logoUrl": "/images/companies/massive.jpg",
+      "website": "https://www.joinmassive.com/"
+    },
+    {
+      "id": "27dae401-4225-4729-8060-479381908f16",
+      "name": "N8N",
+      "logoUrl": "/images/companies/n8n.png",
+      "website": "https://n8n.io"
+    },
+    {
+      "id": "126c51c7-58af-4afb-a963-7ebb6c70df26",
+      "name": "Nebius",
+      "logoUrl": "/images/companies/nebius.png",
+      "website": "https://nebius.com/"
+    },
+    {
+      "id": "53fd5d2e-fc4c-4341-b00d-35fb952c90e3",
+      "name": "Nimble",
+      "logoUrl": "/images/companies/nimble.png",
+      "website": "https://www.nimbleway.com/"
+    },
+    {
+      "id": "891f7ff9-9fb5-48b9-8ac5-6a666aa11cb3",
+      "name": "O1 Assist",
+      "logoUrl": "/images/companies/o1-assist.jpg",
+      "website": "https://o1assist.com/"
+    },
+    {
+      "id": "ddc094a6-d04d-4911-9962-24be06f06e4e",
+      "name": "Opsera",
+      "logoUrl": "/images/companies/opsera.png",
+      "website": "https://opsera.ai/"
+    },
+    {
+      "id": "f605b75c-f5b6-46f6-b250-55969e3e595c",
+      "name": "Paritok",
+      "logoUrl": "/images/companies/paritok.png",
+      "website": "https://www.paritok.com/"
+    },
+    {
+      "id": "10971458-9ae4-4caf-a04e-593d316509c4",
+      "name": "Prelint",
+      "logoUrl": "/images/companies/prelint.jpg",
+      "website": "https://prelint.com"
+    },
+    {
+      "id": "018ab7de-2007-4e09-b96e-a6e46dcc823b",
+      "name": "PromptQL",
+      "logoUrl": "/images/companies/promptql.png",
+      "website": "https://promptql.io/"
+    },
+    {
+      "id": "0638ff79-676f-4bca-946c-ad4f8d447d9f",
+      "name": "Qdrant",
+      "logoUrl": "/images/companies/qdrant.png",
+      "website": "https://qdrant.tech/"
+    },
+    {
+      "id": "620739f1-9b26-4f12-bf73-bf7d39d602c6",
+      "name": "Querit",
+      "logoUrl": "/images/companies/image.png",
+      "website": "https://www.querit.ai/"
+    },
+    {
+      "id": "89e11f70-e77f-4a35-9e2d-c446a62a420e",
+      "name": "Render",
+      "logoUrl": "/images/companies/render.png",
+      "website": "https://render.com/"
+    },
+    {
+      "id": "0fe2c0cc-b4e1-40f6-b905-fddb942e685f",
+      "name": "Replit",
+      "logoUrl": "/images/companies/replit.png",
+      "website": "https://replit.com/"
+    },
+    {
+      "id": "46c4776b-4ebc-4a29-b36b-c941e0084327",
+      "name": "Retriver AI",
+      "logoUrl": "/images/companies/retriver-ai.png",
+      "website": "https://www.rtrvr.ai/"
+    },
+    {
+      "id": "54bdc2ff-ae28-41ed-9947-3e1568c30ee3",
+      "name": "RocketRide",
+      "logoUrl": "/images/companies/rocketride.jpg",
+      "website": "https://cloud.rocketride.ai/"
+    },
+    {
+      "id": "75909d20-420b-49e7-baad-8cba3eb3b980",
+      "name": "Sartorial",
+      "logoUrl": "/images/companies/sar.png",
+      "website": "https://www.sartori.al/"
+    },
+    {
+      "id": "15b62625-a629-406c-a14a-bd7c07e451b8",
+      "name": "Synk",
+      "logoUrl": "/images/companies/synk.jpg",
+      "website": "https://snyk.io/"
+    },
+    {
+      "id": "6946039e-0572-4162-b97e-0195a15d35cf",
+      "name": "Tavily",
+      "logoUrl": "/images/companies/tavily.png",
+      "website": "https://www.tavily.com/"
+    },
+    {
+      "id": "83c7b5bb-86f7-4280-97dd-a148e30452b6",
+      "name": "Tenki",
+      "logoUrl": "/images/companies/tenki.jpg",
+      "website": "https://tenki.cloud/"
+    },
+    {
+      "id": "5c222f24-ce35-4cf8-8aa5-c4538eb07aed",
+      "name": "Tigris Data",
+      "logoUrl": "/images/companies/tigris-data.png",
+      "website": "https://www.tigrisdata.com/"
+    },
+    {
+      "id": "ab49b4d3-4304-4eb7-95d3-d6e3eb34e29b",
+      "name": "TRAE",
+      "logoUrl": "/images/companies/trae.jpg",
+      "website": "https://www.trae.ai/"
+    },
+    {
+      "id": "6338ed35-07f7-4254-90d9-aa15030d5562",
+      "name": "Unlimit",
+      "logoUrl": "/images/companies/unlimit.jpg",
+      "website": "https://www.unlimit.com/"
+    },
+    {
+      "id": "5e2919e8-527c-4ef8-b3cb-d0c33f466386",
+      "name": "Voisekey",
+      "logoUrl": "/images/companies/voisekey.png",
+      "website": "https://www.voiskey.ai"
+    },
+    {
+      "id": "b77957bf-462e-476b-8842-48575b8c20a5",
+      "name": "Wasmer",
+      "logoUrl": "/images/companies/wasmer.jpg",
+      "website": "https://wasmer.io/"
+    },
+    {
+      "id": "31e1f1f1-28e5-471e-a44c-2e9c5625f890",
+      "name": "You.com",
+      "logoUrl": "/images/companies/you-com.png",
+      "website": "https://you.com/"
+    }
+  ],
+  "partners": [
+    {
+      "partnerType": "venue",
+      "companies": [
+        {
+          "id": "8d79a06e-c3a6-40ea-a57a-e74ee9db0c1e",
+          "name": "AI Global Campus",
+          "logoUrl": "/images/companies/ai-global-campus.jpg",
+          "website": "https://aiglobalcampus.com/"
+        },
+        {
+          "id": "f8d0ad39-c8ad-4daf-a653-ec12d80cc222",
+          "name": "Amazon",
+          "logoUrl": "/images/companies/amazon.png",
+          "website": "https://www.amazon.com/"
+        },
+        {
+          "id": "ce36b4a9-3b26-4b98-9dcf-1a885ecdaa52",
+          "name": "Frontier Tower",
+          "logoUrl": "/images/companies/frontier-tower.jpg",
+          "website": "https://frontiertower.io/"
+        },
+        {
+          "id": "a0d39611-427c-4b7d-b19e-2c2113b9f38c",
+          "name": "Homebrew Club",
+          "logoUrl": "/images/companies/homebrew-club.jpg",
+          "website": "https://homebrewclub.berrry.app/"
+        }
+      ]
+    },
+    {
+      "partnerType": "community",
+      "companies": [
+        {
+          "id": "74593a99-f301-4abb-8276-c7d20dff8205",
+          "name": "AI Collective",
+          "logoUrl": "/images/companies/ai-collective.jpg",
+          "website": "https://www.aicollective.com/"
+        },
+        {
+          "id": "882365e2-3fe6-4f5b-895c-3a9b7e92148e",
+          "name": "AIHouse",
+          "logoUrl": "/images/companies/aihouse.png",
+          "website": "https://www.aihouze.xyz/"
+        },
+        {
+          "id": "5cb3206e-945a-461b-b743-8b4781c0fbcb",
+          "name": "Apify",
+          "logoUrl": "/images/companies/apify.png",
+          "website": "https://apify.com/"
+        },
+        {
+          "id": "1073f0d0-7e77-4dda-9a67-a75da7abc420",
+          "name": "Articuler AI",
+          "logoUrl": "/images/companies/articuler-ai.png",
+          "website": "https://www.articuler.ai/"
+        },
+        {
+          "id": "9df9877e-e9fb-47d1-9cde-8853924ca375",
+          "name": "Bond AI",
+          "logoUrl": "/images/companies/bond-ai.png",
+          "website": "https://bondcommunity.ai/"
+        },
+        {
+          "id": "25153914-ff5b-4099-8b1a-e089963d2ba3",
+          "name": "Box",
+          "logoUrl": "/images/companies/box.png",
+          "website": "https://www.box.com/"
+        },
+        {
+          "id": "fa911e79-0010-4203-8bda-640a4b06dfa6",
+          "name": "BridgeUS",
+          "logoUrl": "/images/companies/bridgeus.png",
+          "website": "https://bridgeus.co"
+        },
+        {
+          "id": "17165d13-cf13-47a8-b4e4-fe98da9079bc",
+          "name": "BuildClub",
+          "logoUrl": "/images/companies/buildclub.png",
+          "website": "https://buildclub.ai/"
+        },
+        {
+          "id": "9d045baa-eaff-4021-9156-4e1ba51fa72d",
+          "name": "Builder Base",
+          "logoUrl": "/images/companies/builder-base.jpg",
+          "website": "https://builderbase.com/"
+        },
+        {
+          "id": "d2bc21c4-ae2c-4807-ba3d-61a337406c7a",
+          "name": "Devnovate",
+          "logoUrl": "/images/companies/devnovate.png",
+          "website": "https://devnovate.co/"
+        },
+        {
+          "id": "3ef4c1a4-578e-4f3a-8577-d25da9c7dfd3",
+          "name": "GenAI Assembling",
+          "logoUrl": "/images/companies/genai-assembling.png",
+          "website": "https://genaiassembling.substack.com/"
+        },
+        {
+          "id": "91458ab8-e1b0-4837-b496-67ec06423d77",
+          "name": "Marvellous",
+          "logoUrl": "/images/companies/marvellous.png",
+          "website": "https://www.themarvelo.us/"
+        },
+        {
+          "id": "12c163ce-8437-4994-9386-b58ca8b6e298",
+          "name": "Medallion Substack",
+          "logoUrl": "/images/companies/medallion-substack.png",
+          "website": "https://medallionxln.substack.com/"
+        },
+        {
+          "id": "639dff36-56e2-4c49-8708-c6e6572a2319",
+          "name": "NerdConf",
+          "logoUrl": "/images/companies/nerdconf.jpg",
+          "website": "https://www.nerdconf.com/"
+        },
+        {
+          "id": "75909d20-420b-49e7-baad-8cba3eb3b980",
+          "name": "Sartorial",
+          "logoUrl": "/images/companies/sar.png",
+          "website": "https://www.sartori.al/"
+        },
+        {
+          "id": "c9bcd923-e0d8-42c5-b5c3-a29e9fb80f5b",
+          "name": "Venture Bridge Hub",
+          "logoUrl": "/images/companies/venture-bridge-hub.png",
+          "website": "https://venturebridgehub.com"
+        },
+        {
+          "id": "a613145a-9734-4a22-9873-f71f1d8be1c8",
+          "name": "We Are Developers",
+          "logoUrl": "/images/companies/we-are-developers.jpg",
+          "website": "https://www.wearedevelopers.com/"
+        }
+      ]
+    }
+  ],
+  "venuePartners": [
+    {
+      "id": "8d79a06e-c3a6-40ea-a57a-e74ee9db0c1e",
+      "name": "AI Global Campus",
+      "logoUrl": "/images/companies/ai-global-campus.jpg",
+      "website": "https://aiglobalcampus.com/"
+    },
+    {
+      "id": "f8d0ad39-c8ad-4daf-a653-ec12d80cc222",
+      "name": "Amazon",
+      "logoUrl": "/images/companies/amazon.png",
+      "website": "https://www.amazon.com/"
+    },
+    {
+      "id": "ce36b4a9-3b26-4b98-9dcf-1a885ecdaa52",
+      "name": "Frontier Tower",
+      "logoUrl": "/images/companies/frontier-tower.jpg",
+      "website": "https://frontiertower.io/"
+    },
+    {
+      "id": "a0d39611-427c-4b7d-b19e-2c2113b9f38c",
+      "name": "Homebrew Club",
+      "logoUrl": "/images/companies/homebrew-club.jpg",
+      "website": "https://homebrewclub.berrry.app/"
+    }
+  ],
+  "communityPartners": [
+    {
+      "id": "74593a99-f301-4abb-8276-c7d20dff8205",
+      "name": "AI Collective",
+      "logoUrl": "/images/companies/ai-collective.jpg",
+      "website": "https://www.aicollective.com/"
+    },
+    {
+      "id": "882365e2-3fe6-4f5b-895c-3a9b7e92148e",
+      "name": "AIHouse",
+      "logoUrl": "/images/companies/aihouse.png",
+      "website": "https://www.aihouze.xyz/"
+    },
+    {
+      "id": "5cb3206e-945a-461b-b743-8b4781c0fbcb",
+      "name": "Apify",
+      "logoUrl": "/images/companies/apify.png",
+      "website": "https://apify.com/"
+    },
+    {
+      "id": "1073f0d0-7e77-4dda-9a67-a75da7abc420",
+      "name": "Articuler AI",
+      "logoUrl": "/images/companies/articuler-ai.png",
+      "website": "https://www.articuler.ai/"
+    },
+    {
+      "id": "9df9877e-e9fb-47d1-9cde-8853924ca375",
+      "name": "Bond AI",
+      "logoUrl": "/images/companies/bond-ai.png",
+      "website": "https://bondcommunity.ai/"
+    },
+    {
+      "id": "25153914-ff5b-4099-8b1a-e089963d2ba3",
+      "name": "Box",
+      "logoUrl": "/images/companies/box.png",
+      "website": "https://www.box.com/"
+    },
+    {
+      "id": "fa911e79-0010-4203-8bda-640a4b06dfa6",
+      "name": "BridgeUS",
+      "logoUrl": "/images/companies/bridgeus.png",
+      "website": "https://bridgeus.co"
+    },
+    {
+      "id": "17165d13-cf13-47a8-b4e4-fe98da9079bc",
+      "name": "BuildClub",
+      "logoUrl": "/images/companies/buildclub.png",
+      "website": "https://buildclub.ai/"
+    },
+    {
+      "id": "9d045baa-eaff-4021-9156-4e1ba51fa72d",
+      "name": "Builder Base",
+      "logoUrl": "/images/companies/builder-base.jpg",
+      "website": "https://builderbase.com/"
+    },
+    {
+      "id": "d2bc21c4-ae2c-4807-ba3d-61a337406c7a",
+      "name": "Devnovate",
+      "logoUrl": "/images/companies/devnovate.png",
+      "website": "https://devnovate.co/"
+    },
+    {
+      "id": "3ef4c1a4-578e-4f3a-8577-d25da9c7dfd3",
+      "name": "GenAI Assembling",
+      "logoUrl": "/images/companies/genai-assembling.png",
+      "website": "https://genaiassembling.substack.com/"
+    },
+    {
+      "id": "91458ab8-e1b0-4837-b496-67ec06423d77",
+      "name": "Marvellous",
+      "logoUrl": "/images/companies/marvellous.png",
+      "website": "https://www.themarvelo.us/"
+    },
+    {
+      "id": "12c163ce-8437-4994-9386-b58ca8b6e298",
+      "name": "Medallion Substack",
+      "logoUrl": "/images/companies/medallion-substack.png",
+      "website": "https://medallionxln.substack.com/"
+    },
+    {
+      "id": "639dff36-56e2-4c49-8708-c6e6572a2319",
+      "name": "NerdConf",
+      "logoUrl": "/images/companies/nerdconf.jpg",
+      "website": "https://www.nerdconf.com/"
+    },
+    {
+      "id": "75909d20-420b-49e7-baad-8cba3eb3b980",
+      "name": "Sartorial",
+      "logoUrl": "/images/companies/sar.png",
+      "website": "https://www.sartori.al/"
+    },
+    {
+      "id": "c9bcd923-e0d8-42c5-b5c3-a29e9fb80f5b",
+      "name": "Venture Bridge Hub",
+      "logoUrl": "/images/companies/venture-bridge-hub.png",
+      "website": "https://venturebridgehub.com"
+    },
+    {
+      "id": "a613145a-9734-4a22-9873-f71f1d8be1c8",
+      "name": "We Are Developers",
+      "logoUrl": "/images/companies/we-are-developers.jpg",
+      "website": "https://www.wearedevelopers.com/"
+    }
+  ]
+}

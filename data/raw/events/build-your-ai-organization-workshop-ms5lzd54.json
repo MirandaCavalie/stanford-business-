@@ -1,0 +1,199 @@
+{
+  "event": {
+    "id": "5dc60e5c-3be8-4f42-8b28-de48fa1f1a7a",
+    "slug": "build-your-ai-organization-workshop-ms5lzd54",
+    "name": "Build your AI Organization Workshop",
+    "type": "workshop",
+    "description": "Learn how to create AI agents that can help with real business tasks. In this hands-on workshop, you will explore how AI can automate workflows, support teams, and improve daily operations. Use Kylon to create agents and Nebius for cloud compute.\n\nYou will see real examples, build your own AI agent with guidance from the Kylon team, and learn how to use AI for practical business use cases.\n\nNo advanced AI experience is needed — just bring your laptop and ideas for tasks you want to automate.",
+    "theme": "",
+    "dayLabel": "Fri, Jul 24",
+    "eventDate": "2026-07-24",
+    "endDate": "2026-07-24",
+    "startTime": "18:00:00",
+    "endTime": "21:00:00",
+    "location": "Homebrew Club, 111 Maiden Ln #540, San Francisco, CA 94108",
+    "locationLat": null,
+    "locationLng": null,
+    "coverImageUrl": "/images/covers/build-your-ai-organization-workshop.png",
+    "coverPageUrl": "",
+    "lumaLink": null,
+    "eventbriteLink": null,
+    "groupLink": "",
+    "isPartnerEvent": false,
+    "isPublished": true,
+    "createdAt": "2026-07-27T05:05:23.050Z",
+    "updatedAt": "2026-08-07T09:15:07.878Z",
+    "lumaLinks": [],
+    "eventbriteLinks": []
+  },
+  "tracks": [],
+  "sponsors": [
+    {
+      "id": "a91d7871-821f-4d7f-8062-a71ad34dfa6c",
+      "companyName": "Kylon",
+      "companyWebsite": "https://kylon.io/",
+      "companyLogo": "/images/companies/kylon.png",
+      "companyDescription": "​Kylon is an AI agent team that runs your entire business.",
+      "representatives": [
+        {
+          "username": "Christina Bowllan",
+          "linkedin": "https://www.linkedin.com/in/christina-bowllan-074563177/",
+          "role": "Founding Team",
+          "companyName": "Kylon"
+        },
+        {
+          "username": "Quinn Leng",
+          "linkedin": "https://www.linkedin.com/in/suanmiao/",
+          "role": "Co-Founder",
+          "companyName": "Kylon"
+        }
+      ]
+    },
+    {
+      "id": "0bac90a5-861b-4ec3-83d4-d8c51ee41ac2",
+      "companyName": "Nebius",
+      "companyWebsite": "https://nebius.com/",
+      "companyLogo": "/images/companies/nebius.png",
+      "companyDescription": "​Nebius provides full-stack AI cloud infrastructure for developers, startups, enterprises, and research teams. Its platform helps teams build, train, and deploy AI products in a secure, high-performance, and cost-efficient environment.",
+      "representatives": [
+        {
+          "username": "Colin Lowenberg",
+          "linkedin": "https://www.linkedin.com/in/wifi/",
+          "role": "DevRel",
+          "companyName": "Nebius"
+        }
+      ]
+    }
+  ],
+  "partners": [
+    {
+      "id": "4fccab31-dac2-406d-a468-87c19b6ad9eb",
+      "partnerType": "venue",
+      "customType": null,
+      "companyName": "Homebrew Club",
+      "companyWebsite": "https://homebrewclub.berrry.app/",
+      "companyLogo": "/images/companies/homebrew-club.jpg",
+      "companyDescription": "Homebrew Club is a modern co-working space designed for founders, creators, freelancers, and professionals looking for a productive environment to work, collaborate, and build. It provides flexible workspaces, a vibrant community, and resources that help individuals and teams grow their ideas into successful ventures.",
+      "representatives": []
+    }
+  ],
+  "prizes": [],
+  "schedule": [],
+  "speakers": [],
+  "judges": [],
+  "hosts": [
+    {
+      "username": "Saurabh Khire",
+      "linkedin": "https://www.linkedin.com/in/saurabhkhire",
+      "hostType": "host",
+      "customType": null,
+      "role": null,
+      "title": "Founder",
+      "companyName": "Crewbase Collective"
+    },
+    {
+      "username": "Ayush Ojha",
+      "linkedin": "https://www.linkedin.com/in/ayushozha/",
+      "hostType": "host",
+      "customType": null,
+      "role": null,
+      "title": "Devrel",
+      "companyName": "Wasmer"
+    },
+    {
+      "username": "Amitabh Das",
+      "linkedin": "https://www.linkedin.com/in/das-amitabh/",
+      "hostType": "host",
+      "customType": null,
+      "role": null,
+      "title": "Founder",
+      "companyName": "Agent OS"
+    },
+    {
+      "username": "Quinn Leng",
+      "linkedin": "https://www.linkedin.com/in/suanmiao/",
+      "hostType": "host",
+      "customType": null,
+      "role": null,
+      "title": "Co-Founder",
+      "companyName": "Kylon"
+    },
+    {
+      "username": "Colin Lowenberg",
+      "linkedin": "https://www.linkedin.com/in/wifi/",
+      "hostType": "host",
+      "customType": null,
+      "role": null,
+      "title": "DevRel",
+      "companyName": "Nebius"
+    },
+    {
+      "username": "Christina Bowllan",
+      "linkedin": "https://www.linkedin.com/in/christina-bowllan-074563177/",
+      "hostType": "host",
+      "customType": null,
+      "role": null,
+      "title": "Founding Team",
+      "companyName": "Kylon"
+    },
+    {
+      "username": "Chelsey Huang",
+      "linkedin": "https://www.linkedin.com/in/chenxi-huang-017107327/",
+      "hostType": "host",
+      "customType": null,
+      "role": null,
+      "title": "Co-Founder",
+      "companyName": "Finchip AI"
+    },
+    {
+      "username": "Coco Wang",
+      "linkedin": "https://www.linkedin.com/in/coco-wang-28781b87/",
+      "hostType": "host",
+      "customType": null,
+      "role": null,
+      "title": "GTM",
+      "companyName": "Finchip AI"
+    }
+  ],
+  "volunteers": [],
+  "team": [],
+  "links": [],
+  "photos": [
+    {
+      "id": "4f3a40c3-3a71-4001-9a11-63eb50b3c330",
+      "imageUrl": "/images/events/build-your-ai-organization-workshop/WhatsApp Image 2026-07-28 at 4.46.31 AM.jpeg",
+      "caption": null,
+      "sortOrder": 0
+    },
+    {
+      "id": "61e0b897-ef19-4261-93d9-e88df26eec90",
+      "imageUrl": "/images/events/build-your-ai-organization-workshop/WhatsApp Image 2026-07-28 at 4.46.30 AM (3).jpeg",
+      "caption": null,
+      "sortOrder": 1
+    },
+    {
+      "id": "c947b548-1455-4e54-b56f-c741eecb8f61",
+      "imageUrl": "/images/events/build-your-ai-organization-workshop/WhatsApp Image 2026-07-28 at 4.46.30 AM (2).jpeg",
+      "caption": null,
+      "sortOrder": 2
+    },
+    {
+      "id": "9b766c9f-4574-4676-923b-4ca5439975e6",
+      "imageUrl": "/images/events/build-your-ai-organization-workshop/WhatsApp Image 2026-07-28 at 4.46.31 AM (2).jpeg",
+      "caption": null,
+      "sortOrder": 3
+    },
+    {
+      "id": "5e79d281-a99a-4dae-98cc-453314ddf96a",
+      "imageUrl": "/images/events/build-your-ai-organization-workshop/WhatsApp Image 2026-07-28 at 4.46.30 AM (1).jpeg",
+      "caption": null,
+      "sortOrder": 4
+    },
+    {
+      "id": "ac5b3bb4-695e-414f-a0a2-47fd18449ed5",
+      "imageUrl": "/images/events/build-your-ai-organization-workshop/WhatsApp Image 2026-07-28 at 4.46.30 AM.jpeg",
+      "caption": null,
+      "sortOrder": 5
+    }
+  ]
+}

@@ -1,0 +1,3329 @@
+[
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "tenki",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "aria-ailearning",
+  "org_id": "adal",
+  "rep_company": "AdaL"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon",
+  "rep_company": "Kylon"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai",
+  "rep_company": "Finchip AI"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "sofia-kao",
+  "org_id": "flatkey",
+  "rep_company": "Flatkey"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "irkapawlowski",
+  "org_id": "prelint",
+  "rep_company": "Prelint"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "stefano-manese",
+  "org_id": "n8n",
+  "rep_company": "N8N"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "jiayu-jasper-shi",
+  "org_id": "paritok",
+  "rep_company": "Paritok"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "luzhuochen",
+  "org_id": "paritok",
+  "rep_company": "Paritok"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "jjgarza",
+  "org_id": "synk",
+  "rep_company": "Synk"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "oceanseth",
+  "org_id": "maskyai",
+  "rep_company": "Masky AI"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "ofermend",
+  "org_id": "band",
+  "rep_company": "BAND"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "yezhisaim",
+  "org_id": "askthew",
+  "rep_company": "Ask the W"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "jakobprince",
+  "org_id": "promptql",
+  "rep_company": "PromptQL"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "mslauraliu",
+  "org_id": "promptql",
+  "rep_company": "PromptQL"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "mansimore9",
+  "org_id": "rocketride",
+  "rep_company": "RocketRide"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "aniketmaurya",
+  "org_id": "celestoai",
+  "rep_company": "Celesto AI"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "sponsor",
+  "person_id": "xiaog100",
+  "org_id": "glasser",
+  "rep_company": "Glasser"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:community",
+  "person_id": "annieliaoo",
+  "org_id": "buildclub",
+  "rep_company": "BuildClub"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "amazon"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:community",
+  "person_id": "sumitjagdale",
+  "org_id": "sartorial",
+  "rep_company": "Sartorial"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:community",
+  "person_id": "ashkumra",
+  "org_id": "aicollective",
+  "rep_company": "AI Collective"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:community",
+  "person_id": "vinwanfan",
+  "org_id": "bridgeus",
+  "rep_company": "BridgeUS"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:community",
+  "person_id": "yungang-gary-li",
+  "org_id": "articulerai",
+  "rep_company": "Articuler AI"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:community",
+  "person_id": "aviral-bhardwaj",
+  "org_id": "devnovate",
+  "rep_company": "Devnovate"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:community",
+  "person_id": "dcampbell1987",
+  "org_id": "medallionsubstack",
+  "rep_company": "Medallion Substack"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:community",
+  "person_id": "misslers",
+  "org_id": "marvellous",
+  "rep_company": "AI Builders"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:community",
+  "person_id": "sahar-mor",
+  "org_id": "bondai",
+  "rep_company": "Bond AI"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "partner:community",
+  "person_id": "jessicazhang999",
+  "org_id": "genaiassembling",
+  "rep_company": "GenAI Assembling"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "aria-ailearning",
+  "org_id": "adal"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "sumitjagdale",
+  "org_id": "sartorial"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "vincekohli",
+  "org_id": "googledeepmind"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "misslers",
+  "org_id": "aibuilders"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "anyakaryaozmen",
+  "org_id": "gameer"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "ali-amjad-a80732137",
+  "org_id": "r42group"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "hayoungclairekwon",
+  "org_id": "sanfranciscogeneralintelligencelaboratory"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "irkapawlowski",
+  "org_id": "prelint"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "jiayu-jasper-shi",
+  "org_id": "paritok"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "luzhuochen",
+  "org_id": "paritok"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "oceanseth",
+  "org_id": "maskyai"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "ofermend",
+  "org_id": "band"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "chetansandeeprenu",
+  "org_id": "superhuman"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "jakobprince",
+  "org_id": "promptql"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "hannahkwon1",
+  "org_id": "amazon"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "yezhisaim",
+  "org_id": "askthew"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "mansimore9",
+  "org_id": "rocketride"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "aniketmaurya",
+  "org_id": "celestoai"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "mslauraliu",
+  "org_id": "promptql"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "xiaog100",
+  "org_id": "glasser"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "bhavyagpt",
+  "org_id": "stanford"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "ravi-kiran-b800991a5",
+  "org_id": "amazonwebservices"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "anna-halianovska-3202723bb",
+  "org_id": "startupvalley"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "vibhu-dixit-swe",
+  "org_id": "casuro"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "judge",
+  "person_id": "sarah-hatcher-ai",
+  "org_id": "kripkeandhumantechnologyallianceinstitute"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "mansimore9",
+  "org_id": "rocketride",
+  "topic": "Create No Code Pipelines with RocketRide"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "misslers",
+  "org_id": "aibuilders",
+  "topic": "How Marvellous finds Right people"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "jakobprince",
+  "org_id": "promptql",
+  "topic": "Bots meet humans in PromptQL"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "gary-yangge",
+  "org_id": "finchipai",
+  "topic": "Agents and Skills marketplace in Finch"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "aniketmaurya",
+  "org_id": "celestoai",
+  "topic": "Sandbox in Celesto AI"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "jjgarza",
+  "org_id": "synk",
+  "topic": "Secure Code and Agents with Synk"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "aria-ailearning",
+  "org_id": "adal",
+  "topic": "Coding with Agents in AdaL"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "topic": "Sandbox and PR Review in Tenki"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "oceanseth",
+  "org_id": "maskyai",
+  "topic": "Create AI Avatars and Health with Masky"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "xiaog100",
+  "org_id": "glasser",
+  "topic": "AI agent access to people, company, web search data in Glasser"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "sumitjagdale",
+  "org_id": "sartorial",
+  "topic": "Agentic shopping with Sartorial"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "jiayu-jasper-shi",
+  "org_id": "paritok",
+  "topic": "Compress Tools with Paritok"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "irkapawlowski",
+  "org_id": "prelint",
+  "topic": "Review, Record and Trace every decision in Prelint"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "sofia-kao",
+  "org_id": "flatkey",
+  "topic": "Reduce token cost with Flatkey"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Create AI Agent Team to run a Business in Kylon"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Create No code pipelines in cloud using N8N"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Communication between Agents using BAND"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "speaker",
+  "person_id": "ashkumra",
+  "org_id": "aicollective",
+  "topic": "About AI Collective"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "host",
+  "person_id": "yingxuan-selina-bian",
+  "org_id": "stealth"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "host",
+  "person_id": "annieliaoo",
+  "org_id": "buildclub"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "host",
+  "person_id": "aria-ailearning",
+  "org_id": "adal"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "host",
+  "person_id": "aviral-bhardwaj",
+  "org_id": "devnovate"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "host",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "universal-hackathon-mvebl5cy",
+  "role": "host",
+  "person_id": "mansimore9",
+  "org_id": "rocketride"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon",
+  "rep_company": "Kylon"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "tenki",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai",
+  "rep_company": "Finchip AI"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "mansimore9",
+  "org_id": "rocketride",
+  "rep_company": "RocketRide"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "aria-ailearning",
+  "org_id": "adal",
+  "rep_company": "AdaL"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "luzhuochen",
+  "org_id": "paritok",
+  "rep_company": "Paritok"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "jiayu-jasper-shi",
+  "org_id": "paritok",
+  "rep_company": "Paritok"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "irkapawlowski",
+  "org_id": "prelint",
+  "rep_company": "Prelint"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "petroshong",
+  "org_id": "apify",
+  "rep_company": "Apify"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge",
+  "rep_company": "InsForge"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "voisekey"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "querit"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "ofermend",
+  "org_id": "band",
+  "rep_company": "BAND"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "yezhisaim",
+  "org_id": "askthew",
+  "rep_company": "Ask the W"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "sponsor",
+  "person_id": "xiaog100",
+  "org_id": "glasser",
+  "rep_company": "Glasser"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": "adeep-chooramun",
+  "org_id": "venturebridgehub",
+  "rep_company": "Venture Bridge Hub"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": "alex-marin-83b369113",
+  "org_id": "nerdconf",
+  "rep_company": "NerdConf"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": "vinwanfan",
+  "org_id": "bridgeus",
+  "rep_company": "BridgeUS"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": "yungang-gary-li",
+  "org_id": "articulerai",
+  "rep_company": "Articuler AI"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": "aviral-bhardwaj",
+  "org_id": "devnovate",
+  "rep_company": "Devnovate"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": "sumitjagdale",
+  "org_id": "sartorial",
+  "rep_company": "Sartorial"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": "dcampbell1987",
+  "org_id": "medallionsubstack",
+  "rep_company": "Medallion Substack"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": "sahar-mor",
+  "org_id": "bondai",
+  "rep_company": "Bond AI"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": "petroshong",
+  "org_id": "apify",
+  "rep_company": "Apify"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": null,
+  "org_id": "box"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "partner:community",
+  "person_id": "annieliaoo",
+  "org_id": "buildclub",
+  "rep_company": "BuildClub"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "sumitjagdale",
+  "org_id": "sartorial"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "vincekohli",
+  "org_id": "googledeepmind"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "misslers",
+  "org_id": "aibuilders"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "anyakaryaozmen",
+  "org_id": "gameer"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "ali-amjad-a80732137",
+  "org_id": "r42group"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "hayoungclairekwon",
+  "org_id": "sanfranciscogeneralintelligencelaboratory"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "aria-ailearning",
+  "org_id": "adal"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "luzhuochen",
+  "org_id": "paritok"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "jiayu-jasper-shi",
+  "org_id": "paritok"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "irkapawlowski",
+  "org_id": "prelint"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "petroshong",
+  "org_id": "apify"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "ofermend",
+  "org_id": "band"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "hannahkwon1",
+  "org_id": "amazon"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "yezhisaim",
+  "org_id": "askthew"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "ali-amjad-a80732137a",
+  "org_id": "r42group"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "ali-amjad-a80732137a",
+  "org_id": "r42group"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "zhilinglim",
+  "org_id": "attrilo"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "xiaog100",
+  "org_id": "glasser"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "judge",
+  "person_id": "sarah-hatcher-ai",
+  "org_id": "kripkeandhumantechnologyallianceinstitute"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "jiayu-jasper-shi",
+  "org_id": "paritok",
+  "topic": "Compress tools with Paritok"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Coding with Agents in AdaL"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon",
+  "topic": "Create team of AI Agents with Kylon"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "irkapawlowski",
+  "org_id": "prelint",
+  "topic": "Review, Record and Trace every decision with Prelint"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "mansimore9",
+  "org_id": "rocketride",
+  "topic": "Create No code pipelines with Rocket Ride"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "topic": "Sandboxes and code review with Tenki"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai",
+  "topic": "Agents and Skills marketplace with Finch"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge",
+  "topic": "Agent Native Backend in Insforge"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Communication between agents using BAND"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "sahar-mor",
+  "org_id": "bondai",
+  "topic": "Voice to prompt with Voisekey"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "sahar-mor",
+  "org_id": "bondai",
+  "topic": "Web Search with Querit"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "petroshong",
+  "org_id": "apify",
+  "topic": "Web scrapper marketplace in Apify"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "speaker",
+  "person_id": "sahar-mor",
+  "org_id": "bondai",
+  "topic": "Prompt with Box"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "host",
+  "person_id": "dcampbell1987",
+  "org_id": "medallionsubstack"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "host",
+  "person_id": "vinwanfan",
+  "org_id": "bridgeus"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "host",
+  "person_id": "mansimore9",
+  "org_id": "rocketride"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "host",
+  "person_id": "aviral-bhardwaj",
+  "org_id": "devnovate"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "host",
+  "person_id": "aria-ailearning",
+  "org_id": "adal"
+ },
+ {
+  "event_id": "zero-human-startup-hackathon-mvd90q80",
+  "role": "host",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "sponsor",
+  "person_id": "aria-ailearning",
+  "org_id": "adal",
+  "rep_company": "AdaL"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "tenki",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "sponsor",
+  "person_id": "yezhisaim",
+  "org_id": "askthew",
+  "rep_company": "Ask the W"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "aisaone",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "partner:community",
+  "person_id": "aviral-bhardwaj",
+  "org_id": "devnovate",
+  "rep_company": "Devnovate"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "partner:community",
+  "person_id": "sumitjagdale",
+  "org_id": "sartorial",
+  "rep_company": "Sartorial"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "partner:community",
+  "person_id": "vinwanfan",
+  "org_id": "bridgeus",
+  "rep_company": "BridgeUS"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "partner:community",
+  "person_id": "yungang-gary-li",
+  "org_id": "articulerai",
+  "rep_company": "Articuler AI"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "partner:venue",
+  "person_id": "aiglobalcampus",
+  "org_id": "aiglobalcampus",
+  "rep_company": "AI Global Campus"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "yezhisaim",
+  "org_id": "askthew"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "wifi",
+  "org_id": "nebius"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "vincekohli",
+  "org_id": "googledeepmind"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "sumitjagdale",
+  "org_id": "sartorial"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "miadiyang",
+  "org_id": "baiduusa"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "ashbao",
+  "org_id": "gruve"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "anyakaryaozmen",
+  "org_id": "gameer"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "davidy-li",
+  "org_id": "inductionlabs"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "misslers",
+  "org_id": "aibuilders"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "judge",
+  "person_id": "yunruizhu",
+  "org_id": "meitu"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Coding with AdaL"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "speaker",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "topic": "Code review with Tenki, Cloud compute with Nebius and Store with AIsa"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "speaker",
+  "person_id": "yezhisaim",
+  "org_id": "askthew",
+  "topic": "Ideas to Execution using Ask the W"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "host",
+  "person_id": "yingxuan-selina-bian",
+  "org_id": "stealth"
+ },
+ {
+  "event_id": "build-your-co-founder-hackathon-mvd95cmu",
+  "role": "host",
+  "person_id": "angie0209",
+  "org_id": "codeadvantage"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "saurabhkhire",
+  "org_id": "kylon",
+  "rep_company": "Crewbase Collective"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon",
+  "rep_company": "Kylon"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "tenki",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "ayushozha",
+  "org_id": "wasmer",
+  "rep_company": "Wasmer"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "yezhisaim",
+  "org_id": "askthew",
+  "rep_company": "Ask the W"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "mansimore9",
+  "org_id": "rocketride",
+  "rep_company": "RocketRide"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "gary-yangge",
+  "org_id": "finchipai",
+  "rep_company": "Finchip AI"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "martinabeg",
+  "org_id": "finchipai",
+  "rep_company": "Abaka AI"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "sofia-kao",
+  "org_id": "flatkey",
+  "rep_company": "Flatkey"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "jakobprince",
+  "org_id": "promptql",
+  "rep_company": "PromptQL"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "robinmeister",
+  "org_id": "unlimit",
+  "rep_company": "Unlimit"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "sumitjagdale",
+  "org_id": "sartorial",
+  "rep_company": "Sartorial"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "aria-ailearning",
+  "org_id": "adal",
+  "rep_company": "AdaL"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "kaia-colban-13a415a2",
+  "org_id": "lore",
+  "rep_company": "Lore"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "seaner",
+  "org_id": "lightsage",
+  "rep_company": "LightSage"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "sponsor",
+  "person_id": "jason-gellman",
+  "org_id": "massive",
+  "rep_company": "Massive"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "partner:community",
+  "person_id": "seanchiuai",
+  "org_id": "builderbase",
+  "rep_company": "Builder Base"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "partner:community",
+  "person_id": "yungang-gary-li",
+  "org_id": "articulerai",
+  "rep_company": "Articuler AI"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "partner:community",
+  "person_id": "alex-marin-83b369113",
+  "org_id": "nerdconf",
+  "rep_company": "NerdConf"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "partner:community",
+  "person_id": "deepakchawla1307",
+  "org_id": "aihouse",
+  "rep_company": "AIHouse"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "partner:community",
+  "person_id": "vinwanfan",
+  "org_id": "bridgeus",
+  "rep_company": "BridgeUS"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "partner:community",
+  "person_id": "jdshulman",
+  "org_id": "wearedevelopers",
+  "rep_company": "We Are Developers"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "vincekohli",
+  "org_id": "googledeepmind",
+  "topic": "Introduction and Physical AI Room"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "seanchiuai",
+  "org_id": "builderbase",
+  "topic": "How organizers can create better events using BuilderBase"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Create AI Agents team using Kylon"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "topic": "Run code and AI workloads reliably in sandboxes or cloud compute using runners using Tenki"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "sofia-kao",
+  "org_id": "flatkey",
+  "topic": "Access hundreds of AI models through one API and compare their results, speed, and cost using Flatkey"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "gary-yangge",
+  "org_id": "finchipai",
+  "topic": "Give AI agents reusable skills to perform specific tasks more reliably using Finchip"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "yezhisaim",
+  "org_id": "askthew",
+  "topic": "Figure out what to build with AI, what to automate, and where humans add the most value with Ask the W"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "mansimore9",
+  "org_id": "rocketride",
+  "topic": "Build AI and data pipelines directly in your IDE, from raw data to structured output with RocketRide"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "sumitjagdale",
+  "org_id": "sartorial",
+  "topic": "Discover and recommend products using context like fit, color, material, reviews, and images in Sartorial"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "ayushozha",
+  "org_id": "wasmer",
+  "topic": "Package and run code anywhere with WebAssembly using Wasmer"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "jakobprince",
+  "org_id": "promptql",
+  "topic": "Turn team conversations and questions into actionable results with AI with PromptQL"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "robinmeister",
+  "org_id": "unlimit",
+  "topic": "Move money across borders by connecting global payments, financial accounts, and digital asset rails"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "kaia-colban-13a415a2",
+  "org_id": "lore",
+  "topic": "Bring people and AI agents together to collaborate on work-in-progress and learn from each other with Lore"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "jason-gellman",
+  "org_id": "massive",
+  "topic": "Give AI agents reliable, real-time access to the web across 195+ countries with Massive"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "seaner",
+  "org_id": "lightsage",
+  "topic": "Help AI agents discover, evaluate, and use your APIs, CLIs, and MCPs more effectively. in LightSage"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "speaker",
+  "person_id": "vinwanfan",
+  "org_id": "bridgeus",
+  "topic": "Match right people using BridgeUs"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "host",
+  "person_id": "seanchiuai",
+  "org_id": "builderbase"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "host",
+  "person_id": "mansimore9",
+  "org_id": "rocketride"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "host",
+  "person_id": "kaia-colban-13a415a2",
+  "org_id": "lore"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "host",
+  "person_id": "aria-ailearning",
+  "org_id": "adal"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "host",
+  "person_id": "vinwanfan",
+  "org_id": "bridgeus"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "host",
+  "person_id": "alex-marin-83b369113",
+  "org_id": "nerdconf"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "host",
+  "person_id": "yungang-gary-li",
+  "org_id": "articulerai"
+ },
+ {
+  "event_id": "buildfest-demos-and-challenges-muj6rws3",
+  "role": "host",
+  "person_id": "wifi",
+  "org_id": "nebius"
+ },
+ {
+  "event_id": "founders-gathering-mtsfqypq",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "founders-gathering-mtsfqypq",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "builders-campfire-msis058w",
+  "role": "sponsor",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon",
+  "rep_company": "Kylon"
+ },
+ {
+  "event_id": "builders-campfire-msis058w",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "cresca"
+ },
+ {
+  "event_id": "builders-campfire-msis058w",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "builders-campfire-msis058w",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "builders-campfire-msis058w",
+  "role": "host",
+  "person_id": "stella-xiao",
+  "org_id": "satorial"
+ },
+ {
+  "event_id": "builders-campfire-msis058w",
+  "role": "host",
+  "person_id": "kimsondoan",
+  "org_id": "katariadigital"
+ },
+ {
+  "event_id": "builders-campfire-msis058w",
+  "role": "host",
+  "person_id": "robinmeister",
+  "org_id": "unlimit"
+ },
+ {
+  "event_id": "builders-campfire-msis058w",
+  "role": "host",
+  "person_id": "ruomengsun",
+  "org_id": "photoncodes"
+ },
+ {
+  "event_id": "builders-campfire-msis058w",
+  "role": "host",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "sponsor",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon",
+  "rep_company": "Kylon"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "sponsor",
+  "person_id": "suanmiao",
+  "org_id": "kylon",
+  "rep_company": "Kylon"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "host",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "host",
+  "person_id": "suanmiao",
+  "org_id": "kylon"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "host",
+  "person_id": "wifi",
+  "org_id": "nebius"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "host",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "host",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "build-your-ai-organization-workshop-ms5lzd54",
+  "role": "host",
+  "person_id": "coco-wang-28781b87",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "sponsor",
+  "person_id": "alicanacar",
+  "org_id": "autonomlayer",
+  "rep_company": "AutonomLayer"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "sponsor",
+  "person_id": "jjgarza",
+  "org_id": "synk",
+  "rep_company": "Synk"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "sponsor",
+  "person_id": "natalia-mendez-0425a6212",
+  "org_id": "synk",
+  "rep_company": "Synk"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "sponsor",
+  "person_id": "emily-viscia-483043269",
+  "org_id": "synk",
+  "rep_company": "Synk"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "sponsor",
+  "person_id": "coco-wang-28781b87",
+  "org_id": "finchipai",
+  "rep_company": "Finchip AI"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "sponsor",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai",
+  "rep_company": "Finchip AI"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "host",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "host",
+  "person_id": "coco-wang-28781b87",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "host",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "host",
+  "person_id": "alicanacar",
+  "org_id": "autonomlayer"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "host",
+  "person_id": "jjgarza",
+  "org_id": "synk"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "host",
+  "person_id": "natalia-mendez-0425a6212",
+  "org_id": "synk"
+ },
+ {
+  "event_id": "prompt-to-production-ai-builders-secure-code-and-skills-workshop-ms5m210p",
+  "role": "host",
+  "person_id": "emily-viscia-483043269",
+  "org_id": "synk"
+ },
+ {
+  "event_id": "design-deploy-workshop-ms5mfqce",
+  "role": "sponsor",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge",
+  "rep_company": "InsForge"
+ },
+ {
+  "event_id": "design-deploy-workshop-ms5mfqce",
+  "role": "sponsor",
+  "person_id": "reneturcios",
+  "org_id": "replit",
+  "rep_company": "Replit"
+ },
+ {
+  "event_id": "design-deploy-workshop-ms5mfqce",
+  "role": "sponsor",
+  "person_id": "saurabhkhire",
+  "org_id": "replit",
+  "rep_company": "Crewbase Collective"
+ },
+ {
+  "event_id": "design-deploy-workshop-ms5mfqce",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "lovable"
+ },
+ {
+  "event_id": "design-deploy-workshop-ms5mfqce",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "googleaistudio"
+ },
+ {
+  "event_id": "design-deploy-workshop-ms5mfqce",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "design-deploy-workshop-ms5mfqce",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "design-deploy-workshop-ms5mfqce",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "design-deploy-workshop-ms5mfqce",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "design-deploy-workshop-ms5mfqce",
+  "role": "host",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "sponsor",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge",
+  "rep_company": "InsForge"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "lyzr"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "aihouse"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "qdrant"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "enkryptai"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "judge",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "judge",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "judge",
+  "person_id": "zhilinglim",
+  "org_id": "attrilo"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "judge",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "judge",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "sports-world-cup-hackathon-ms5uqqxw",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "tavily",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge",
+  "rep_company": "InsForge"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "wei-dou-2b15a628b",
+  "org_id": "insforge",
+  "rep_company": "InsForge"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "can-lyu-3039aa140",
+  "org_id": "insforge",
+  "rep_company": "InsForge"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon",
+  "rep_company": "Kylon"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "suanmiao",
+  "org_id": "kylon",
+  "rep_company": "Kylon"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "nimble"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "juanfelipecampos",
+  "org_id": "growthmasters",
+  "rep_company": "GrowthMasters"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "evareder",
+  "org_id": "growthmasters",
+  "rep_company": "GrowthMasters"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "iharnoor",
+  "org_id": "hydradb",
+  "rep_company": "HydraDB"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "dnielsen",
+  "org_id": "cognee",
+  "rep_company": "Cognee"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "ofermend",
+  "org_id": "band",
+  "rep_company": "BAND"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "marianebekker",
+  "org_id": "youcom",
+  "rep_company": "You.com"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "madison-lee-a31234126",
+  "org_id": "youcom",
+  "rep_company": "You.com"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "aviral-bhardwaj",
+  "org_id": "rocketride",
+  "rep_company": "Devnovate"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "mansimore9",
+  "org_id": "rocketride",
+  "rep_company": "RocketRide"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "coco-wang-28781b87",
+  "org_id": "finchipai",
+  "rep_company": "Finchip AI"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai",
+  "rep_company": "Finchip AI"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "saurabhkhire",
+  "org_id": "govia",
+  "rep_company": "Crewbase Collective"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "sponsor",
+  "person_id": "das-amitabh",
+  "org_id": "agentos",
+  "rep_company": "Agent OS"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "amazon"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "partner:community",
+  "person_id": "aviral-bhardwaj",
+  "org_id": "devnovate",
+  "rep_company": "Devnovate"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "wifi",
+  "org_id": "nebius"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "wei-dou-2b15a628b",
+  "org_id": "insforge"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "can-lyu-3039aa140",
+  "org_id": "insforge"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "christina-bowllan-074563177",
+  "org_id": "kylon"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "suanmiao",
+  "org_id": "kylon"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "juanfelipecampos",
+  "org_id": "growthmasters"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "evareder",
+  "org_id": "growthmasters"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "iharnoor",
+  "org_id": "hydradb"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "dnielsen",
+  "org_id": "cognee"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "ofermend",
+  "org_id": "band"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "anyakaryaozmen",
+  "org_id": "gameer"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "baradas",
+  "org_id": "mason"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "dathan-guiley",
+  "org_id": "wildlifeagencyllc"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "devindersodhi",
+  "org_id": "learninglayerlabs"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "elaine-hladik",
+  "org_id": "clera"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "fabian-c-544a10276",
+  "org_id": "clera"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "eshaangulati",
+  "org_id": "argide"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "gunjan-ramteke-18276642",
+  "org_id": "amazon"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "katherine-brough-751682113",
+  "org_id": "nupathai"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "katherine-siyi-gao-853095204",
+  "org_id": "stealth"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "kollaikalrupesh",
+  "org_id": "wayline"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "misslers",
+  "org_id": "aibuilders"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "shouvik-sharma",
+  "org_id": "chime"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "ruomengsun",
+  "org_id": "photoncodes"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "vincekohli",
+  "org_id": "googledeepmind"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "zhilinglim",
+  "org_id": "attrilo"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "marianebekker",
+  "org_id": "youcom"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "madison-lee-a31234126",
+  "org_id": "youcom"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "alice-shikova-36a708194",
+  "org_id": "spaceid"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "judge",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "wei-dou-2b15a628b",
+  "org_id": "insforge",
+  "topic": "Agent-native backend in InsForge"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "misslers",
+  "org_id": "aibuilders",
+  "topic": "AI ecosystem for founder and investors in AI Insiders"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "iharnoor",
+  "org_id": "hydradb",
+  "topic": "AI Agents and Memory Layer in HydraDB"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "topic": "Nebius AI cloud and Tavily"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "das-amitabh",
+  "org_id": "agentos",
+  "topic": "AI Agent Operating system in AgentOS"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "alice-shikova-36a708194",
+  "org_id": "spaceid",
+  "topic": "GTM for AI Companies in Space ID"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Safety app for police encounters using Govia"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai",
+  "topic": "AI Skills in FinChip"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "mansimore9",
+  "org_id": "rocketride",
+  "topic": "Deploy AI pipelines directly inside your IDE with Rocket Ride"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "evareder",
+  "org_id": "growthmasters",
+  "topic": "Create AI Agents for business in Kylon, web search in Nimble and Growthmasters"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Web search to AI applications in You.com"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Enterprise AI collaboration platform in BAND"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Persistent memory for AI agents in Cognee"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "host",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "host",
+  "person_id": "coco-wang-28781b87",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "host",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "host",
+  "person_id": "robinmeister",
+  "org_id": "unlimit"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "volunteer",
+  "person_id": "elaine-hladik",
+  "org_id": "clera"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "volunteer",
+  "person_id": "wendianwang",
+  "org_id": "welseycollege"
+ },
+ {
+  "event_id": "bay-builders-hackathon-ms5sgpk3",
+  "role": "volunteer",
+  "person_id": "haruka-takamori-morimori",
+  "org_id": "svyal"
+ },
+ {
+  "event_id": "find-your-co-founder-ms5n4l82",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "find-your-co-founder-ms5n4l82",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "find-your-co-founder-ms5n4l82",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "find-your-co-founder-ms5n4l82",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "find-your-co-founder-ms5n4l82",
+  "role": "host",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "find-your-co-founder-ms5n4l82",
+  "role": "host",
+  "person_id": "pramodthebe",
+  "org_id": "hituto"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge",
+  "rep_company": "InsForge"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "wei-dou-2b15a628b",
+  "org_id": "insforge",
+  "rep_company": "InsForge"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "can-lyu-3039aa140",
+  "org_id": "insforge",
+  "rep_company": "InsForge"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "marianebekker",
+  "org_id": "youcom",
+  "rep_company": "You.com"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "madison-lee-a31234126",
+  "org_id": "youcom",
+  "rep_company": "You.com"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "tavily",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "reneturcios",
+  "org_id": "replit",
+  "rep_company": "Replit"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "qi-zhen",
+  "org_id": "trae",
+  "rep_company": "TRAE"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "aminaebraham",
+  "org_id": "growingpies",
+  "rep_company": "Growing Pies"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "saurabhkhire",
+  "org_id": "homebrewclub",
+  "rep_company": "Crewbase Collective"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "gary-yangge",
+  "org_id": "finchipai",
+  "rep_company": "Finchip AI"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "coco-wang-28781b87",
+  "org_id": "finchipai",
+  "rep_company": "Finchip AI"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "sponsor",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai",
+  "rep_company": "Finchip AI"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "frontiertower"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "partner:community",
+  "person_id": "aviral-bhardwaj",
+  "org_id": "devnovate",
+  "rep_company": "Devnovate"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "wifi",
+  "org_id": "nebius"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "wei-dou-2b15a628b",
+  "org_id": "insforge"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "can-lyu-3039aa140",
+  "org_id": "insforge"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "gary-yangge",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "zakowska",
+  "org_id": "dragonsandangelsfund"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "anyakaryaozmen",
+  "org_id": "gameer"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "apurva-jain22",
+  "org_id": "meta"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "dhruvildarji",
+  "org_id": "nvdia"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "gunjan-ramteke-18276642",
+  "org_id": "amazon"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "mahekparvez",
+  "org_id": "instagram"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "katherine-brough-751682113",
+  "org_id": "nupathai"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "kollaikalrupesh",
+  "org_id": "wayline"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "misslers",
+  "org_id": "aibuilders"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "shouvik-sharma",
+  "org_id": "chime"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "vincekohli",
+  "org_id": "googledeepmind"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "qianjiangwork",
+  "org_id": "microsoft"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "marianebekker",
+  "org_id": "youcom"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "madison-lee-a31234126",
+  "org_id": "youcom"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "aminaebraham",
+  "org_id": "growingpies"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "qi-zhen",
+  "org_id": "trae"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "judge",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "speaker",
+  "person_id": "wei-dou-2b15a628b",
+  "org_id": "insforge",
+  "topic": "Agent-native backend in InsForge"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "speaker",
+  "person_id": "gary-yangge",
+  "org_id": "finchipai",
+  "topic": "AI Skills in FinChip"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Deploy apps in Replit"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Safety app for police encounters using Govia"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "speaker",
+  "person_id": "qi-zhen",
+  "org_id": "trae",
+  "topic": "ByteDance AI coding product TRAE"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "speaker",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "topic": "Nebius AI cloud and Tavily"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Web search to AI applications in You.com"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "speaker",
+  "person_id": "ayushozha",
+  "org_id": "wasmer",
+  "topic": "Rules, Tracks and Submission"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "host",
+  "person_id": "chenxi-huang-017107327",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "host",
+  "person_id": "coco-wang-28781b87",
+  "org_id": "finchipai"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "host",
+  "person_id": "aviral-bhardwaj",
+  "org_id": "devnovate"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "host",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "wizard-hackathon-ms5th4d3",
+  "role": "volunteer",
+  "person_id": "wendianwang",
+  "org_id": "welseycollege"
+ },
+ {
+  "event_id": "pitch-competition-ms5mttqr",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "pitch-competition-ms5mttqr",
+  "role": "judge",
+  "person_id": "sarahjjcaffey",
+  "org_id": "ventureforagers"
+ },
+ {
+  "event_id": "pitch-competition-ms5mttqr",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "pitch-competition-ms5mttqr",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "pitch-competition-ms5mttqr",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "pitch-competition-ms5mttqr",
+  "role": "host",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "pitch-competition-ms5mttqr",
+  "role": "host",
+  "person_id": "pramodthebe",
+  "org_id": "hituto"
+ },
+ {
+  "event_id": "co-founder-connections-meet-share-and-build-together-ms5n3uro",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "co-founder-connections-meet-share-and-build-together-ms5n3uro",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "co-founder-connections-meet-share-and-build-together-ms5n3uro",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "co-founder-connections-meet-share-and-build-together-ms5n3uro",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "co-founder-connections-meet-share-and-build-together-ms5n3uro",
+  "role": "host",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "co-founder-connections-meet-share-and-build-together-ms5n3uro",
+  "role": "host",
+  "person_id": "pramodthebe",
+  "org_id": "hituto"
+ },
+ {
+  "event_id": "o1-visa-strategy-and-fireside-chat-ms5q9u76",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "o1assist"
+ },
+ {
+  "event_id": "o1-visa-strategy-and-fireside-chat-ms5q9u76",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "o1-visa-strategy-and-fireside-chat-ms5q9u76",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "o1-visa-strategy-and-fireside-chat-ms5q9u76",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "o1-visa-strategy-and-fireside-chat-ms5q9u76",
+  "role": "host",
+  "person_id": "pramodthebe",
+  "org_id": "hituto"
+ },
+ {
+  "event_id": "o1-visa-strategy-and-fireside-chat-ms5q9u76",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "break-my-product-2-0-ms5ng06m",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "break-my-product-2-0-ms5ng06m",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "break-my-product-2-0-ms5ng06m",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "break-my-product-2-0-ms5ng06m",
+  "role": "host",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "break-my-product-2-0-ms5ng06m",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "break-my-product-2-0-ms5ng06m",
+  "role": "host",
+  "person_id": "pramodthebe",
+  "org_id": "hituto"
+ },
+ {
+  "event_id": "journey-to-founder-and-find-your-co-founder-ms85laqf",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "journey-to-founder-and-find-your-co-founder-ms85laqf",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "journey-to-founder-and-find-your-co-founder-ms85laqf",
+  "role": "host",
+  "person_id": "pramodthebe",
+  "org_id": "hituto"
+ },
+ {
+  "event_id": "journey-to-founder-and-find-your-co-founder-ms85laqf",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "journey-to-founder-and-find-your-co-founder-ms85laqf",
+  "role": "host",
+  "person_id": "das-amitabh",
+  "org_id": "agentos"
+ },
+ {
+  "event_id": "aigo-ai-demo-night-ms5nq0h7",
+  "role": "sponsor",
+  "person_id": null,
+  "org_id": "aigoai"
+ },
+ {
+  "event_id": "aigo-ai-demo-night-ms5nq0h7",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "aigo-ai-demo-night-ms5nq0h7",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "aigo-ai-demo-night-ms5nq0h7",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "aigo-ai-demo-night-ms5nq0h7",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "aigo-ai-demo-night-ms5nq0h7",
+  "role": "host",
+  "person_id": "pramodthebe",
+  "org_id": "hituto"
+ },
+ {
+  "event_id": "break-my-product-ms5njbla",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "homebrewclub"
+ },
+ {
+  "event_id": "break-my-product-ms5njbla",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "break-my-product-ms5njbla",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "break-my-product-ms5njbla",
+  "role": "host",
+  "person_id": "pramodthebe",
+  "org_id": "hituto"
+ },
+ {
+  "event_id": "break-my-product-ms5njbla",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "break-my-product-ms5njbla",
+  "role": "host",
+  "person_id": "ayushozha",
+  "org_id": "wasmer"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "rebecca-burd",
+  "org_id": "tigrisdata",
+  "rep_company": "Tigris Data"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "petroshong",
+  "org_id": "apify",
+  "rep_company": "Apify"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "lukasbekr",
+  "org_id": "apify",
+  "rep_company": "Apify"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "marijan-cipcic-9bab3049",
+  "org_id": "daytona",
+  "rep_company": "Daytona"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "bornaperak",
+  "org_id": "daytona",
+  "rep_company": "Daytona"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "hazalmestci",
+  "org_id": "render",
+  "rep_company": "Render"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge",
+  "rep_company": "InsForge"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "reneturcios",
+  "org_id": "opsera",
+  "rep_company": "Replit"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "arjun-chintapalli",
+  "org_id": "retriverai",
+  "rep_company": "Retriver AI"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "bhavani-kalisetty",
+  "org_id": "retriverai",
+  "rep_company": "Retriver AI"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "tejalrangdal",
+  "org_id": "brain2",
+  "rep_company": "Brain2"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "devon-kelley-0333a674",
+  "org_id": "kalibr",
+  "rep_company": "Kalibr"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "sponsor",
+  "person_id": "wifi",
+  "org_id": "tavily",
+  "rep_company": "Nebius"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "partner:venue",
+  "person_id": null,
+  "org_id": "frontiertower"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "misslers",
+  "org_id": "aibuilders"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "sarahjjcaffey",
+  "org_id": "ventureforagers"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "vincekohli",
+  "org_id": "googledeepmind"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "arjun-chintapalli",
+  "org_id": "retriverai"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "bhavani-kalisetty",
+  "org_id": "retriverai"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "wifi",
+  "org_id": "nebius"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "hazalmestci",
+  "org_id": "render"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "devon-kelley-0333a674",
+  "org_id": "kalibr"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "marijan-cipcic-9bab3049",
+  "org_id": "daytona"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "bornaperak",
+  "org_id": "daytona"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "petroshong",
+  "org_id": "apify"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "lukasbekr",
+  "org_id": "apify"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "judge",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "speaker",
+  "person_id": "wifi",
+  "org_id": "nebius",
+  "topic": "Nebius AI cloud and Tavily"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "speaker",
+  "person_id": "reneturcios",
+  "org_id": "replit",
+  "topic": "AI-Powered DevOps Automation in Opsera"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "speaker",
+  "person_id": "tony-chang-0430",
+  "org_id": "insforge",
+  "topic": "Agent-native backend in InsForge"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "speaker",
+  "person_id": "lukasbekr",
+  "org_id": "apify",
+  "topic": "Web Scraping & Automation in Apify"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "speaker",
+  "person_id": "bornaperak",
+  "org_id": "daytona",
+  "topic": "Cloud Sandbox in Daytona"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "speaker",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective",
+  "topic": "Rules, Tracks & Submission"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "host",
+  "person_id": "abhinandanvasanthin",
+  "org_id": "pacificgasandelectriccompany"
+ },
+ {
+  "event_id": "applied-ai-intelligence-hackathon-ms5uf6tt",
+  "role": "host",
+  "person_id": "saurabhkhire",
+  "org_id": "crewbasecollective"
+ }
+]

@@ -1,0 +1,1430 @@
+[
+ {
+  "id": "abakaai",
+  "name": "Abaka AI",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Abaka AI"
+  ]
+ },
+ {
+  "id": "adal",
+  "name": "AdaL",
+  "website": "https://adalagent.ai/",
+  "logo": "/images/companies/adal.jpg",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "AdaL"
+  ]
+ },
+ {
+  "id": "agentos",
+  "name": "Agent OS",
+  "website": "https://app.theagentos.space/",
+  "logo": "/images/companies/agent-os.jpg",
+  "description": "AgentOS is an operating system for AI agents, built around runtime, observability, security, and evals. It helps teams build agents that are easier to trace, monitor, test, and deploy with more confidence.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Agent OS"
+  ]
+ },
+ {
+  "id": "aibuilders",
+  "name": "AI Builders",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "AI Builders"
+  ]
+ },
+ {
+  "id": "aicollective",
+  "name": "AI Collective",
+  "website": "https://www.aicollective.com/",
+  "logo": "/images/companies/ai-collective.jpg",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "AI Collective"
+  ]
+ },
+ {
+  "id": "aiglobalcampus",
+  "name": "AI Global Campus",
+  "website": "https://aiglobalcampus.com/",
+  "logo": "/images/companies/ai-global-campus.jpg",
+  "description": null,
+  "kinds": [
+   "venue"
+  ],
+  "name_variants": [
+   "AI Global Campus"
+  ]
+ },
+ {
+  "id": "aigoai",
+  "name": "AIGO AI",
+  "website": "https://aigo.ai/",
+  "logo": "/images/companies/aigo-ai.jpg",
+  "description": "Aigo is a Cognitive AI platform focused on building adaptive, self-learning AI systems that go beyond traditional large language models. Instead of relying on massive datasets and probabilistic generation, Aigo emphasizes continuous learning, reasoning, memory, and contextual understanding to create intelligent assistants for enterprise applications",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "AIGO AI"
+  ]
+ },
+ {
+  "id": "aihouse",
+  "name": "AIHouse",
+  "website": "https://www.aihouze.xyz/",
+  "logo": "/images/companies/aihouse.png",
+  "description": "AIHouse is the community layer powering this ecosystem. Built for founders, researchers, engineers, students, and AI enthusiasts, AI House creates a space where people consistently learn, share, collaborate, and grow together.",
+  "kinds": [
+   "community",
+   "sponsor"
+  ],
+  "name_variants": [
+   "AIHouse"
+  ]
+ },
+ {
+  "id": "aisaone",
+  "name": "AISA One",
+  "website": "https://aisa.one/",
+  "logo": "/images/companies/aisa-one.jpg",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "AISA One"
+  ]
+ },
+ {
+  "id": "amazon",
+  "name": "Amazon",
+  "website": "https://www.amazon.com/",
+  "logo": "/images/companies/amazon.png",
+  "description": "Amazon Web Services (AWS) is a leading cloud computing platform that provides on-demand infrastructure, storage, databases, AI services, and developer tools. It enables businesses and developers to build, deploy, and scale applications without managing physical servers.",
+  "kinds": [
+   "venue"
+  ],
+  "name_variants": [
+   "Amazon"
+  ]
+ },
+ {
+  "id": "amazonwebservices",
+  "name": "Amazon Web Services",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Amazon Web Services"
+  ]
+ },
+ {
+  "id": "apify",
+  "name": "Apify",
+  "website": "https://apify.com/",
+  "logo": "/images/companies/apify.png",
+  "description": "Apify is a cloud platform for web scraping, data extraction, and browser automation that helps developers and businesses collect, process, and analyze web data at scale. It provides ready-made tools (Actors) and infrastructure for automating web tasks, crawling websites, and building data pipelines.",
+  "kinds": [
+   "community",
+   "sponsor"
+  ],
+  "name_variants": [
+   "Apify"
+  ]
+ },
+ {
+  "id": "argide",
+  "name": "Argide",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Argide"
+  ]
+ },
+ {
+  "id": "articulerai",
+  "name": "Articuler AI",
+  "website": "https://www.articuler.ai/",
+  "logo": "/images/companies/articuler-ai.png",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "Articuler AI"
+  ]
+ },
+ {
+  "id": "askthew",
+  "name": "Ask the W",
+  "website": "https://askthew.com/",
+  "logo": "/images/companies/ask-the-w.png",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Ask the W"
+  ]
+ },
+ {
+  "id": "attrilo",
+  "name": "Attrilo",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Attrilo"
+  ]
+ },
+ {
+  "id": "autonomlayer",
+  "name": "AutonomLayer",
+  "website": "https://autonomlayer.com/",
+  "logo": "/images/companies/autonomlayer.png",
+  "description": "AutonomLayer is an autonomous AI software engineering platform that goes beyond traditional AI coding assistants. Instead of requiring continuous prompting, it independently plans work, generates and refines prompts, writes code, tests, debugs, reviews, and iterates until an application is production-ready.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "AutonomLayer"
+  ]
+ },
+ {
+  "id": "baiduusa",
+  "name": "Baidu USA",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Baidu USA"
+  ]
+ },
+ {
+  "id": "band",
+  "name": "BAND",
+  "website": "https://www.band.ai/",
+  "logo": "/images/companies/band.png",
+  "description": "BAND is an enterprise-grade interaction layer that enables humans and AI agents to collaborate seamlessly. It provides real-time communication, built-in governance, and a structured framework for managing complex multi-agent systems securely and at scale.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "BAND"
+  ]
+ },
+ {
+  "id": "bondai",
+  "name": "Bond AI",
+  "website": "https://bondcommunity.ai/",
+  "logo": "/images/companies/bond-ai.png",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "Bond AI"
+  ]
+ },
+ {
+  "id": "box",
+  "name": "Box",
+  "website": "https://www.box.com/",
+  "logo": "/images/companies/box.png",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "Box"
+  ]
+ },
+ {
+  "id": "brain2",
+  "name": "Brain2",
+  "website": null,
+  "logo": "/images/companies/brain2.png",
+  "description": "A second brain to help humans liberate their first one",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Brain2"
+  ]
+ },
+ {
+  "id": "bridgeus",
+  "name": "BridgeUS",
+  "website": "https://bridgeus.co",
+  "logo": "/images/companies/bridgeus.png",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "BridgeUS"
+  ]
+ },
+ {
+  "id": "buildclub",
+  "name": "BuildClub",
+  "website": "https://buildclub.ai/",
+  "logo": "/images/companies/buildclub.png",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "BuildClub"
+  ]
+ },
+ {
+  "id": "builderbase",
+  "name": "Builder Base",
+  "website": "https://builderbase.com/",
+  "logo": "/images/companies/builder-base.jpg",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "Builder Base"
+  ]
+ },
+ {
+  "id": "casuro",
+  "name": "Casuro",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Casuro"
+  ]
+ },
+ {
+  "id": "celestoai",
+  "name": "Celesto AI",
+  "website": "https://celesto.ai/",
+  "logo": "/images/companies/celesto-ai.png",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Celesto AI"
+  ]
+ },
+ {
+  "id": "chime",
+  "name": "Chime",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Chime"
+  ]
+ },
+ {
+  "id": "clera",
+  "name": "Clera",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Clera"
+  ]
+ },
+ {
+  "id": "codeadvantage",
+  "name": "CodeAdvantage",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "CodeAdvantage"
+  ]
+ },
+ {
+  "id": "cognee",
+  "name": "Cognee",
+  "website": "https://www.cognee.ai/",
+  "logo": "/images/companies/cognee.png",
+  "description": "Cognee is an open-source memory platform for AI agents that transforms documents, relational data, and system context into persistent memory. It helps agents retain context across sessions and integrates seamlessly with tools like Claude Code, Codex, OpenClaw, and n8n.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Cognee"
+  ]
+ },
+ {
+  "id": "cresca",
+  "name": "Cresca",
+  "website": "https://cresca.ai/",
+  "logo": "/images/companies/cresca.png",
+  "description": "Cresca is an AI-powered relationship memory tool that helps users capture, organize, and recall important details about the people they meet, making it easier to build and maintain meaningful connections.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Cresca"
+  ]
+ },
+ {
+  "id": "crewbasecollective",
+  "name": "Crewbase Collective",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Crewbase Collective"
+  ]
+ },
+ {
+  "id": "daytona",
+  "name": "Daytona",
+  "website": "https://www.daytona.io/",
+  "logo": "/images/companies/daytona.png",
+  "description": "Daytona is a secure and scalable infrastructure platform for running AI-generated code and AI agent workflows. It provides isolated, programmable environments (sandboxes) where developers and AI systems can safely execute code, test applications, and run complex workflows without risking underlying",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Daytona"
+  ]
+ },
+ {
+  "id": "devnovate",
+  "name": "Devnovate",
+  "website": "https://devnovate.co/",
+  "logo": "/images/companies/devnovate.png",
+  "description": "We bring together students, developers, entrepreneurs, and creators through exciting hackathons across India and the USA, helping them learn, network, and build innovative solutions.",
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "Devnovate"
+  ]
+ },
+ {
+  "id": "dragonsandangelsfund",
+  "name": "Dragons and Angels Fund",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Dragons and Angels Fund"
+  ]
+ },
+ {
+  "id": "enkryptai",
+  "name": "Enkrypt AI",
+  "website": "https://www.enkryptai.com/",
+  "logo": "/images/companies/enkrypt-ai.png",
+  "description": "Secure your generative AI products and guard against data leaks, hallucinations, and adversarial attacks.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Enkrypt AI"
+  ]
+ },
+ {
+  "id": "finchipai",
+  "name": "Finchip AI",
+  "website": "https://finchip.ai/",
+  "logo": "/images/companies/finchip-ai.jpg",
+  "description": "FinChip helps turn AI skills into ownable digital assets that can be launched, discovered, used, and traded. For builders exploring agent capabilities, skill marketplaces, and programmable AI services, FinChip opens up a new way to think about software as something agents can own and invoke.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Finchip AI"
+  ]
+ },
+ {
+  "id": "flatkey",
+  "name": "Flatkey",
+  "website": "https://flatkey.ai/",
+  "logo": "/images/companies/flatkey.jpg",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Flatkey"
+  ]
+ },
+ {
+  "id": "frontiertower",
+  "name": "Frontier Tower",
+  "website": "https://frontiertower.io/",
+  "logo": "/images/companies/frontier-tower.jpg",
+  "description": "Frontier Tower is a 16-floor innovation hub in San Francisco being transformed into a self-governed vertical village for frontier technologies and creative expression. It brings together leading researchers, builders, entrepreneurs, and artists working at the edge of human progress.",
+  "kinds": [
+   "venue"
+  ],
+  "name_variants": [
+   "Frontier Tower"
+  ]
+ },
+ {
+  "id": "gameer",
+  "name": "Gameer",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Gameer"
+  ]
+ },
+ {
+  "id": "genaiassembling",
+  "name": "GenAI Assembling",
+  "website": "https://genaiassembling.substack.com/",
+  "logo": "/images/companies/genai-assembling.png",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "GenAI Assembling"
+  ]
+ },
+ {
+  "id": "glasser",
+  "name": "Glasser",
+  "website": "https://glasser.ai/",
+  "logo": "/images/companies/glasser.jpg",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Glasser"
+  ]
+ },
+ {
+  "id": "googleaistudio",
+  "name": "Google AI Studio",
+  "website": "https://aistudio.google.com/",
+  "logo": "/images/companies/google-ai-studio.jpg",
+  "description": "Google AI Studio is Google's web-based platform for building, testing, and deploying applications powered by Gemini AI models. It provides an intuitive environment for prompt engineering, model experimentation, and API integration, making it easy to prototype and integrate generative AI into applications.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Google AI Studio"
+  ]
+ },
+ {
+  "id": "googledeepmind",
+  "name": "Google Deepmind",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Google Deepmind"
+  ]
+ },
+ {
+  "id": "govia",
+  "name": "Govia",
+  "website": "https://govia.app/",
+  "logo": "/images/companies/govia.png",
+  "description": "GoVia is a technology platform dedicated to improving safety, transparency, and communication during police-community interactions. Through innovative tools and accessible resources, GoVia empowers individuals with information, support, and guidance to promote accountability, de-escalation, and informed decision-making.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Govia"
+  ]
+ },
+ {
+  "id": "growingpies",
+  "name": "Growing Pies",
+  "website": "https://growingpies.ai/",
+  "logo": "/images/companies/growing-pies.jpg",
+  "description": "Growing Pies is supporting builders at Wizard Hackathon with a dedicated winning prize and helping bring more energy, opportunity, and momentum to the builder community.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Growing Pies"
+  ]
+ },
+ {
+  "id": "growthmasters",
+  "name": "GrowthMasters",
+  "website": "https://growthmasters.io/",
+  "logo": "/images/companies/growthmasters.jpg",
+  "description": "GrowthMasters is a growth-focused platform that helps businesses and startups accelerate their growth through strategic marketing, sales, and business development solutions. It focuses on helping companies improve customer acquisition, optimize growth strategies, and build scalable systems for long-term success.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "GrowthMasters"
+  ]
+ },
+ {
+  "id": "gruve",
+  "name": "Gruve",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Gruve"
+  ]
+ },
+ {
+  "id": "hituto",
+  "name": "Hi Tuto",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Hi Tuto"
+  ]
+ },
+ {
+  "id": "homebrewclub",
+  "name": "Homebrew Club",
+  "website": "https://homebrewclub.berrry.app/",
+  "logo": "/images/companies/homebrew-club.jpg",
+  "description": "Homebrew Club is a modern co-working space designed for founders, creators, freelancers, and professionals looking for a productive environment to work, collaborate, and build. It provides flexible workspaces, a vibrant community, and resources that help individuals and teams grow their ideas into successful ventures.",
+  "kinds": [
+   "sponsor",
+   "venue"
+  ],
+  "name_variants": [
+   "Homebrew Club"
+  ]
+ },
+ {
+  "id": "hydradb",
+  "name": "HydraDB",
+  "website": "https://hydradb.com/",
+  "logo": "/images/companies/hydradb.png",
+  "description": "The serverless context infra built with in-memory data stores: ultra low latency, highest precision recall, and relationally-aware. Build memory layers, stateful agents, and context stores with the highest accuracy.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "HydraDB"
+  ]
+ },
+ {
+  "id": "inductionlabs",
+  "name": "Induction Labs",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Induction Labs"
+  ]
+ },
+ {
+  "id": "insforge",
+  "name": "InsForge",
+  "website": "https://insforge.dev/",
+  "logo": "/images/companies/insforge.png",
+  "description": "InsForge is building agent-native cloud infrastructure for modern AI development. It brings together model gateway, compute, deployment, database, authentication, and more so AI coding agents can operate across the full development workflow.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "InsForge"
+  ]
+ },
+ {
+  "id": "instagram",
+  "name": "Instagram",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Instagram"
+  ]
+ },
+ {
+  "id": "kalibr",
+  "name": "Kalibr",
+  "website": "https://kalibr.systems/",
+  "logo": "/images/companies/kalibr.jpg",
+  "description": "Kalibr is an AI infrastructure platform designed to make AI agents more reliable, efficient, and autonomous. It helps AI systems complete complex, multi-step workflows by monitoring execution, detecting failures, and dynamically improving how models and tools are used",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Kalibr"
+  ]
+ },
+ {
+  "id": "katariadigital",
+  "name": "Kataria Digital",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Kataria Digital"
+  ]
+ },
+ {
+  "id": "kripkeandhumantechnologyallianceinstitute",
+  "name": "Kripke and Human Technology Alliance Institute",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Kripke and Human Technology Alliance Institute"
+  ]
+ },
+ {
+  "id": "kylon",
+  "name": "Kylon",
+  "website": "https://kylon.io/",
+  "logo": "/images/companies/kylon.png",
+  "description": "Kylon is an AI agent team that runs your entire business.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Kylon"
+  ]
+ },
+ {
+  "id": "learninglayerlabs",
+  "name": "Learning Layer Labs",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Learning Layer Labs"
+  ]
+ },
+ {
+  "id": "lightsage",
+  "name": "LightSage",
+  "website": "https://lightsage.com/",
+  "logo": "/images/companies/lightsage.png",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "LightSage"
+  ]
+ },
+ {
+  "id": "lore",
+  "name": "Lore",
+  "website": "https://lore.link/",
+  "logo": "/images/companies/lore.png",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Lore"
+  ]
+ },
+ {
+  "id": "lovable",
+  "name": "Lovable",
+  "website": "https://lovable.dev/",
+  "logo": "/images/companies/lovable.png",
+  "description": "Lovable is an AI-powered application development platform that enables users to build full-stack web applications using natural language. By describing an idea in plain English, developers and non-developers can generate production-ready applications with frontend, backend, database integration, and authentication—without starting from scratch.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Lovable"
+  ]
+ },
+ {
+  "id": "lyzr",
+  "name": "Lyzr",
+  "website": "https://www.lyzr.ai/",
+  "logo": "/images/companies/lyzr.jpg",
+  "description": "Build production-grade, multi-agent AI workflows for sports analytics or coaching insights using a low-code agentic framework.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Lyzr"
+  ]
+ },
+ {
+  "id": "marvellous",
+  "name": "Marvellous",
+  "website": "https://www.themarvelo.us/",
+  "logo": "/images/companies/marvellous.png",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "Marvellous"
+  ]
+ },
+ {
+  "id": "maskyai",
+  "name": "Masky AI",
+  "website": "https://masky.ai",
+  "logo": "/images/companies/masky-ai.png",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Masky AI"
+  ]
+ },
+ {
+  "id": "mason",
+  "name": "Mason",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Mason"
+  ]
+ },
+ {
+  "id": "massive",
+  "name": "Massive",
+  "website": "https://www.joinmassive.com/",
+  "logo": "/images/companies/massive.jpg",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Massive"
+  ]
+ },
+ {
+  "id": "medallionsubstack",
+  "name": "Medallion Substack",
+  "website": "https://medallionxln.substack.com/",
+  "logo": "/images/companies/medallion-substack.png",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "Medallion Substack"
+  ]
+ },
+ {
+  "id": "meitu",
+  "name": "Meitu",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Meitu"
+  ]
+ },
+ {
+  "id": "meta",
+  "name": "META",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "META"
+  ]
+ },
+ {
+  "id": "microsoft",
+  "name": "Microsoft",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Microsoft"
+  ]
+ },
+ {
+  "id": "n8n",
+  "name": "N8N",
+  "website": "https://n8n.io",
+  "logo": "/images/companies/n8n.png",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "N8N"
+  ]
+ },
+ {
+  "id": "nebius",
+  "name": "Nebius",
+  "website": "https://nebius.com/",
+  "logo": "/images/companies/nebius.png",
+  "description": "Nebius provides full-stack AI cloud infrastructure for developers, startups, enterprises, and research teams. Its platform helps teams build, train, and deploy AI products in a secure, high-performance, and cost-efficient environment.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Nebius"
+  ]
+ },
+ {
+  "id": "nerdconf",
+  "name": "NerdConf",
+  "website": "https://www.nerdconf.com/",
+  "logo": "/images/companies/nerdconf.jpg",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "NerdConf"
+  ]
+ },
+ {
+  "id": "nimble",
+  "name": "Nimble",
+  "website": "https://www.nimbleway.com/",
+  "logo": "/images/companies/nimble.png",
+  "description": "Nimble enables your AI agents and teams to stream the precise intelligence they need from the live web, powered by infrastructure built to reliably access even the most complex, difficult-to-reach data.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Nimble"
+  ]
+ },
+ {
+  "id": "nupathai",
+  "name": "NuPath AI",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "NuPath AI"
+  ]
+ },
+ {
+  "id": "nvdia",
+  "name": "NVDIA",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "NVDIA"
+  ]
+ },
+ {
+  "id": "o1assist",
+  "name": "O1 Assist",
+  "website": "https://o1assist.com/",
+  "logo": "/images/companies/o1-assist.jpg",
+  "description": "O-1 Assist is an AI-powered platform that helps exceptional professionals prepare strong O-1, EB-1A, and Global Talent visa applications. It streamlines the entire petition process by helping applicants build qualifying evidence, organize documentation, and connect with experienced immigration attorneys for filing.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "O1 Assist"
+  ]
+ },
+ {
+  "id": "opsera",
+  "name": "Opsera",
+  "website": "https://opsera.ai/",
+  "logo": "/images/companies/opsera.png",
+  "description": "Opsera is an AI-powered continuous delivery and DevOps automation platform that helps organizations streamline software delivery, improve engineering productivity, and manage complex DevOps workflows. It provides a unified platform to build, deploy, secure, and monitor applications across multiple environments and cloud providers.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Opsera"
+  ]
+ },
+ {
+  "id": "pacificgasandelectriccompany",
+  "name": "Pacific Gas and Electric Company",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Pacific Gas and Electric Company"
+  ]
+ },
+ {
+  "id": "paritok",
+  "name": "Paritok",
+  "website": "https://www.paritok.com/",
+  "logo": "/images/companies/paritok.png",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Paritok"
+  ]
+ },
+ {
+  "id": "photoncodes",
+  "name": "Photon.codes",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Photon.codes"
+  ]
+ },
+ {
+  "id": "prelint",
+  "name": "Prelint",
+  "website": "https://prelint.com",
+  "logo": "/images/companies/prelint.jpg",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Prelint"
+  ]
+ },
+ {
+  "id": "promptql",
+  "name": "PromptQL",
+  "website": "https://promptql.io/",
+  "logo": "/images/companies/promptql.png",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "PromptQL"
+  ]
+ },
+ {
+  "id": "qdrant",
+  "name": "Qdrant",
+  "website": "https://qdrant.tech/",
+  "logo": "/images/companies/qdrant.png",
+  "description": "Power your app with high-performance vector search—perfect for multi-modal sports data, video retrieval, and biometrics.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Qdrant"
+  ]
+ },
+ {
+  "id": "querit",
+  "name": "Querit",
+  "website": "https://www.querit.ai/",
+  "logo": "/images/companies/image.png",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Querit"
+  ]
+ },
+ {
+  "id": "r42group",
+  "name": "R42 Group",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "R42 Group"
+  ]
+ },
+ {
+  "id": "render",
+  "name": "Render",
+  "website": "https://render.com/",
+  "logo": "/images/companies/render.png",
+  "description": "Render is a cloud application platform that helps developers build, deploy, and scale web applications, APIs, databases, and background services without managing complex infrastructure. It provides a simple developer experience with automatic deployments, managed services, and scalable hosting.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Render"
+  ]
+ },
+ {
+  "id": "replit",
+  "name": "Replit",
+  "website": "https://replit.com/",
+  "logo": "/images/companies/replit.png",
+  "description": "Replit helps builders create, collaborate, and deploy software directly from the browser. At Wizard Hackathon, Replit gives participants credits to move faster from idea to working product.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Replit"
+  ]
+ },
+ {
+  "id": "retriverai",
+  "name": "Retriver AI",
+  "website": "https://www.rtrvr.ai/",
+  "logo": "/images/companies/retriver-ai.png",
+  "description": "Retriver AI is an AI web agent platform that enables users to automate web browsing, data extraction, and repetitive browser workflows using natural language. Instead of writing custom scripts or web scrapers, you describe a task in plain English, and the AI agent performs it in a real browser.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Retriver AI"
+  ]
+ },
+ {
+  "id": "rocketride",
+  "name": "RocketRide",
+  "website": "https://cloud.rocketride.ai/",
+  "logo": "/images/companies/rocketride.jpg",
+  "description": "RocketRide is an open-source AI workflow platform that enables developers to build, debug, and deploy AI applications without ever leaving their IDE. Its powerful meta-harness streamlines the entire development lifecycle, making it easy to create, test, and optimize AI workflows in one place.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "RocketRide"
+  ]
+ },
+ {
+  "id": "sanfranciscogeneralintelligencelaboratory",
+  "name": "San Francisco General Intelligence Laboratory",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "San Francisco General Intelligence Laboratory"
+  ]
+ },
+ {
+  "id": "sartorial",
+  "name": "Sartorial",
+  "website": "https://www.sartori.al/",
+  "logo": "/images/companies/sar.png",
+  "description": null,
+  "kinds": [
+   "community",
+   "sponsor"
+  ],
+  "name_variants": [
+   "Sartorial"
+  ]
+ },
+ {
+  "id": "satorial",
+  "name": "Satorial",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Satorial"
+  ]
+ },
+ {
+  "id": "spaceid",
+  "name": "Space ID",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Space ID"
+  ]
+ },
+ {
+  "id": "stanford",
+  "name": "Stanford",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Stanford"
+  ]
+ },
+ {
+  "id": "startupvalley",
+  "name": "Startup Valley",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Startup Valley"
+  ]
+ },
+ {
+  "id": "stealth",
+  "name": "Stealth",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Stealth"
+  ]
+ },
+ {
+  "id": "superhuman",
+  "name": "Superhuman",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Superhuman"
+  ]
+ },
+ {
+  "id": "svyal",
+  "name": "Svyal",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Svyal"
+  ]
+ },
+ {
+  "id": "synk",
+  "name": "Synk",
+  "website": "https://snyk.io/",
+  "logo": "/images/companies/synk.jpg",
+  "description": "Snyk helps developers build securely by automatically finding and fixing vulnerabilities in code, open-source dependencies, containers, and infrastructure. It's an essential part of modern software development, ensuring that AI-generated code is secure before it reaches production.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Synk"
+  ]
+ },
+ {
+  "id": "tavily",
+  "name": "Tavily",
+  "website": "https://www.tavily.com/",
+  "logo": "/images/companies/tavily.png",
+  "description": "Tavily gives builders powerful search and research infrastructure for AI applications. It helps teams create agents, tools, and workflows that can access relevant web information and reason with better context.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Tavily"
+  ]
+ },
+ {
+  "id": "tenki",
+  "name": "Tenki",
+  "website": "https://tenki.cloud/",
+  "logo": "/images/companies/tenki.jpg",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Tenki"
+  ]
+ },
+ {
+  "id": "tigrisdata",
+  "name": "Tigris Data",
+  "website": "https://www.tigrisdata.com/",
+  "logo": "/images/companies/tigris-data.png",
+  "description": "Tigris Data is a cloud storage company that provides a globally distributed, S3-compatible object storage service designed for modern applications, especially AI and machine learning workloads",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Tigris Data"
+  ]
+ },
+ {
+  "id": "trae",
+  "name": "TRAE",
+  "website": "https://www.trae.ai/",
+  "logo": "/images/companies/trae.jpg",
+  "description": "Trae supports builders with AI-powered coding tools to help participants move faster while building their hackathon projects.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "TRAE"
+  ]
+ },
+ {
+  "id": "unlimit",
+  "name": "Unlimit",
+  "website": "https://www.unlimit.com/",
+  "logo": "/images/companies/unlimit.jpg",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Unlimit"
+  ]
+ },
+ {
+  "id": "venturebridgehub",
+  "name": "Venture Bridge Hub",
+  "website": "https://venturebridgehub.com",
+  "logo": "/images/companies/venture-bridge-hub.png",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "Venture Bridge Hub"
+  ]
+ },
+ {
+  "id": "ventureforagers",
+  "name": "Venture Foragers",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Venture Foragers"
+  ]
+ },
+ {
+  "id": "voisekey",
+  "name": "Voisekey",
+  "website": "https://www.voiskey.ai",
+  "logo": "/images/companies/voisekey.png",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Voisekey"
+  ]
+ },
+ {
+  "id": "wasmer",
+  "name": "Wasmer",
+  "website": "https://wasmer.io/",
+  "logo": "/images/companies/wasmer.jpg",
+  "description": null,
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "Wasmer"
+  ]
+ },
+ {
+  "id": "wayline",
+  "name": "WayLine",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "WayLine"
+  ]
+ },
+ {
+  "id": "wearedevelopers",
+  "name": "We Are Developers",
+  "website": "https://www.wearedevelopers.com/",
+  "logo": "/images/companies/we-are-developers.jpg",
+  "description": null,
+  "kinds": [
+   "community"
+  ],
+  "name_variants": [
+   "We Are Developers"
+  ]
+ },
+ {
+  "id": "welseycollege",
+  "name": "Welsey College",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "Welsey College"
+  ]
+ },
+ {
+  "id": "wildlifeagencyllc",
+  "name": "WildLife Agency LLC",
+  "website": null,
+  "logo": null,
+  "description": null,
+  "kinds": [],
+  "name_variants": [
+   "WildLife Agency LLC"
+  ]
+ },
+ {
+  "id": "youcom",
+  "name": "You.com",
+  "website": "https://you.com/",
+  "logo": "/images/companies/you-com.png",
+  "description": "You.com delivers leading Web Search APIs for AI systems. It powers applications that reason like experts and act through intelligent agents and workflows using real-time, citation-backed answers built on proprietary vertical and domain-specific web indices.",
+  "kinds": [
+   "sponsor"
+  ],
+  "name_variants": [
+   "You.com"
+  ]
+ }
+]
