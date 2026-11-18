@@ -1,0 +1,97 @@
+# Plan de ejecución: Crewbase Copilot (Stanford 30×30 · Converge.AI)
+
+**Deadline: miércoles 18 de noviembre, 11:59 PM PT.** Lo enviamos a las 9 PM para tener margen.
+
+## 1. La tesis en una frase
+El activo de Crewbase es su **red de relaciones**: quién participó en qué evento, con qué rol y con qué resultado. Hoy está dispersa y en la cabeza de Saurabh. **Crewbase Copilot la convierte en conocimiento reutilizable y la usa para planear cada evento nuevo en minutos.** Recomienda partners con razones y redacta el texto para Luma. El organizador siempre revisa y aprueba.
+
+## 2. Qué construimos (la mejor solución dentro del tiempo que hay)
+
+Hay que demostrar **un solo flujo completo con datos reales**: los 21 eventos, 116 organizaciones, 114 personas y 517 participaciones de su web.
+
+| # | Módulo | Qué hace en el demo | Área del brief |
+|---|---|---|---|
+| A | **Red de relaciones** | Directorio de personas y organizaciones con su historial ("Ayush Ojha: 17 eventos como host, juez y speaker"). Ficha de cada evento. | 1 · Gestión unificada |
+| B | **Salud de los datos** | Cola de arreglos: fusionar a Ali Amjad, corregir Synk → Snyk, completar las 76 descripciones que faltan con IA, aclarar los 16 contactos que no coinciden. Cada arreglo se aprueba con un clic. | 1 · Calidad de los registros |
+| C | **Nuevo evento → plan** | El organizador escribe el brief ("hackathon de agentes, 12 de diciembre, Frontier Tower, 80 builders"). El sistema arma un plan con tema, audiencia, tracks y lo que hace falta. | 2 |
+| D | **Recomendaciones explicables** | Una lista de sponsors, jueces y speakers ordenada por puntaje, con la **razón** de cada uno. Se puede aceptar, quitar o agregar. | 2 · Decisiones de partners |
+| E | **Estudio de texto para Luma** | Genera el título, el gancho, la descripción, la agenda y las secciones de sponsors y jueces a partir de los ya confirmados. Incluye una checklist de calidad, variantes, edición y un botón para copiar. | 3 · Texto de Luma |
+| F | **Portada** | Framia genera la portada con los logos de los sponsors confirmados. | 3 |
+| G | **Copilot en el chat** | Un agente en Covey: "planeemos el próximo hackathon" lleva por C, D y E. Además arma borradores de outreach en Gmail sin enviarlos. | Interfaz |
+
+**Extras si sobra tiempo:**
+- Un portal para que el sponsor suba su logo y apruebe su texto.
+- Un resumen semanal de la salud de los datos con Covey Scheduled.
+- Enriquecer perfiles con Firecrawl.
+
+**Fuera de alcance:** publicar automáticamente en Luma, enviar emails solo, juegos (Combos) y pagos.
+
+### Lógica de las recomendaciones (explicable, no una caja negra)
+`puntaje = encaje con el tema (etiquetas por LLM) + experiencia en ese rol + participación reciente + frecuencia − cansancio (si se le pidió hace menos de 3 semanas) + bonus de conector (si trae a otros sponsors)`
+
+Después, un LLM escribe la razón en una frase usando esos mismos datos. El organizador edita y **sus ediciones quedan registradas** (es el ciclo de aprendizaje y la métrica de aceptación).
+
+## 3. Dónde vive cada pieza en Converge
+
+```
+Saurabh ──chat──▶ COVEY · agente "Crewbase Copilot"
+                     ├─ plugin ENTER  → construye y opera la app
+                     ├─ plugin FRAMIA → portada y piezas para redes
+                     ├─ plugin Gmail / WhatsApp / Discord → borradores de outreach
+                     └─ Firecrawl / Browser Use (extras) → enriquecer perfiles, cargar en Luma
+                     
+ENTER PRO · app "Crewbase Copilot" (link público para el envío)
+   Base de datos: events · organizations · people · participations   ← data/seed/*.csv
+   Pantallas: Red · Salud de datos · Nuevo evento → Recomendaciones → Texto para Luma
+   LLM: Claude (seleccionable en Enter)
+```
+
+**Plan B si Enter no puede importar los datos o no publica con link público:** usar Supabase como base de datos a través del plugin de Covey, mantener la interfaz en Enter, y si hace falta usar Google Sheets como base. Antes de pasar a código fuera de Converge, preguntar a los mentores.
+
+## 4. Cronograma
+
+### Martes 17 (hoy)
+| Hora (PT) | Tarea | Responsable |
+|---|---|---|
+| Ahora → 7 PM | **Prueba técnica de Converge:** iniciar sesión, invitar al equipo, revisar los créditos. En Enter, crear la app e **importar `data/seed/*.csv`**. Verificar que publica con link público y que se puede elegir Claude. Revisar si "Create plugin" de Covey acepta MCP. | Constructor |
+| 7 → 9:30 PM | Módulos A y B (la red y la salud de los datos) con los datos reales | Constructor |
+| 7 → 9:30 PM | Agente de Covey: instrucciones, conexión con el plugin de Enter y una prueba de Framia | Agente y creativo |
+| 7 → 9:30 PM | Esqueleto de la página de resumen y guion del video | Pitch |
+| **10 PM** | **Llamada con Saurabh** (`LLAMADA_SAURABH.md`) | Todo el equipo |
+| 10:30 PM | Volcar la línea base y la prioridad en este plan. Ajustar el alcance si su prioridad número uno es otra. | Pitch |
+
+### Miércoles 18
+| Hora (PT) | Tarea |
+|---|---|
+| 9 AM → 1 PM | Módulos C y D (el plan del evento y las recomendaciones) |
+| 1 → 4 PM | Módulo E (el texto para Luma) y F (la portada con Framia). El Copilot G conectado de punta a punta. |
+| 4 → 5 PM | **Congelar funciones.** Prueba completa con el escenario del demo. Corregir errores. |
+| 5 → 7 PM | Grabar el **video de 3 minutos como máximo** y escribir el **resumen de una página** |
+| 7 → 9 PM | Revisar los links ("Anyone with the link") y **enviar** |
+| 9 → 11:59 PM | Margen para cambios. El formulario se puede editar hasta el deadline. |
+
+## 5. Lo que se envía
+1. **El prototipo:** el link público de la app en Enter, y el link del agente de Covey si se puede compartir.
+2. **El video (3 minutos como máximo):**
+   - 0:00–0:20 · El problema, con sus números: "X horas por evento, y todo vive en la cabeza de una persona".
+   - 0:20–0:50 · La salud de los datos: sus duplicados y vacíos reales, arreglados con un clic.
+   - 0:50–2:10 · "Planeemos el hackathon de diciembre": brief, recomendaciones con razones, el organizador edita, texto para Luma y portada.
+   - 2:10–2:40 · Impacto: antes y después, en horas, aceptación y conversión.
+   - 2:40–3:00 · Escala a otras comunidades (AI Collective, BuildClub) y por qué es factible: corre sobre Converge con sus datos de hoy.
+3. **El resumen de una página:** el problema, el valor esperado, la factibilidad, los supuestos y cómo se aplica en otros contextos (ver `SOLUCION.md`).
+
+## 6. Cómo cubrimos cada criterio de evaluación
+| Criterio | Peso | Cómo lo ganamos |
+|---|---|---|
+| Impacto de negocio | 40% | La línea base que nos dé Saurabh frente al resultado medido en el demo. Las recomendaciones apuntan a sus ingresos (los sponsors). |
+| Ejecución | 30% | Funciona con **sus datos reales** y de punta a punta, no con datos inventados. |
+| Factibilidad | 20% | Vive en Converge. Sus datos ya están estructurados. Hay revisión humana en todo. El costo es de créditos, no de un desarrollador. |
+| Presentación | 10% | Un caso concreto ("el hackathon de diciembre en 10 minutos") y una cita de Saurabh. |
+
+## 7. Riesgos
+| Riesgo | Cómo lo mitigamos |
+|---|---|
+| Enter no importa CSV o no publica con link público | Lo probamos primero, hoy. Plan B: Supabase o Sheets a través de Covey. |
+| Nos quedamos sin créditos (tenemos 5,000) | Medir cuánto gasta la prueba técnica. Usar Framia solo para la versión final. |
+| Saurabh prioriza otra cosa | El alcance es modular: se reordenan C, D y E sin rehacer A. |
+| Las recomendaciones no convencen | Mostrar el puntaje y la razón, y validar en la llamada con un caso real ("¿invitarías a estos 5?"). |
