@@ -2,7 +2,8 @@
 
 **Deadline: miércoles 18 de noviembre, 11:59 PM PT.** Lo enviamos a las 9 PM para tener margen.
 
-## Estado (martes 17 de noviembre, 22:45 PT)
+## Estado (miércoles 18 de noviembre, 00:15 PT)
+- **La llamada con Saurabh ya se hizo** (ver `LLAMADA_RESULTADOS.md`). Su prioridad número uno es cargar a la gente nueva (unos 15 jueces por evento, uno por uno), con contactos dispersos en Excel, WhatsApp y LinkedIn.
 - **Prototipo publicado:** https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
 - **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
 - **Listo, con datos reales en Enter Cloud:**
@@ -52,11 +53,19 @@
     - **Proyección:** las horas ahorradas por evento y por año, con la fórmula a la vista y un supuesto editable (30% por defecto). Solo aparece cuando hay datos del "antes".
     - Una sección "Works beyond Crewbase".
     - En Outreach se sumaron los estados Replied y Confirmed, que quedan registrados.
-- Verificado en escritorio y en móvil (375 px, sin scroll horizontal). Outreach e Impact se probaron en el link público.
+  - **Módulo H: Add people** (`/add-people`), la respuesta a su prioridad número uno:
+    - Se pega texto desordenado (WhatsApp, Excel o links de LinkedIn) y la IA saca una fila por persona: nombre, email, LinkedIn, cargo, empresa y rol.
+    - Cada fila se cruza con la red y queda marcada como New, Already in network (con su historial) o Possible duplicate. Los campos que faltan quedan marcados; no se inventa nada.
+    - Se edita en la misma tabla, el organizador aprueba y se guarda en la red y en el evento.
+    - **Export en el formato exacto de su portal** (JSON y CSV), también desde cualquier evento.
+    - El ejemplo público (botón "Use sample paste") muestra una extracción guardada, sin passcode: 9 filas, de las cuales 4 son nuevas, 4 ya estaban en la red y 1 es un posible duplicado.
+  - **WinterHack 2026** (18 de diciembre, AWS Builders Loft), su evento real, es ahora el primer brief. Tiene recomendaciones, texto para Luma, portada y 18 borradores de outreach de ejemplo.
+  - Los jueces tienen los badges **Investor** y **Big name**, que no cambian el puntaje. **LinkedIn** se sumó como canal de outreach.
+- Verificado en escritorio y en móvil (375 px, sin scroll horizontal). Outreach, Impact y Add people se probaron en el link público.
 - **Documentos para el envío:** `ONE_PAGER.md` (borrador en inglés) y `VIDEO_SCRIPT.md` (guion de 3 minutos con la narración y los clics). Los dos esperan los números de Saurabh.
 - **Resumen semanal en Covey (Scheduled), creado con aprobación de Miranda:** la tarea "Crewbase weekly network and data health digest" corre todos los lunes a las 8 AM, y la primera es el 23 de noviembre de 2026. Revisa los 5 arreglos de datos que más rinden, los sponsors y jueces que llevan más de 60 días sin venir, y 3 personas para invitar al próximo evento. No envía mensajes ni cambia datos.
-- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Desglose: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia), 8 en la prueba del agente, 100 en Home y Outreach y 59 en Impact. Total: **567 de los 1,500**. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
-- **Siguiente:** después de la llamada con Saurabh, ajustar según su prioridad. Quedan el video, el resumen de una página y, si Saurabh quiere, conectar el agente a su canal.
+- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Desglose: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia), 8 en la prueba del agente, 100 en Home y Outreach, 59 en Impact y 137 en Add people y WinterHack. Total: **704 de los 1,500**. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
+- **Siguiente:** grabar el video siguiendo `VIDEO_SCRIPT.md`, que ya abre con Add people y usa WinterHack. Después, pasar `ONE_PAGER.md` al formato del envío y mandar el formulario con los links públicos.
 
 ## 1. La tesis en una frase
 El activo de Crewbase es su **red de relaciones**: quién participó en qué evento, con qué rol y con qué resultado. Hoy está dispersa y en la cabeza de Saurabh. **Crewbase Copilot la convierte en conocimiento reutilizable y la usa para planear cada evento nuevo en minutos.** Recomienda partners con razones y redacta el texto para Luma. El organizador siempre revisa y aprueba.
