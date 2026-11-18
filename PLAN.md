@@ -2,7 +2,7 @@
 
 **Deadline: miércoles 18 de noviembre, 11:59 PM PT.** Lo enviamos a las 9 PM para tener margen.
 
-## Estado (martes 17 de noviembre, 22:10 PT)
+## Estado (martes 17 de noviembre, 22:45 PT)
 - **Prototipo publicado:** https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
 - **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
 - **Listo, con datos reales en Enter Cloud:**
@@ -46,8 +46,16 @@
       - Hace un pedido claro y sin montos inventados. Cada borrador se edita, se copia y tiene un interruptor "Mark as sent" que queda registrado en `outreach_log`, para medir la tasa de respuesta.
       - Nada se envía desde la app.
     - En la portada, los logos de los sponsors se ven más grandes y parejos (Kylon ya no sale diminuto).
-- Verificado en escritorio y en móvil (375 px, sin scroll horizontal). La pestaña Outreach se probó en el link público.
-- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Se gastaron **508 de los 1,500** aprobados: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia), 8 en la prueba del agente y 100 en Home y Outreach. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
+  - **Impact** (`/impact`), la página para el criterio de impacto de negocio (40%):
+    - **Antes:** 6 datos que carga el organizador con su passcode (horas por evento, horas para escribir el texto de Luma, horas buscando partners, sponsors contactados y confirmados, eventos por mes). Mientras no los cargue, dicen "Not set yet". No hay números inventados.
+    - **Después, medido en vivo:** el health score (de 18 hasta el valor actual), la completitud de los registros, la tasa de aceptación de recomendaciones, cuánto del texto de Luma se queda y cuánto se edita, y el embudo de outreach (borrador → enviado → respondió → confirmó).
+    - **Proyección:** las horas ahorradas por evento y por año, con la fórmula a la vista y un supuesto editable (30% por defecto). Solo aparece cuando hay datos del "antes".
+    - Una sección "Works beyond Crewbase".
+    - En Outreach se sumaron los estados Replied y Confirmed, que quedan registrados.
+- Verificado en escritorio y en móvil (375 px, sin scroll horizontal). Outreach e Impact se probaron en el link público.
+- **Documentos para el envío:** `ONE_PAGER.md` (borrador en inglés) y `VIDEO_SCRIPT.md` (guion de 3 minutos con la narración y los clics). Los dos esperan los números de Saurabh.
+- **Pendiente de tu aprobación en Covey:** la tarea programada "Crewbase weekly network and data health digest" (lunes 8 AM) quedó cargada en el formulario, pero no se creó. Gasta créditos cada semana, así que le toca a Miranda apretar Create.
+- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Desglose: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia), 8 en la prueba del agente, 100 en Home y Outreach y 59 en Impact. Total: **567 de los 1,500**. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
 - **Siguiente:** después de la llamada con Saurabh, ajustar según su prioridad. Quedan el video, el resumen de una página y, si Saurabh quiere, conectar el agente a su canal.
 
 ## 1. La tesis en una frase
