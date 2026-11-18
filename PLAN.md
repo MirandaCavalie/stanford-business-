@@ -54,7 +54,7 @@
     - En Outreach se sumaron los estados Replied y Confirmed, que quedan registrados.
 - Verificado en escritorio y en móvil (375 px, sin scroll horizontal). Outreach e Impact se probaron en el link público.
 - **Documentos para el envío:** `ONE_PAGER.md` (borrador en inglés) y `VIDEO_SCRIPT.md` (guion de 3 minutos con la narración y los clics). Los dos esperan los números de Saurabh.
-- **Pendiente de tu aprobación en Covey:** la tarea programada "Crewbase weekly network and data health digest" (lunes 8 AM) quedó cargada en el formulario, pero no se creó. Gasta créditos cada semana, así que le toca a Miranda apretar Create.
+- **Resumen semanal en Covey (Scheduled), creado con aprobación de Miranda:** la tarea "Crewbase weekly network and data health digest" corre todos los lunes a las 8 AM, y la primera es el 23 de noviembre de 2026. Revisa los 5 arreglos de datos que más rinden, los sponsors y jueces que llevan más de 60 días sin venir, y 3 personas para invitar al próximo evento. No envía mensajes ni cambia datos.
 - **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Desglose: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia), 8 en la prueba del agente, 100 en Home y Outreach y 59 en Impact. Total: **567 de los 1,500**. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
 - **Siguiente:** después de la llamada con Saurabh, ajustar según su prioridad. Quedan el video, el resumen de una página y, si Saurabh quiere, conectar el agente a su canal.
 
