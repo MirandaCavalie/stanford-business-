@@ -2,7 +2,7 @@
 
 **Deadline: miércoles 18 de noviembre, 11:59 PM PT.** Lo enviamos a las 9 PM para tener margen.
 
-## Estado (martes 17 de noviembre, 20:45 PT)
+## Estado (martes 17 de noviembre, 21:15 PT)
 - **Prototipo publicado:** https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
 - **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
 - **Listo, con datos reales en Enter Cloud:**
@@ -27,9 +27,14 @@
     - Cada sección se edita, se regenera y se copia por separado, y hay un botón "Copy all for Luma".
     - Cada versión se guarda en `luma_drafts` con el texto original de la IA, para medir cuánto edita el organizador.
     - El brief de ejemplo trae una versión ya generada, con un aviso de que los sponsors y jueces no están confirmados.
+  - El módulo F (Portada), en la sub-pestaña **Cover** de cada borrador:
+    - **Framia** genera solo el fondo, sin texto, logos ni personas.
+    - La app pone encima, con código, el título del texto para Luma, la fecha, la sede, la marca de Crewbase y los logos reales de los sponsors aceptados.
+    - Exporta un PNG de 1600×900 con "Download PNG". Hay 2 estilos ("Bold dark" y "Light minimal") y el prompt queda guardado con cada portada.
+    - Limitación: Framia solo lo puede usar el agente de Enter, no la app publicada. Por eso la portada de ejemplo es de Framia, pero "Regenerate background" dentro de la app usa el modelo de imágenes de Enter. Para el demo podemos preparar con Framia un set de fondos.
 - Verificado en escritorio y en móvil (375 px, sin scroll horizontal).
-- **Créditos:** Enter pasó de 5,100 a 4,801, así que se gastaron **299 de los 1,500** aprobados: 132 en los módulos A y B, 111 en el D y 56 en el E. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
-- **Siguiente:** después de la llamada con Saurabh, ajustar según su prioridad. Quedan la portada con Framia (F), el agente de Covey (G) y el video.
+- **Créditos:** Enter pasó de 5,100 a 4,700, así que se gastaron **400 de los 1,500** aprobados: 132 en los módulos A y B, 111 en el D, 56 en el E y 101 en el F. Falta revisar si Framia descontó créditos aparte. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
+- **Siguiente:** después de la llamada con Saurabh, ajustar según su prioridad. Quedan el agente de Covey (G), el video y el resumen de una página.
 
 ## 1. La tesis en una frase
 El activo de Crewbase es su **red de relaciones**: quién participó en qué evento, con qué rol y con qué resultado. Hoy está dispersa y en la cabeza de Saurabh. **Crewbase Copilot la convierte en conocimiento reutilizable y la usa para planear cada evento nuevo en minutos.** Recomienda partners con razones y redacta el texto para Luma. El organizador siempre revisa y aprueba.
