@@ -2,7 +2,7 @@
 
 **Deadline: miércoles 18 de noviembre, 11:59 PM PT.** Lo enviamos a las 9 PM para tener margen.
 
-## Estado (martes 17 de noviembre, 18:15 PT)
+## Estado (martes 17 de noviembre, 19:00 PT)
 - **Prototipo publicado:** https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
 - **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
 - **Listo, con datos reales en Enter Cloud:**
@@ -12,9 +12,16 @@
     - "Suggest with AI" con aprobación humana.
     - Historial de cambios con el antes y el después.
   - Para mirar no hace falta nada. Para cualquier cambio, incluidos los borradores de IA, se pide un passcode de organizador, que se crea en el primer cambio.
+  - El módulo D (Recomendaciones), en la pestaña **Plan an event**:
+    - Brief de ejemplo: "AI Agents Hackathon", 12 de diciembre, Frontier Tower, 80 builders.
+    - Top 8 de sponsors, jueces y speakers, de una base de 57 sponsors, 78 jueces y 39 speakers.
+    - El puntaje se calcula con código, no con IA, y se muestra desglosado: encaje con el tema (0–40), experiencia en el rol (0–25), recencia (0–15), frecuencia (0–10), bonus de conector (0–10) y cansancio (−15).
+    - La IA solo etiqueta los temas (146 candidatos, guardados en caché) y escribe la razón en una frase, citando eventos reales.
+    - Aceptar, Descartar y "Add someone" quedan registrados en `recommendation_decisions`. El borrador muestra la shortlist y la tasa de aceptación.
+    - Ejemplo: Colin Lowenberg (Nebius) sale primero entre los jueces con 90 puntos, porque juzgó 4 veces y trajo sponsors en 8 eventos. Entre los sponsors, el primero es InsForge con 89.
 - Verificado en escritorio y en móvil (375 px, sin scroll horizontal).
-- **Créditos:** Enter pasó de 5,100 a 4,968, así que se gastaron **132 de los 1,500** aprobados. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
-- **Siguiente:** los módulos C (nuevo evento), D (recomendaciones) y E (texto para Luma), después de la llamada con Saurabh.
+- **Créditos:** Enter pasó de 5,100 a 4,857, así que se gastaron **243 de los 1,500** aprobados: 132 en los módulos A y B, y 111 en el D. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
+- **Siguiente:** el módulo E (texto para Luma, a partir de la shortlist aceptada) y la parte de plan del módulo C (tracks y lo que falta), después de la llamada con Saurabh.
 
 ## 1. La tesis en una frase
 El activo de Crewbase es su **red de relaciones**: quién participó en qué evento, con qué rol y con qué resultado. Hoy está dispersa y en la cabeza de Saurabh. **Crewbase Copilot la convierte en conocimiento reutilizable y la usa para planear cada evento nuevo en minutos.** Recomienda partners con razones y redacta el texto para Luma. El organizador siempre revisa y aprueba.
