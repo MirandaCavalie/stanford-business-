@@ -2,7 +2,7 @@
 
 **Deadline: miércoles 18 de noviembre, 11:59 PM PT.** Lo enviamos a las 9 PM para tener margen.
 
-## Estado (martes 17 de noviembre, 19:00 PT)
+## Estado (martes 17 de noviembre, 20:45 PT)
 - **Prototipo publicado:** https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
 - **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
 - **Listo, con datos reales en Enter Cloud:**
@@ -19,9 +19,17 @@
     - La IA solo etiqueta los temas (146 candidatos, guardados en caché) y escribe la razón en una frase, citando eventos reales.
     - Aceptar, Descartar y "Add someone" quedan registrados en `recommendation_decisions`. El borrador muestra la shortlist y la tasa de aceptación.
     - Ejemplo: Colin Lowenberg (Nebius) sale primero entre los jueces con 90 puntos, porque juzgó 4 veces y trajo sponsors en 8 eventos. Entre los sponsors, el primero es InsForge con 89.
+  - El módulo E (Texto para Luma), en la sub-pestaña **Luma copy** de cada borrador:
+    - Genera 2 títulos, 2 ganchos, una descripción de 2 o 3 párrafos, la agenda, 3 tracks y las secciones de sponsors y de jueces/speakers con su empresa y cargo. Cierra con el llamado a la acción.
+    - Copia el tono de los 3 eventos pasados de Crewbase más parecidos.
+    - No inventa nada: lo que falta queda como `[TBD: ...]` y solo lista a los aceptados en la shortlist.
+    - Checklist de calidad calculada con código: el ejemplo está en 5 de 9, porque falta la hora.
+    - Cada sección se edita, se regenera y se copia por separado, y hay un botón "Copy all for Luma".
+    - Cada versión se guarda en `luma_drafts` con el texto original de la IA, para medir cuánto edita el organizador.
+    - El brief de ejemplo trae una versión ya generada, con un aviso de que los sponsors y jueces no están confirmados.
 - Verificado en escritorio y en móvil (375 px, sin scroll horizontal).
-- **Créditos:** Enter pasó de 5,100 a 4,857, así que se gastaron **243 de los 1,500** aprobados: 132 en los módulos A y B, y 111 en el D. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
-- **Siguiente:** el módulo E (texto para Luma, a partir de la shortlist aceptada) y la parte de plan del módulo C (tracks y lo que falta), después de la llamada con Saurabh.
+- **Créditos:** Enter pasó de 5,100 a 4,801, así que se gastaron **299 de los 1,500** aprobados: 132 en los módulos A y B, 111 en el D y 56 en el E. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
+- **Siguiente:** después de la llamada con Saurabh, ajustar según su prioridad. Quedan la portada con Framia (F), el agente de Covey (G) y el video.
 
 ## 1. La tesis en una frase
 El activo de Crewbase es su **red de relaciones**: quién participó en qué evento, con qué rol y con qué resultado. Hoy está dispersa y en la cabeza de Saurabh. **Crewbase Copilot la convierte en conocimiento reutilizable y la usa para planear cada evento nuevo en minutos.** Recomienda partners con razones y redacta el texto para Luma. El organizador siempre revisa y aprueba.
