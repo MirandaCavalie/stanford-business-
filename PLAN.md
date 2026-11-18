@@ -2,7 +2,7 @@
 
 **Deadline: miércoles 18 de noviembre, 11:59 PM PT.** Lo enviamos a las 9 PM para tener margen.
 
-## Estado (martes 17 de noviembre, 21:15 PT)
+## Estado (martes 17 de noviembre, 21:30 PT)
 - **Prototipo publicado:** https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
 - **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
 - **Listo, con datos reales en Enter Cloud:**
@@ -32,9 +32,15 @@
     - La app pone encima, con código, el título del texto para Luma, la fecha, la sede, la marca de Crewbase y los logos reales de los sponsors aceptados.
     - Exporta un PNG de 1600×900 con "Download PNG". Hay 2 estilos ("Bold dark" y "Light minimal") y el prompt queda guardado con cada portada.
     - Limitación: Framia solo lo puede usar el agente de Enter, no la app publicada. Por eso la portada de ejemplo es de Framia, pero "Regenerate background" dentro de la app usa el modelo de imágenes de Enter. Para el demo podemos preparar con Framia un set de fondos.
+  - El módulo G (el **agente Crewbase Copilot en Covey**):
+    - Tiene instrucciones propias, acceso a la web para leer los datos reales (los JSON del repo y el link de la app) y 3 preguntas sugeridas: "Let's plan our next hackathon", "Who brought the most sponsors to Crewbase?" y "What should I fix first in our data?".
+    - Probado: "AI agents hackathon, 12 de diciembre, 4 jueces" devolvió una tabla de jueces con el puntaje desglosado y razones con eventos reales. Colin Lowenberg sale primero, igual que en la app.
+    - Por su cuenta avisó que Colin y Tony Chwang también son sponsors y propuso cambiarlos por jueces independientes. También señaló problemas de datos sin tocar nada.
+    - No tiene plugins: Gmail pide permiso de la cuenta y Enter y Framia no aparecen como plugins del agente.
+    - No se puede compartir con link. Para que Saurabh lo use habría que conectarlo como canal (WhatsApp, Slack o Discord).
 - Verificado en escritorio y en móvil (375 px, sin scroll horizontal).
-- **Créditos:** Enter pasó de 5,100 a 4,700, así que se gastaron **400 de los 1,500** aprobados: 132 en los módulos A y B, 111 en el D, 56 en el E y 101 en el F. Falta revisar si Framia descontó créditos aparte. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
-- **Siguiente:** después de la llamada con Saurabh, ajustar según su prioridad. Quedan el agente de Covey (G), el video y el resumen de una página.
+- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Se gastaron **408 de los 1,500** aprobados: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia) y 8 en la prueba del agente. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
+- **Siguiente:** después de la llamada con Saurabh, ajustar según su prioridad. Quedan el video, el resumen de una página y, si Saurabh quiere, conectar el agente a su canal.
 
 ## 1. La tesis en una frase
 El activo de Crewbase es su **red de relaciones**: quién participó en qué evento, con qué rol y con qué resultado. Hoy está dispersa y en la cabeza de Saurabh. **Crewbase Copilot la convierte en conocimiento reutilizable y la usa para planear cada evento nuevo en minutos.** Recomienda partners con razones y redacta el texto para Luma. El organizador siempre revisa y aprueba.

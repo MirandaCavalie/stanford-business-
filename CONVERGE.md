@@ -72,6 +72,14 @@ Según su sitio y los comunicados de prensa:
 - **Proyecto creado:** Crewbase Copilot, `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`.
   - Al publicarlo tendrá un link público para navegar. Cualquier cambio en los datos pide un passcode de organizador, que se crea en la primera visita.
 
+## Respuestas encontradas (17 de noviembre, noche)
+- **Covey sí acepta MCP propios:** "Add plugins" tiene las opciones "Add custom MCP server" e "Import plugin".
+- **Los agentes de Covey no se comparten con link.** El menú solo tiene Edit, Rename, Pin y Delete. Para que otra persona use un agente hay que conectarlo como canal ("Add channel": usar el agente desde otras apps).
+- Un agente tiene: canales, triggers, acceso a la web, plugins, skills, archivos de conocimiento, instrucciones, secret keys y preguntas sugeridas (de 50 caracteres como máximo).
+- **Framia solo lo usa el agente que construye en Enter, no la app publicada.** En la app, la generación de imágenes usa el modelo propio de Enter.
+- **Covey y Enter comparten el saldo de créditos.** Covey muestra 200 más que Enter, pero los dos bajan igual.
+- **Enter publica con link público.** Confirmado: `*.prod.enter.pro`.
+
 ## Por revisar con sesión iniciada
 1. Si **Create plugin** acepta MCP o API (para conectar la base de datos de Enter con el agente de Covey).
 2. Si los agentes de Covey se pueden compartir o publicar, por ejemplo para que Saurabh los use.
