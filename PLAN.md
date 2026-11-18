@@ -2,7 +2,7 @@
 
 **Deadline: miércoles 18 de noviembre, 11:59 PM PT.** Lo enviamos a las 9 PM para tener margen.
 
-## Estado (martes 17 de noviembre, 21:30 PT)
+## Estado (martes 17 de noviembre, 22:10 PT)
 - **Prototipo publicado:** https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
 - **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
 - **Listo, con datos reales en Enter Cloud:**
@@ -38,8 +38,16 @@
     - Por su cuenta avisó que Colin y Tony Chwang también son sponsors y propuso cambiarlos por jueces independientes. También señaló problemas de datos sin tocar nada.
     - No tiene plugins: Gmail pide permiso de la cuenta y Enter y Framia no aparecen como plugins del agente.
     - No se puede compartir con link. Para que Saurabh lo use habría que conectarlo como canal (WhatsApp, Slack o Discord).
-- Verificado en escritorio y en móvil (375 px, sin scroll horizontal).
-- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Se gastaron **408 de los 1,500** aprobados: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia) y 8 en la prueba del agente. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
+  - **Mejoras para mostrarle a Saurabh:**
+    - **Home** es ahora la página de inicio. Cuenta la historia con los números reales: 21 eventos, 116 organizaciones, 114 personas, 517 participaciones y un health score de 18 con 213 problemas. Muestra los top sponsors, las personas más activas y los 4 pasos del flujo con sus links. La Red pasó a su propia pestaña (`/network`).
+    - **Outreach**, la cuarta sub-pestaña de cada borrador:
+      - Invitaciones personales por email y por DM: 12 de ejemplo, para 3 sponsors y 3 jueces.
+      - Cada una cita la historia real de la persona con Crewbase. Ejemplo para Colin: "You judged the Build your Co Founder Hackathon on September 28…".
+      - Hace un pedido claro y sin montos inventados. Cada borrador se edita, se copia y tiene un interruptor "Mark as sent" que queda registrado en `outreach_log`, para medir la tasa de respuesta.
+      - Nada se envía desde la app.
+    - En la portada, los logos de los sponsors se ven más grandes y parejos (Kylon ya no sale diminuto).
+- Verificado en escritorio y en móvil (375 px, sin scroll horizontal). La pestaña Outreach se probó en el link público.
+- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Se gastaron **508 de los 1,500** aprobados: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia), 8 en la prueba del agente y 100 en Home y Outreach. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
 - **Siguiente:** después de la llamada con Saurabh, ajustar según su prioridad. Quedan el video, el resumen de una página y, si Saurabh quiere, conectar el agente a su canal.
 
 ## 1. La tesis en una frase

@@ -102,14 +102,25 @@ Live at https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro. Anyone can brow
 15. **Where do you spend your day: WhatsApp, Discord, Gmail or Slack?** That's where an assistant should live.
 16. How do the **Get Involved form** submissions reach you, and what do you do with them?
 
-### 5. Live demo check (2–3 min, screen share)
-17. Show the **Recommendations** tab for the AI Agents Hackathon: **"Would you invite these 8 judges? Who's missing, and who would you never invite?"** Write his answer down word for word. It's a quote for the video and a validation of the scoring.
-18. Show **Data Health**: "Is this the kind of cleanup you'd actually approve?"
+### 5. Live demo check (3–4 min, screen share)
+Demo path: https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
+1. **Home:** "This is your network: 21 events, 116 orgs, 114 people, 517 participations. Data health is 18/100 today."
+2. **Data Health:** show the Ali Amjad duplicate and the "Synk" typo with a one-click fix.
+3. **Plan an event → AI Agents Hackathon → Recommendations:** Colin Lowenberg is #1 judge (90). He judged 4 hackathons and brought in Tenki, AISA One and Tavily.
+4. **Luma copy → Cover → Outreach:** a draft page, a cover with real sponsor logos, and personal invite drafts. Nothing is sent or published automatically.
+5. **Covey agent "Crewbase Copilot":** type "Let's plan our next hackathon" and show the same flow inside a chat.
+
+Questions while demoing:
+
+17. On Recommendations: **"Would you invite these 8 judges? Who's missing, and who would you never invite?"** Write his answer down word for word. It's a quote for the video and a validation of the scoring.
+18. The agent noticed that Colin and Tony Chwang are also sponsors: **"Do you keep judges independent from sponsors?"**
+19. On Data Health: "Is this the kind of cleanup you'd actually approve?"
+20. On Outreach: "Would you send something like this? Over email, LinkedIn or WhatsApp?"
 
 ### 6. Priority and close
-19. **If we could solve only one thing by Friday, what would it be:** the unified database, the recommendations or the Luma copy?
-20. If it works, **would you use it for your next event?** Would you recommend it to other organizers, like AI Collective or BuildClub?
-21. **Can we quote or mention you in the demo?** Do you have an upcoming event we can use as the example?
+21. **If we could solve only one thing by Friday, what would it be:** the unified database, the recommendations or the Luma copy?
+22. If it works, **would you use it for your next event?** Would you recommend it to other organizers, like AI Collective or BuildClub?
+23. **Can we quote or mention you in the demo?** Do you have an upcoming event we can use as the example?
 
 ---
 
