@@ -61,6 +61,17 @@ Según su sitio y los comunicados de prensa:
 | Difusión | **Covey + X / Instagram / Discord / Mailchimp** |
 | Video demo del hackathon | **Framia** |
 
+## Lo que vimos con sesión iniciada (17 de noviembre, tarde)
+- **Créditos:** Covey muestra 5,300 y Enter muestra 5,100. La cuenta es "Miranda Cavalie Guillen's Workspace", con plan PRO.
+- **Enter tiene sus propios Connectors (35):** Framia (ya conectado), Supabase, Airtable, Google Sheets y Drive, Firecrawl, GitHub, Gmail, Outlook, Slack, Notion, HubSpot, Salesforce, Instagram, Stripe y otros. Se activan pidiéndoselo al agente.
+- Las secciones de Enter son Projects, Connectors, Infrastructure, Design Kits y Custom Agents.
+- **Plan mode:** el agente lee los datos, hace preguntas de diseño y muestra un plan para aprobar con "Build Now" antes de programar.
+- Dos detalles prácticos al usar Enter desde el navegador:
+  - El cuadro de texto es un editor Slate y solo acepta texto escrito con el teclado (pegarlo por script no lo envía).
+  - Para un salto de línea hay que usar Shift+Enter, porque Enter envía el mensaje.
+- **Proyecto creado:** Crewbase Copilot, `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`.
+  - Al publicarlo tendrá un link público para navegar. Cualquier cambio en los datos pide un passcode de organizador, que se crea en la primera visita.
+
 ## Por revisar con sesión iniciada
 1. Si **Create plugin** acepta MCP o API (para conectar la base de datos de Enter con el agente de Covey).
 2. Si los agentes de Covey se pueden compartir o publicar, por ejemplo para que Saurabh los use.

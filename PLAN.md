@@ -2,6 +2,20 @@
 
 **Deadline: miércoles 18 de noviembre, 11:59 PM PT.** Lo enviamos a las 9 PM para tener margen.
 
+## Estado (martes 17 de noviembre, 18:15 PT)
+- **Prototipo publicado:** https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
+- **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
+- **Listo, con datos reales en Enter Cloud:**
+  - El módulo A (la Red): personas y organizaciones con su historial, y la ficha de cada evento.
+  - El módulo B (la Salud de los datos): **health score de 18/100 y 213 problemas abiertos**.
+    - 2 duplicados, 2 erratas (NVDIA y Synk), 193 campos vacíos y 16 contactos que no coinciden con su empresa.
+    - "Suggest with AI" con aprobación humana.
+    - Historial de cambios con el antes y el después.
+  - Para mirar no hace falta nada. Para cualquier cambio, incluidos los borradores de IA, se pide un passcode de organizador, que se crea en el primer cambio.
+- Verificado en escritorio y en móvil (375 px, sin scroll horizontal).
+- **Créditos:** Enter pasó de 5,100 a 4,968, así que se gastaron **132 de los 1,500** aprobados. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
+- **Siguiente:** los módulos C (nuevo evento), D (recomendaciones) y E (texto para Luma), después de la llamada con Saurabh.
+
 ## 1. La tesis en una frase
 El activo de Crewbase es su **red de relaciones**: quién participó en qué evento, con qué rol y con qué resultado. Hoy está dispersa y en la cabeza de Saurabh. **Crewbase Copilot la convierte en conocimiento reutilizable y la usa para planear cada evento nuevo en minutos.** Recomienda partners con razones y redacta el texto para Luma. El organizador siempre revisa y aprueba.
 
