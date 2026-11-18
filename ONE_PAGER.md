@@ -11,10 +11,11 @@ Crewbase runs AI hackathons, founder mixers, workshops and demo nights. Its real
   - A data health score of **18/100**.
 - **Choosing partners depends on memory.** 16 sponsor contacts actually belong to other companies: they are the connectors who bring sponsors in, but nothing records that.
 - **The Luma page is rewritten from scratch every time.**
-- Baseline from the organizer: **[X] hours per event**, **[Y] hours on Luma copy**, **[Z] sponsors contacted for every one that confirms**.
+- **From the organizer interview:** the slowest step is adding new people. For every event he types each judge, sponsor and speaker into his admin portal one record at a time (about 15 judges per event: name, email, username, LinkedIn and image), pulling contact details from Excel sheets, WhatsApp chats and LinkedIn. He runs venues, judges and sponsors alone, and Crewbase is about a month old.
 
 ## The solution
-Crewbase Copilot turns 21 events, 116 organizations, 114 people and 517 participations into a living network and uses it to plan the next event. AI suggests and the organizer approves every step.
+Crewbase Copilot turns 21 events, 116 organizations, 114 people and 517 participations into a living network and uses it to plan the next event (shown on his real one: WinterHack 2026, Dec 18, AWS Builders Loft). AI suggests and the organizer approves every step.
+0. **Smart intake, his #1 pain:** paste a WhatsApp thread, Excel rows or LinkedIn links. AI turns them into clean records, matches them against the network so nobody is entered twice, and exports them in his portal's exact format.
 1. **Data Health:**
    - A queue of duplicates, typos and empty fields.
    - AI drafts each fix and the organizer approves it in one click.
@@ -31,13 +32,14 @@ Crewbase Copilot turns 21 events, 116 organizations, 114 people and 517 particip
 ## Expected value (how we measure it)
 | Metric | Before | After (measured in the app) |
 |---|---|---|
-| Hours to prepare an event | [X] | [from Impact page] |
+| Records typed by hand per event | ~15 judges + sponsors + speakers, one by one | One paste, then review and approve |
+| Hours to prepare an event | [not measured yet] | [from Impact page] |
 | Data health score | 18/100 | [live] |
 | Recommendation acceptance rate | n/a | [logged per decision] |
 | Luma copy kept vs. edited | n/a | [logged per version] |
-| Outreach: sent → replied → confirmed | [Z] | [logged per draft] |
+| Outreach: sent → replied → confirmed | Not tracked today | Logged per draft |
 
-Sponsors are Crewbase's revenue. Better-matched invites and connector-aware recommendations go straight at the step that brings in money.
+Revenue comes from sponsors (cash or API credits) and from judge support fees ($100–500), and VC judges drive attendance. Recommendations flag investor and big-name judges, and outreach is tracked to confirmation, so the tool works on the steps that bring in money.
 
 ## Feasibility
 - **It runs today on Crewbase's existing data.** We imported the structured JSON from its own website, so there is no migration.
@@ -49,9 +51,9 @@ Sponsors are Crewbase's revenue. Better-matched invites and connector-aware reco
 - **There is human review everywhere.** Scores are computed in code, so they are auditable. AI only writes reasons and drafts.
 
 ## Assumptions and risks
-- **Contacts from other companies are connectors.** [Confirmed or not by the organizer.]
+- **Contacts listed under other companies are treated as connectors.** Not yet confirmed by the organizer.
 - **The quality of recommendations depends on how complete the records are.** The Data Health module exists for this reason.
-- **Luma has no plugin, so publishing stays copy-paste.** Covey's Browser Use could automate it later.
+- **Luma publishing is copy-paste today.** He has Luma Plus, which has an API, so the approved copy can be pushed through the API next.
 
 ## Beyond Crewbase
 Any community that runs events, such as other organizers, accelerators or university clubs, can import its past events, people and sponsors. It gets the same network, data health, partner recommendations and copy. Every organizer's memory becomes reusable knowledge.
