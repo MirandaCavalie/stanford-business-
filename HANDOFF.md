@@ -1,65 +1,99 @@
-# Handoff para Miranda (miércoles 18 de noviembre, noche)
+# Handoff para Miranda (miércoles 18 de noviembre, ~9:15 PM PT)
 
-Deadline: **11:59 PM PT de hoy**. Lo que sigue es lo que hicimos Alejandro y Claude esta tarde, lo que encontramos y lo que queda de tu lado.
+Deadline del envío: **hoy a las 11:59 PM PT**, sin extensiones. Este documento tiene todo lo pendiente, en orden. Si se lo pasas a tu agente, que siga la sección "Pendiente, en orden" de arriba abajo.
+
+## Estado en una línea
+La app funciona en el link de preview, el bug de guardado de Data Health ya está arreglado y verificado, y los documentos están actualizados. Falta: actividad real en Impact, el video, el one-pager en formato de envío y el formulario.
 
 ## Links
-- **Prototipo que funciona:** https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro (abre sin login, también con rutas directas).
-- **Producción sigue caída:** `*.prod.enter.pro` corta la conexión. Usar el link de preview en el formulario.
-- **Passcode de organizador:** el que definiste hoy. Hay que rotarlo después del envío.
+- **Prototipo (usar este en el envío):** https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro. Abre sin login, también con rutas directas como `/add-people`.
+- **Producción sigue caída:** `https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro` corta la conexión (comprobado a las 8:15 PM PT). No usarlo.
+- **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
+- **Formulario de envío:** https://docs.google.com/forms/d/e/1FAIpQLSfI1_LcWKcYTHSCMG5zE6mTXwDrnn3iLH_g40fhvxoLOPhFLw/viewform
+- **Passcode de organizador:** el que definiste hoy. Rotarlo después del envío ("Change passcode" en Data Health).
 
-## Lo que queda de tu lado
-1. **Grabar el video** con `VIDEO_SCRIPT.md`, que ahora tiene cinco bloques en vez de nueve. El bloque de Covey dura 5 segundos y solo se puede grabar desde tu cuenta: los agentes no aparecen en la cuenta de Alejandro aunque esté en el workspace.
-2. **Enviar el formulario** con el link de preview. Se puede editar hasta el deadline, así que conviene mandarlo temprano.
-3. **Preguntarle a Saurabh dos cosas** (ver "De las notas de la llamada").
-4. **Confirmar cómo va el nombre de Alejandro** en el one-pager (quedó como "Alejandro Gonzalez").
+## Pendiente, en orden
 
-## Bug encontrado: Data Health no guardaba
-- Con el passcode correcto, todo guardado en Data Health devolvía 401 ("Unlock organizer editing first") y la página se volvía a bloquear. Lo reprodujimos con el arreglo NVDIA → NVIDIA y con el merge de Ali Amjad.
-- En la misma sesión, aceptar un juez en Plan sí guardaba, así que el passcode y el token estaban bien.
-- Le mandamos el arreglo a Enter a las ~8:30 PM PT, con la instrucción de no dejar cambios de prueba en los datos. **Estado: ver la última respuesta en el chat de Enter.**
-- Hasta confirmar el arreglo, no grabar el paso "Accept fix on Synk → Snyk" del bloque 2.
+### 1. Dejar Impact con actividad real (10 minutos, en la app)
+Impact es la pantalla del criterio de impacto de negocio (40%) y hoy muestra casi todo en cero. Con "Unlock editing":
+- En **Plan → WinterHack → Judges**, aceptar dos jueces más y descartar uno. En **Sponsors**, aceptar uno. Colin Lowenberg ya está aceptado.
+- En **Luma copy** de WinterHack, pulsar "Rebuild from shortlist", editar una sección y guardar la versión. Eso alimenta "Luma copy kept vs edited".
+- **No tocar** en Data Health el arreglo Synk → Snyk ni el duplicado Sartorial / Satorial: se aprueban en cámara (bloque 2 del guion).
+- **No marcar outreach como enviado** si no se envió nada. La página dice "No invented numbers".
+- La línea base ("Edit baseline") se queda vacía salvo que Saurabh dé las horas.
 
-## Cambios en los datos de la app
-- Colin Lowenberg quedó **aceptado como juez en WinterHack** (fue la prueba de que Plan sí guarda). Aparece en la shortlist y la tasa de aceptación marca 100% con 1 decisión.
-- No se cambió nada más. Data Health sigue en 213 problemas abiertos y 0 resueltos.
-
-## Impact sigue en ceros
-Es la pantalla del criterio de impacto de negocio (40%). Antes de grabar el bloque 5 hace falta actividad real:
-- Aprobar en Data Health el merge de Ali Amjad y los dos typos (cuando el bug esté arreglado).
-- Aceptar dos o tres jueces y un sponsor en WinterHack.
-- No marcamos ningún outreach como enviado, porque no se envió nada. Si quieres que el embudo muestre algo, que sea con mensajes que sí salgan.
-- La línea base ("Edit baseline") sigue vacía: Saurabh no dio horas.
-
-## El cronómetro
+### 2. Cronómetro (opcional, 10 minutos; lo hace Alejandro)
 Saurabh no dio horas, pero sí el proceso: unos 15 jueces, cada uno con nombre, email, usuario, LinkedIn e imagen, uno por uno.
-- Alejandro cronometra cargar a mano 15 registros con esos campos desde una lista desordenada, y después el mismo lote con Add people.
-- El resultado va en `VIDEO_SCRIPT.md` (reemplaza STOPWATCH_MANUAL y STOPWATCH_PASTE) y en la tabla del one-pager, presentado como una prueba nuestra.
-- Si no da tiempo, se cortan esas dos frases del guion.
+- Cronometrar la carga a mano de 15 registros con esos campos desde una lista desordenada, y después el mismo lote con Add people.
+- Poner los dos tiempos en `VIDEO_SCRIPT.md`, donde dice `STOPWATCH_MANUAL` y `STOPWATCH_PASTE`, y en la primera fila de la tabla de `ONE_PAGER.md`. Presentarlo como una prueba nuestra, no como un dato de Saurabh.
+- **Si no se hace, borrar del guion las dos frases que tienen esas marcas** ("We timed that: …" y "Same list: …"). No pueden salir en el video tal cual.
 
-## De las notas de la llamada
-- **El reporte de sponsor estaba mal vendido.** Saurabh dijo que a los sponsors les entrega una demo en vivo o la URL del producto, "not a separate report". El one-pager y el guion ya no dicen que el reporte es "lo que los sponsors pagan"; dicen que es un link con las demos en vivo, que es lo que él ya les debe.
-- **Para preguntarle:**
-  - Si "Finch" es Finchip AI. La app lo pone primero en el ranking de sponsors de WinterHack; si ya firmó, es una validación que vale una frase en el video.
+### 3. Grabar el video (3:00 como máximo)
+- Seguir `VIDEO_SCRIPT.md`: cinco bloques con WinterHack como hilo.
+- Desbloquear la edición antes de grabar, para que los clics de Accept funcionen.
+- El bloque 5 incluye 5 segundos del agente Crewbase Copilot en Covey. **Solo se puede grabar desde la cuenta de Miranda:** los agentes y la tarea programada no aparecen en la cuenta de Alejandro, aunque esté en el workspace.
+- Subir el video con permiso "Anyone with the link".
+
+### 4. One-pager en formato de envío
+- Pasar `ONE_PAGER.md` a un documento con permiso "Anyone with the link".
+- Tiene unas 900 palabras: comprobar que quepa en una página. Si no cabe, recortar primero la sección "The problem" y después "Assumptions and risks".
+- Confirmar cómo va el nombre de Alejandro (quedó como "Alejandro Gonzalez").
+
+### 5. Enviar el formulario
+- Un envío por equipo. Se puede editar hasta el deadline, así que conviene mandarlo en cuanto haya video, aunque después se ajuste.
+- Links: el video, el prototipo (el de preview) y el one-pager. Abrir los tres en una ventana de incógnito antes de enviar.
+- Cada integrante tiene que haber firmado el participant agreement: https://consent.wefluens.com/
+
+### 6. Si sobra tiempo
+- **Preguntarle a Saurabh:**
+  - Si "Finch" es Finchip AI. La app lo pone primero en el ranking de sponsors de WinterHack; si ya firmó, se agrega al bloque 3 del video la frase "Its top sponsor pick is one he had already signed."
   - Cuál es el sponsor principal de USD 1,100 (la transcripción dice "Braven(?)").
-- **Runway ya es sponsor** de WinterHack, pero el agente Growth lo sugiere como nuevo.
-- **Él ya tiene casi lista su automatización de invitaciones a jueces.** Comms conviene presentarlo como el contenido personalizado y el seguimiento, no como el envío.
-- **El bloqueo de Luma y el calentamiento de correo** los sugeriste tú en la llamada, no él. Mejor no presentarlos como un dolor que él reportó.
+- **Discord:** reportar la caída de `*.prod.enter.pro` en `#report-a-bug` (nadie lo ha hecho) y etiquetar a Lani en `#team-19`, que ofreció revisar antes de enviar.
 
-## Cambios en el repo
-- `ONE_PAGER.md`: link de preview, la sección de solución pasó de 8 bloques a 6, el reclamo del reporte de sponsor corregido, sin corchetes en la tabla, créditos en ~1,400. Tiene unas 900 palabras; al pasarlo al formato de envío hay que comprobar que quepa en una página.
-- `VIDEO_SCRIPT.md`: cinco bloques con WinterHack como hilo.
-- La frase de los conectores quedó más cauta: los 16 casos son 6 personas, 4 de los casos son el propio Saurabh, y ninguno está confirmado en Data Health.
+## Hecho esta tarde (Alejandro y Claude)
 
-## Cosas que vimos en la app y no tocamos
-- **Ranking de WinterHack plano:** casi todos tienen 5/40 en encaje de tema, así que el orden sale de frecuencia y recencia. Ningún juez del top 8 tiene el badge Investor.
+### Bug de Data Health: arreglado y verificado
+- **Síntoma:** con el passcode correcto, todo guardado en Data Health devolvía 401 ("Unlock organizer editing first") y la página se volvía a bloquear. Plan sí guardaba.
+- **Causa (reporte de Enter):** los guardados de Data Health llamaban a `invokeBackend` directo, que no adjunta el token de organizador. Plan usaba `callOrganizer`, que sí lo adjunta. "Change passcode" tenía la misma falla.
+- **Arreglo:** todos los guardados protegidos pasan por `callOrganizer`: aprobar typo, merge de persona, merge de organización, descartar, sugerir campo, guardar campo, responder un mismatch y cambiar passcode. Costó unos 30 créditos; el saldo quedó en 3,677.
+- **Verificado por nosotros en el link de preview:** el arreglo NVDIA → NVIDIA y el merge de Ali Amjad respondieron 200 y la cola bajó.
+- **No verificado por nosotros:** guardar en Add people, la línea base de Impact y Revenue. Enter los confirmó leyendo el código, no ejecutándolos.
+
+### Cambios en los datos de la app
+- Typo **NVDIA → NVIDIA** aprobado.
+- Duplicado de **Ali Amjad** fusionado (se conservó el registro con 2 eventos).
+- **Colin Lowenberg** aceptado como juez en WinterHack.
+- Data Health quedó en **211 problemas abiertos y 2 resueltos**; el health score sigue en 18.
+
+### Cambios en el repo
+- `VIDEO_SCRIPT.md`: de nueve segmentos a cinco bloques. Connections, Follow-ups, Revenue, la API y el tour quedaron fuera del video.
+- `ONE_PAGER.md`:
+  - Link de preview en lugar del de producción.
+  - La sección de solución pasó de ocho bloques a seis.
+  - Tabla de valor sin corchetes.
+  - Créditos en ~1,400.
+  - El riesgo de Luma dice que el push está construido pero sin probar, porque falta su API key.
+- **Reclamo del reporte de sponsor corregido** en los dos archivos (ver abajo).
+- **Frase de los conectores más cauta:** los 16 casos son 6 personas, 4 de los casos son el propio Saurabh, y ninguno está confirmado en Data Health.
+
+## De las notas de la llamada (Fellow)
+- **El reporte de sponsor estaba mal vendido.** Saurabh dijo que a los sponsors les entrega una demo en vivo o la URL del producto, "not a separate report". Ahora los documentos dicen que cada sponsor recibe un link con las demos en vivo hechas con su herramienta, que es lo que él ya les debe y hoy junta a mano.
+- **Runway ya es sponsor** de WinterHack, pero el agente Growth lo sugiere como nuevo. No mostrar esa respuesta en el video.
+- **Él ya tiene casi lista su automatización de invitaciones a jueces.** Presentar Comms como el contenido personalizado y el seguimiento, no como el envío.
+- **El bloqueo de Luma y el calentamiento de correo** los sugirió Miranda en la llamada, no él. No presentarlos como un dolor que él reportó.
+- **No dio ningún número de horas.** No inventar la línea base.
+
+## Visto en la app y no tocado
+Nada de esto bloquea el envío. No construir más salvo que algo se rompa.
+- **Ranking de WinterHack plano:** casi todos tienen 5/40 en encaje de tema, así que el orden sale de frecuencia y recencia. Ningún juez del top 8 tiene el badge Investor; el guion ya no lo menciona.
 - **Bonus de conector todo o nada:** Merve Isler recibe los mismos 10 puntos por 1 caso que Colin por 8, y su caso es un community partner, no un sponsor.
-- **Luma copy:** Colin Lowenberg y Merve Isler salen como jueces y también como speakers.
+- **Luma copy:** Colin Lowenberg y Merve Isler salen como jueces y también como speakers en el ejemplo.
 - **Outreach a sponsors:** pide "hosting the venue" aunque la sede ya es AWS Builders Loft.
-- **API pública:** dice 194 problemas abiertos y la app 213.
-- **Pantallas que se ven a medio conectar en cámara:** Connections (cuatro integraciones sin conectar), Comms (0 de 3 con correo, 57 datos en TBD) y Follow-ups (49 tarjetas casi iguales). Por eso no están en el guion.
+- **API pública:** dice 194 problemas abiertos y la app 211.
+- **Pantallas que se ven a medio conectar en cámara:** Connections (cuatro integraciones sin conectar), Comms (0 de 3 con correo, 57 datos en TBD) y Follow-ups (49 tarjetas casi iguales).
+- **La pasada final de calidad se canceló a medias.** Recorrimos 12 rutas en escritorio sin encontrar nada roto; no revisamos la vista en celular, el leaderboard ni el link de sponsor por dentro.
 
 ## De Discord
 - Cada empresa revisa los envíos de su reto, así que Saurabh va a leer esto.
-- Lani (Converge) ofrece revisar antes de enviar si la etiquetan en `#team-19`.
-- Nadie ha reportado la caída de producción en `#report-a-bug`.
-- Tip de Lani: menos texto explicativo en la interfaz y un flujo completo en vez de muchas funciones.
+- Tip de Lani para el video: contexto del negocio, un flujo completo de principio a fin, el impacto y cómo aplica a otros negocios. Un demo claro vale más que muchas funciones sueltas.
+- Los agentes de Covey no se pueden embeber ni llamar por API; Converge recomienda construir el agente dentro de Enter.
