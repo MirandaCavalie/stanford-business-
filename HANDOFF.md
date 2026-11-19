@@ -5,15 +5,28 @@ Deadline del envío: **hoy a las 11:59 PM PT**, sin extensiones. Este documento 
 ## Estado en una línea
 La app funciona en el link de preview, los bugs de guardado y de ranking están arreglados, Impact tiene actividad real y el one-pager está en PDF de una página. Falta: el video, subir el PDF con link público y el formulario.
 
-## Antes de grabar: esperar el retoque de interfaz
-A las 8:53 PM PT mandamos a Enter dos pasos seguidos, por el tip de Lani sobre el exceso de texto:
-1. **Retoque visual**, solo en componentes compartidos: encabezados más chicos, tarjetas con borde fino y sin sombra, el terracota reservado para una acción principal por pantalla, el aviso "Example preview" en una sola línea y más densidad en las listas.
-2. **Menos texto:** se quitan los subtítulos que repiten el título y los avisos repetidos. Tres etiquetas cambian de nombre:
+## Retoque de interfaz: terminado, ya se puede grabar
+Por el tip de Lani sobre el exceso de texto, mandamos a Enter dos pasos. Terminaron a las 9:18 PM PT y los verificamos a las 9:21 PM PT; el saldo quedó en 3,464 créditos.
+1. **Retoque visual**, solo en componentes compartidos:
+   - Encabezados más chicos, con la descripción en una sola línea.
+   - Tarjetas con borde fino y sin sombra.
+   - El elemento activo del menú va subrayado en vez de relleno.
+   - El terracota queda para una acción principal por pantalla.
+   - El aviso "Example preview" ocupa una sola línea.
+   - Las recomendaciones van de a tres por fila.
+2. **Menos texto:** se quitaron los subtítulos que repetían el título, el lema bajo el logo y los avisos repetidos. Tres etiquetas cambiaron de nombre:
    - "Rep mismatch" → "Contact at another company"
    - "Connector" → "Brings sponsors"
    - "Handled" → "Resolved or dismissed"
 
-Los nombres de menús y botones que usa el guion no cambian. **No grabar hasta que el chat de Enter muestre los dos pasos terminados** y se haya dado una vuelta por Home, Add people, Data Health, Plan, Comms, Event day e Impact. Si algo se ve roto, Enter guarda versiones: se puede volver a la anterior desde el historial del proyecto.
+Los nombres de menús y botones que usa el guion no cambiaron. **Verificado por nosotros después de los dos pasos**, a 1280 px:
+- Add people con el ejemplo: 9 filas y el botón Copy JSON.
+- Data Health: "Accept fix" para Synk y los dos "Keep this record".
+- Plan → WinterHack → Judges: Colin Lowenberg con 75, las pestañas Luma copy, Cover y Outreach.
+- Comms, Impact (80% y 60%) y Event day con el leaderboard y el link de sponsor.
+- El botón del tour sigue en Home; no recorrimos los 7 pasos del tour.
+
+Detalles que quedaron: algunos nombres largos se cortan con puntos suspensivos en las tarjetas (por ejemplo "Colin Lowen…"), y la descripción bajo el título de algunas páginas también. Si algo se ve roto al grabar, Enter guarda versiones y se puede volver a la anterior desde el historial del proyecto.
 
 ## Links
 - **Prototipo (usar este en el envío):** https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro. Abre sin login, también con rutas directas como `/add-people`.
