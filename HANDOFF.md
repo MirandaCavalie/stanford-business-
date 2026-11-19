@@ -1,25 +1,26 @@
-# Handoff para Miranda (miércoles 18 de noviembre, ~9:15 PM PT)
+# Handoff para Miranda (miércoles 18 de noviembre, 8:35 PM PT)
 
 Deadline del envío: **hoy a las 11:59 PM PT**, sin extensiones. Este documento tiene todo lo pendiente, en orden. Si se lo pasas a tu agente, que siga la sección "Pendiente, en orden" de arriba abajo.
 
 ## Estado en una línea
-La app funciona en el link de preview, el bug de guardado de Data Health ya está arreglado y verificado, y los documentos están actualizados. Falta: actividad real en Impact, el video, el one-pager en formato de envío y el formulario.
+La app funciona en el link de preview, el bug de guardado de Data Health ya está arreglado y verificado, y los documentos están actualizados. Impact ya tiene actividad real y el one-pager ya está en PDF de una página. Falta: el video, subir el PDF con link público y el formulario.
 
 ## Links
 - **Prototipo (usar este en el envío):** https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro. Abre sin login, también con rutas directas como `/add-people`.
-- **Producción sigue caída:** `https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro` corta la conexión (comprobado a las 8:15 PM PT). No usarlo.
+- **Producción sigue caída:** `https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro` corta la conexión (comprobado a las 7:30 PM PT). No usarlo.
 - **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
 - **Formulario de envío:** https://docs.google.com/forms/d/e/1FAIpQLSfI1_LcWKcYTHSCMG5zE6mTXwDrnn3iLH_g40fhvxoLOPhFLw/viewform
 - **Passcode de organizador:** el que definiste hoy. Rotarlo después del envío ("Change passcode" en Data Health).
 
 ## Pendiente, en orden
 
-### 1. Dejar Impact con actividad real (10 minutos, en la app)
-Impact es la pantalla del criterio de impacto de negocio (40%) y hoy muestra casi todo en cero. Con "Unlock editing":
-- En **Plan → WinterHack → Judges**, aceptar dos jueces más y descartar uno. En **Sponsors**, aceptar uno. Colin Lowenberg ya está aceptado.
-- En **Luma copy** de WinterHack, pulsar "Rebuild from shortlist", editar una sección y guardar la versión. Eso alimenta "Luma copy kept vs edited".
+### 1. Impact con actividad real: hecho
+Ya no hace falta hacer nada aquí. Quedó así (ver "Cambios en los datos de la app"):
+- Recomendaciones: 80% de aceptación sobre 5 decisiones.
+- Texto de Luma: 60% del borrador de IA conservado, 2 versiones guardadas.
+- Data Health: 2 problemas resueltos de 213.
+- El embudo de outreach sigue en 0 a propósito: no se envió ningún mensaje y la página dice "No invented numbers". No marcar nada como enviado si no salió.
 - **No tocar** en Data Health el arreglo Synk → Snyk ni el duplicado Sartorial / Satorial: se aprueban en cámara (bloque 2 del guion).
-- **No marcar outreach como enviado** si no se envió nada. La página dice "No invented numbers".
 - La línea base ("Edit baseline") se queda vacía salvo que Saurabh dé las horas.
 
 ### 2. Cronómetro (opcional, 10 minutos; lo hace Alejandro)
@@ -34,10 +35,10 @@ Saurabh no dio horas, pero sí el proceso: unos 15 jueces, cada uno con nombre, 
 - El bloque 5 incluye 5 segundos del agente Crewbase Copilot en Covey. **Solo se puede grabar desde la cuenta de Miranda:** los agentes y la tarea programada no aparecen en la cuenta de Alejandro, aunque esté en el workspace.
 - Subir el video con permiso "Anyone with the link".
 
-### 4. One-pager en formato de envío
-- Pasar `ONE_PAGER.md` a un documento con permiso "Anyone with the link".
-- Tiene unas 900 palabras: comprobar que quepa en una página. Si no cabe, recortar primero la sección "The problem" y después "Assumptions and risks".
-- Confirmar cómo va el nombre de Alejandro (quedó como "Alejandro Gonzalez").
+### 4. Subir el one-pager
+- `ONE_PAGER.pdf` está en la raíz del repo: una página, generado desde `ONE_PAGER.md`.
+- Subirlo a Google Drive y compartirlo con "Anyone with the link". No lo pudimos subir nosotros: el conector de Drive de Alejandro no tiene permiso de escritura.
+- Confirmar cómo va el nombre de Alejandro (quedó como "Alejandro Gonzalez"). Si cambia, editar `ONE_PAGER.md` y regenerar el PDF.
 
 ### 5. Enviar el formulario
 - Un envío por equipo. Se puede editar hasta el deadline, así que conviene mandarlo en cuanto haya video, aunque después se ajuste.
@@ -60,10 +61,10 @@ Saurabh no dio horas, pero sí el proceso: unos 15 jueces, cada uno con nombre, 
 - **No verificado por nosotros:** guardar en Add people, la línea base de Impact y Revenue. Enter los confirmó leyendo el código, no ejecutándolos.
 
 ### Cambios en los datos de la app
-- Typo **NVDIA → NVIDIA** aprobado.
-- Duplicado de **Ali Amjad** fusionado (se conservó el registro con 2 eventos).
-- **Colin Lowenberg** aceptado como juez en WinterHack.
-- Data Health quedó en **211 problemas abiertos y 2 resueltos**; el health score sigue en 18.
+- **Data Health:** typo NVDIA → NVIDIA aprobado y duplicado de Ali Amjad fusionado (se conservó el registro con 2 eventos). Quedó en 211 problemas abiertos y 2 resueltos; el health score sigue en 18, porque dos arreglos sobre 213 no alcanzan a moverlo.
+- **WinterHack, shortlist:** aceptados Colin Lowenberg, Merve Isler y Vince Kohli como jueces y Finchip AI como sponsor; descartada Chelsey Huang como jueza (es cofundadora de Finchip AI, el sponsor aceptado).
+- **WinterHack, texto de Luma:** se generó una versión nueva con IA a partir de la shortlist, se le puso el horario real (9:30 AM - 8:30 PM) y se guardó. La checklist quedó en 8 de 9.
+- **Event day de WinterHack:** como el único sponsor aceptado es Finchip AI, el único link de sponsor que aparece es el de Finchip AI. El guion ya lo usa en lugar del de Nebius.
 
 ### Cambios en el repo
 - `VIDEO_SCRIPT.md`: de nueve segmentos a cinco bloques. Connections, Follow-ups, Revenue, la API y el tour quedaron fuera del video.
@@ -91,7 +92,7 @@ Nada de esto bloquea el envío. No construir más salvo que algo se rompa.
 - **Outreach a sponsors:** pide "hosting the venue" aunque la sede ya es AWS Builders Loft.
 - **API pública:** dice 194 problemas abiertos y la app 211.
 - **Pantallas que se ven a medio conectar en cámara:** Connections (cuatro integraciones sin conectar), Comms (0 de 3 con correo, 57 datos en TBD) y Follow-ups (49 tarjetas casi iguales).
-- **La pasada final de calidad se canceló a medias.** Recorrimos 12 rutas en escritorio sin encontrar nada roto; no revisamos la vista en celular, el leaderboard ni el link de sponsor por dentro.
+- **La pasada final de calidad se canceló a medias.** Recorrimos 12 rutas en escritorio sin encontrar nada roto; después revisamos el leaderboard, el link de sponsor de Finchip AI y seis páginas a 375 px, sin scroll horizontal.
 
 ## De Discord
 - Cada empresa revisa los envíos de su reto, así que Saurabh va a leer esto.
