@@ -62,10 +62,16 @@
     - El ejemplo público (botón "Use sample paste") muestra una extracción guardada, sin passcode: 9 filas, de las cuales 4 son nuevas, 4 ya estaban en la red y 1 es un posible duplicado.
   - **WinterHack 2026** (18 de diciembre, AWS Builders Loft), su evento real, es ahora el primer brief. Tiene recomendaciones, texto para Luma, portada y 18 borradores de outreach de ejemplo.
   - Los jueces tienen los badges **Investor** y **Big name**, que no cambian el puntaje. **LinkedIn** se sumó como canal de outreach.
+  - **Segundo agente en Covey: "Crewbase Growth"**, para el crecimiento de Saurabh (lo que contó en la llamada: sponsors solo por contactos, quiere jueces VC, poco alcance en LinkedIn y todavía sin X).
+    - Busca sponsors nuevos que encajen con cada evento, propone jueces VC del Bay Area, arma los posts de LinkedIn y X (incluido el lanzamiento de su cuenta de X), encuentra dónde reclutar builders y redacta el pitch de sponsorship.
+    - Cada sugerencia lleva un link a la fuente y se cruza con los datos de Crewbase para no pedirle dos veces a la misma empresa. Nunca publica ni envía nada.
+    - Preguntas sugeridas: "Find new sponsors for WinterHack", "Suggest VC judges for WinterHack" y "Draft our LinkedIn and X launch posts".
+    - **Probado:** para WinterHack devolvió 8 sponsors nuevos (LiveKit, Convex, Vapi, Airbyte, Temporal, Modal, fal y Runway), con su ronda o programa de créditos, el rol a contactar y la fuente, más 2 de respaldo (Twelve Labs y Supabase).
+    - Ojo: según la llamada, Runway ya está confirmado para este hackathon, pero todavía no figura en los datos públicos.
 - Verificado en escritorio y en móvil (375 px, sin scroll horizontal). Outreach, Impact y Add people se probaron en el link público.
 - **Documentos para el envío:** `ONE_PAGER.md` (borrador en inglés) y `VIDEO_SCRIPT.md` (guion de 3 minutos con la narración y los clics). Los dos esperan los números de Saurabh.
 - **Resumen semanal en Covey (Scheduled), creado con aprobación de Miranda:** la tarea "Crewbase weekly network and data health digest" corre todos los lunes a las 8 AM, y la primera es el 23 de noviembre de 2026. Revisa los 5 arreglos de datos que más rinden, los sponsors y jueces que llevan más de 60 días sin venir, y 3 personas para invitar al próximo evento. No envía mensajes ni cambia datos.
-- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Desglose: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia), 8 en la prueba del agente, 100 en Home y Outreach, 59 en Impact y 137 en Add people y WinterHack. Total: **704 de los 1,500**. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
+- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Desglose: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia), 8 en la prueba del agente, 100 en Home y Outreach, 59 en Impact 137 en Add people y WinterHack y 28 en el agente Growth y la republicación. Total: **732 de los 1,500**. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
 - **Siguiente:** grabar el video siguiendo `VIDEO_SCRIPT.md`, que ya abre con Add people y usa WinterHack. Después, pasar `ONE_PAGER.md` al formato del envío y mandar el formulario con los links públicos.
 
 ## 1. La tesis en una frase
