@@ -68,10 +68,23 @@
     - Preguntas sugeridas: "Find new sponsors for WinterHack", "Suggest VC judges for WinterHack" y "Draft our LinkedIn and X launch posts".
     - **Probado:** para WinterHack devolvió 8 sponsors nuevos (LiveKit, Convex, Vapi, Airbyte, Temporal, Modal, fal y Runway), con su ronda o programa de créditos, el rol a contactar y la fuente, más 2 de respaldo (Twelve Labs y Supabase).
     - Ojo: según la llamada, Runway ya está confirmado para este hackathon, pero todavía no figura en los datos públicos.
-- Verificado en escritorio y en móvil (375 px, sin scroll horizontal). Outreach, Impact y Add people se probaron en el link público.
+  - **Comms** (`/comms` y una pestaña en cada evento): por evento y por grupo (jueces, sponsors, speakers o una selección propia), una secuencia de 4 emails por persona: invitación, confirmación con la logística, recordatorio del día anterior y agradecimiento con los ganadores y sus demos.
+    - Cada email se escribe con la historia real de la persona en Crewbase. Lo que falta queda como [TBD].
+    - Tabla con el estado de cada persona (borrador → aprobado → borrador en Gmail → enviado → respondió → confirmó), embudo del evento y botones "Approve all" y "Fill thank-you results".
+    - Ejemplo público: 24 emails para WinterHack. El agradecimiento ya trae a los ganadores del leaderboard.
+  - **Connections** (`/connections`): Gmail, WhatsApp y LinkedIn, cada uno sin conectar y con lo que habilita. Cada email tiene botones Email (mailto o borrador en Gmail), WhatsApp (`wa.me` con el texto ya escrito) y LinkedIn (abre el perfil y copia el mensaje). Las personas tienen un campo de teléfono, y Add people saca los teléfonos de los chats de WhatsApp. Nunca se envía nada automáticamente.
+  - **Event day** (`/event-day`):
+    - Formulario público de entregas, sin login.
+    - Links privados para que cada juez evalúe desde el celular, con 4 criterios editables.
+    - Leaderboard en vivo con el promedio por criterio y por track.
+    - **Un reporte por sponsor** con los proyectos que usaron su herramienta, las demos, los repos, los puntajes y el LinkedIn de cada equipo.
+    - Ejemplo: 8 proyectos ficticios de WinterHack, evaluados por los 3 jueces de ejemplo.
+  - **Revenue** (con passcode): cash y créditos de API de cada sponsor, su estado (propuesto → acordado → facturado → pagado), los fees de los jueces, y los totales por evento y por mes. Empieza vacío, sin montos inventados.
+  - **Luma:** "Push to Luma" crea o actualiza el evento con su API key de Luma Plus, y "Import attendees" trae a los inscriptos a la red. Funciona cuando él cargue su key en Connections.
+- Verificado en la vista previa: Comms, Event day, el reporte de sponsor y Connections funcionan sin passcode y sin errores en la consola. Revenue y Luma no se pudieron probar, porque no hay passcode ni API key.
 - **Documentos para el envío:** `ONE_PAGER.md` (borrador en inglés) y `VIDEO_SCRIPT.md` (guion de 3 minutos con la narración y los clics). Los dos esperan los números de Saurabh.
 - **Resumen semanal en Covey (Scheduled), creado con aprobación de Miranda:** la tarea "Crewbase weekly network and data health digest" corre todos los lunes a las 8 AM, y la primera es el 23 de noviembre de 2026. Revisa los 5 arreglos de datos que más rinden, los sponsors y jueces que llevan más de 60 días sin venir, y 3 personas para invitar al próximo evento. No envía mensajes ni cambia datos.
-- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Desglose: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia), 8 en la prueba del agente, 100 en Home y Outreach, 59 en Impact 137 en Add people y WinterHack y 28 en el agente Growth y la republicación. Total: **732 de los 1,500**. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
+- **Créditos:** Covey y Enter usan el mismo saldo: los dos bajaron igual todo el día, y Covey siempre muestra 200 más. Desglose: 132 en los módulos A y B, 111 en el D, 56 en el E, 101 en el F (incluida la imagen de Framia), 8 en la prueba del agente, 100 en Home y Outreach, 59 en Impact 137 en Add people y WinterHack 28 en el agente Growth y la republicación, y 311 en Comms, Connections, Event day, Revenue y Luma. Total: **1,043 de los 1,500**. La IA dentro de la app usa la key "Crewbase-Network-and-Data-Health" de AI All.
 - **Siguiente:** grabar el video siguiendo `VIDEO_SCRIPT.md`, que ya abre con Add people y usa WinterHack. Después, pasar `ONE_PAGER.md` al formato del envío y mandar el formulario con los links públicos.
 
 ## 1. La tesis en una frase
