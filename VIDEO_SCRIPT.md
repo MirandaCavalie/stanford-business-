@@ -1,23 +1,25 @@
 # Demo video script (3:00 max)
 
-App: https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro · Covey agent: "Crewbase Copilot"
+App: https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro
 Record at 1280×800 with the browser zoom at 100%. Unlock editing with the organizer passcode before recording, so the Accept clicks work.
 Based on the call with Saurabh on Nov 17 (see LLAMADA_RESULTADOS.md).
 
+One story, five beats: his real next event, WinterHack 2026, from a messy contact list to a measured result. Connections, Follow-ups, Revenue, the API and the tour stay in the app for anyone who explores; they are not in the video.
+
 | Time | Screen | Narration |
 |---|---|---|
-| 0:00–0:20 | **Home** | "Crewbase Collective runs AI hackathons and founder events in San Francisco. Its real asset is a network: 21 events, 116 organizations, 114 people. Today that network lives in scattered records and in one organizer's head. Crewbase is a month old and run by one person, who types the same kind of data again for every event." |
-| 0:20–0:40 | **Add people** → "Sample paste" → review rows → Approve → Copy JSON | "His biggest pain, in his words: typing about 15 judges into his portal one by one, with contacts scattered across Excel, WhatsApp and LinkedIn. Now he pastes the mess. Copilot pulls out names, emails and LinkedIn links, flags who is already in the network and what is missing, and exports in his portal's exact format." |
-| 0:40–0:50 | **Data Health** → approve the Synk → Snyk fix | "We also cleaned what was already there: their data scored 18 out of 100. AI drafts each fix and he approves it in one click." |
-| 0:50–1:20 | **Plan an event → WinterHack 2026 → Recommendations → Judges** | "Now his real next event: WinterHack, December 18 at the AWS Builders Loft. He writes a brief, and Copilot ranks sponsors, judges and speakers. The score is computed from real history, not invented by AI: theme fit, experience in the role, recency, frequency, and a connector bonus. Colin Lowenberg comes first. He judged four hackathons and brought in three sponsors, a pattern nobody had recorded. Investor and big-name judges are flagged, because they're what fill the room. Saurabh accepts, dismisses or adds people himself, and each decision is logged." *(click Accept on 2 judges and 1 sponsor)* |
-| 1:20–1:35 | **Luma copy** → **Cover** (quick) | "From the accepted list, Copilot drafts the Luma page in his voice, and Framia makes the cover with the real sponsor logos. With his Luma Plus key, it pushes straight to Luma." |
-| 1:35–2:00 | **Comms → WinterHack → Judges** → open one email → show the WhatsApp and LinkedIn buttons | "Networking was his other pain: emailing every judge one by one. Comms writes the full sequence for each person, from invite and logistics to reminder and thank-you, using their real history. It goes out from his own Gmail, WhatsApp or LinkedIn, never in bulk, and every reply is tracked." |
-| 2:00–2:20 | **Event day → leaderboard → Sponsor report (Nebius)** | "On the day, teams submit through a form, judges score from their phones, and each sponsor gets one link with the live demos built with its tool. Those demos are what he owes sponsors today, and the thank-you emails fill in the winners automatically." |
-| 2:20–2:35 | **Covey → Crewbase Copilot and Crewbase Growth** | "Two agents in Covey: one plans events from a chat, the other finds new sponsors and VC judges with sources and drafts his LinkedIn and X launch." |
-| 2:35–2:50 | **Impact** | "And we measure it: data health, recommendation acceptance, how much of the copy he keeps, and the outreach funnel, sponsor revenue, starting from today's baseline." |
-| 2:50–3:00 | Home | "It's built entirely on Converge, with Enter, Covey and Framia, and runs on Crewbase's data today. Any community that runs events can use it the same way." |
+| 0:00–0:25 | **Home** | "Crewbase Collective runs AI hackathons in San Francisco. It is one month old and one person runs it. His real asset is a network: 21 events, 116 organizations, 114 people. But it lives in Excel sheets, WhatsApp chats and his own memory. For every event he types about 15 judges into his admin portal one by one. We timed that: STOPWATCH_MANUAL by hand." |
+| 0:25–1:05 | **Add people** → "Use sample paste" → Extract → scroll the rows → Copy JSON. Then **Data Health** → Accept fix on Synk → Snyk | "Now he pastes the mess. Copilot pulls out one row per person, shows who is already in his network with their history, catches a misspelled duplicate, and flags what is missing instead of guessing. The export is in his portal's exact format. Same list: STOPWATCH_PASTE. The records he already had get cleaned the same way: AI drafts the fix, he approves it." |
+| 1:05–1:50 | **Plan → WinterHack 2026 → Judges** → Accept 2 judges and 1 sponsor → **Luma copy** | "This is his real next event, WinterHack, December 18. Copilot ranks sponsors, judges and speakers from his own history. The score is computed in code and shown in full; AI only writes the reason. Colin Lowenberg judged four hackathons and brought in three sponsors, a pattern nobody had written down. He accepts or dismisses, and the Luma page is drafted only from the people he accepted. Unknowns stay as TBD." |
+| 1:50–2:30 | **Comms → WinterHack → Judges** → open one email → **Event day → leaderboard → sponsor link (Nebius)** | "Then the part he does alone: writing to every judge. Comms drafts the invite, the logistics, the reminder and the thank-you for each person from their real history. He sends them from his own Gmail, WhatsApp or LinkedIn; nothing goes out by itself. On the day, teams submit, judges score from their phones, and each sponsor gets one link with the live demos built on its tool. Those demos are what he owes sponsors today." |
+| 2:30–3:00 | **Impact** → 5 seconds of **Covey → Crewbase Copilot** → Home | "Everything is measured from today's baseline: data health, how many recommendations he accepts, how much of the copy he keeps, and outreach from sent to confirmed. The same data answers him in a Covey agent. It is built on Converge, with Enter, Covey and Framia, and it runs on his data today. Any community that runs events can import theirs and start the same way." |
+
+**Before recording**
+- Replace STOPWATCH_MANUAL and STOPWATCH_PASTE with the timed test (see HANDOFF.md). If there is no time to run it, cut both sentences.
+- Impact must show real activity, not zeros (see HANDOFF.md).
+- If Saurabh confirms that Finchip AI is already a WinterHack sponsor, add at 1:05–1:50: "Its top sponsor pick is one he had already signed."
 
 **Recording tips**
-- Record in one take per section, then cut them together.
+- Record in one take per beat, then cut them together.
 - Keep the cursor slow when clicking Accept.
-- If Saurabh gives a quote, show it as text over 0:00–0:20 or 2:35–2:50.
+- If Saurabh gives a quote, show it as text over 0:00–0:25.

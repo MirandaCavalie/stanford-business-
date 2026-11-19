@@ -14,36 +14,13 @@ Crewbase runs AI hackathons, founder mixers, workshops and demo nights. Its real
 - **From the organizer interview:** the slowest step is adding new people. For every event he types each judge, sponsor and speaker into his admin portal one record at a time (about 15 judges per event: name, email, username, LinkedIn and image), pulling contact details from Excel sheets, WhatsApp chats and LinkedIn. He runs venues, judges and sponsors alone, and Crewbase is about a month old.
 
 ## The solution
-Crewbase Copilot turns 21 events, 116 organizations, 114 people and 517 participations into a living network and uses it to plan the next event (shown on his real one: WinterHack 2026, Dec 18, AWS Builders Loft). AI suggests and the organizer approves every step.
-0. **Smart intake, his #1 pain:** paste a WhatsApp thread, Excel rows or LinkedIn links. AI turns them into clean records, matches them against the network so nobody is entered twice, and exports them in his portal's exact format.
-1. **Data Health:**
-   - A queue of duplicates, typos and empty fields.
-   - AI drafts each fix and the organizer approves it in one click.
-   - Every change is logged with before and after.
-2. **Plan an event → explainable recommendations:**
-   - From a brief, it ranks sponsors, judges and speakers with a transparent score: theme fit, role experience, recency, frequency, a connector bonus, and a penalty for asking the same person too often.
-   - Each candidate gets a one-line reason grounded in real events, e.g. *"Colin Lowenberg judged 4 Crewbase hackathons and brought Tenki, AISA One and Tavily in as sponsors."*
-3. **Luma copy, cover and outreach:**
-   - The Luma page is drafted only from the accepted partners, in Crewbase's own voice, with unknowns left as [TBD] and a quality checklist.
-   - A Framia-generated cover carries the real sponsor logos.
-   - Personal invite drafts cite each person's history with Crewbase. Nothing is published or sent automatically.
-4. **Comms, his networking pain:**
-   - Pick an event and a group (for example, WinterHack's judges) and get a 4-email sequence per person: invite, confirmation with logistics, day-before reminder, and thank-you with results.
-   - Each email is personalized from that person's history with Crewbase.
-   - Messages go out from his own channels, never in bulk through Luma: Gmail drafts, WhatsApp with the text prefilled, or LinkedIn with the message copied. Sent, replied and confirmed are tracked.
-5. **Event day:**
-   - Teams submit through a public form.
-   - Judges score on their phones and the organizer sees a live leaderboard.
-   - Each sponsor gets one link with the projects that used its tool, their live demo URLs and scores. Live demos are what he already owes sponsors after a hackathon; today he collects them by hand.
-6. **Revenue and Luma:**
-   - Sponsor cash, API credits and judge support fees are tracked per event.
-   - Approved copy can be pushed to Luma through his Luma Plus API, and registrants imported back.
-7. **Two Covey agents:**
-   - **Crewbase Copilot** runs the planning flow from a chat ("Let's plan our next hackathon").
-   - **Crewbase Growth** finds new sponsors and VC judges with sources, drafts LinkedIn and X launch posts, and finds communities to recruit builders.
-   - Both agents read the app's live data through a read-only API (no contact details exposed), so chat answers match what the app shows.
-   - A scheduled weekly digest flags data fixes and relationships that are cooling down.
-8. **Follow-ups:** a networking to-do list computed from the data: thank-yous due, relationships cooling down, warm sponsor-to-team intros and unanswered outreach, each with a drafted message.
+Crewbase Copilot turns 21 events, 116 organizations, 114 people and 517 participations into a living network and uses it to run the next event, shown on his real one: WinterHack 2026 (Dec 18, AWS Builders Loft). AI suggests and the organizer approves every step; nothing is published or sent automatically.
+1. **Add people, his #1 pain.** He pastes a WhatsApp thread, Excel rows or LinkedIn links. AI turns them into one clean row per person, matches them against the network so nobody is entered twice, flags missing fields instead of guessing, and exports in his portal's exact format.
+2. **Data Health.** A queue of duplicates, typos and empty fields. AI drafts each fix, he approves it, and every change is logged.
+3. **Plan an event.** From a brief, it ranks sponsors, judges and speakers with a score computed in code and shown in full (theme fit, role experience, recency, frequency, connector bonus). AI only writes the one-line reason, e.g. *"Colin Lowenberg judged 4 Crewbase hackathons and brought Tenki, AISA One and Tavily in as sponsors."* The Luma page and cover are built only from the people he accepts.
+4. **Comms.** A 4-email sequence per judge, sponsor or speaker (invite, logistics, reminder, thank-you), written from that person's history and sent from his own Gmail, WhatsApp or LinkedIn. Sent, replied and confirmed are tracked.
+5. **Event day.** Teams submit through a public form, judges score on their phones, and each sponsor gets one link with the live demos built on its tool, which is what he already owes sponsors and collects by hand today.
+6. **Covey agents.** Crewbase Copilot plans from a chat and Crewbase Growth finds new sponsors and VC judges with sources. Both read the app's live data through a read-only API with no contact details.
 
 ## Expected value (how we measure it)
 | Metric | Before | After (measured in the app) |
