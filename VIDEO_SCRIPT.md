@@ -17,7 +17,6 @@ One story, five beats: his real next event, WinterHack 2026, from a messy contac
 **Before recording**
 - Replace STOPWATCH_MANUAL and STOPWATCH_PASTE with the timed test (see HANDOFF.md). If there is no time to run it, cut both sentences.
 - Impact must show real activity, not zeros (see HANDOFF.md).
-- If Saurabh confirms that Finchip AI is already a WinterHack sponsor, add at 1:05–1:50: "Its top sponsor pick is one he had already signed."
 
 **Recording tips**
 - Record in one take per beat, then cut them together.

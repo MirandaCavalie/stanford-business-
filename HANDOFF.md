@@ -47,7 +47,7 @@ Saurabh no dio horas, pero sí el proceso: unos 15 jueces, cada uno con nombre, 
 
 ### 6. Si sobra tiempo
 - **Preguntarle a Saurabh:**
-  - Si "Finch" es Finchip AI. La app lo pone primero en el ranking de sponsors de WinterHack; si ya firmó, se agrega al bloque 3 del video la frase "Its top sponsor pick is one he had already signed."
+  - Si "Finch" es Finchip AI. Ya está aceptado como sponsor en la shortlist de WinterHack; si no es él, cambiarlo antes de grabar.
   - Cuál es el sponsor principal de USD 1,100 (la transcripción dice "Braven(?)").
 - **Discord:** reportar la caída de `*.prod.enter.pro` en `#report-a-bug` (nadie lo ha hecho) y etiquetar a Lani en `#team-19`, que ofreció revisar antes de enviar.
 
@@ -84,14 +84,25 @@ Saurabh no dio horas, pero sí el proceso: unos 15 jueces, cada uno con nombre, 
 - **El bloqueo de Luma y el calentamiento de correo** los sugirió Miranda en la llamada, no él. No presentarlos como un dolor que él reportó.
 - **No dio ningún número de horas.** No inventar la línea base.
 
+### Ranking de WinterHack y tres detalles: arreglados
+Segundo pedido a Enter, a las 8:22 PM PT; terminó a las 8:40 PM PT. Con el anterior, el saldo quedó en 3,598 créditos.
+- **Encaje de tema plano.** Casi todos tenían 5/40 en WinterHack.
+  - **Causa (reporte de Enter):** las etiquetas de tema se guardaban en caché de forma global, no por brief, y el prompt que etiqueta ignoraba el tema del brief. Editar el tema tampoco limpiaba la caché.
+  - **Arreglo:** etiquetas por brief, WinterHack recalculado contra su tema, y la caché se limpia cuando cambia el tema. La fórmula y las escalas no cambiaron.
+  - **Verificado por nosotros:** en el top 8 el tema va ahora de 5 a 25 sobre 40.
+    - Jueces: Colin Lowenberg 75; Amitabh Das, Merve Isler y Vince Kohli 60; Abhi Vasanth 59.
+    - Sponsors: InsForge 69, RocketRide 67, Nebius 65, Apify 61, Finchip AI y Kylon 60.
+- **Bonus de conector graduado:** 4, 7 o 10 puntos por 1, 2 o 3 o más casos. Solo cuentan casos con rol de sponsor y no cuenta Saurabh. Merve Isler pasó de 10 a 0, porque su caso era un community partner.
+- **Texto de Luma:** una persona ya no sale como jueza y speaker a la vez. No lo verificamos nosotros.
+- **Invitaciones a sponsors:** ya no piden "hosting the venue" si el brief tiene sede. No lo verificamos nosotros.
+- **Ojo al grabar:** las tarjetas de la shortlist muestran el puntaje del momento en que se aceptó (Colin 65, Finchip AI 55), no el nuevo. La lista de recomendaciones de abajo sí muestra los puntajes nuevos.
+- **Finchip AI ya no sale primero entre los sponsors** (quedó quinto, con 60). La frase opcional del guion "Its top sponsor pick is one he had already signed" ya no aplica; la quitamos.
+
 ## Visto en la app y no tocado
 Nada de esto bloquea el envío. No construir más salvo que algo se rompa.
-- **Ranking de WinterHack plano:** casi todos tienen 5/40 en encaje de tema, así que el orden sale de frecuencia y recencia. Ningún juez del top 8 tiene el badge Investor; el guion ya no lo menciona.
-- **Bonus de conector todo o nada:** Merve Isler recibe los mismos 10 puntos por 1 caso que Colin por 8, y su caso es un community partner, no un sponsor.
-- **Luma copy:** Colin Lowenberg y Merve Isler salen como jueces y también como speakers en el ejemplo.
-- **Outreach a sponsors:** pide "hosting the venue" aunque la sede ya es AWS Builders Loft.
 - **API pública:** dice 194 problemas abiertos y la app 211.
-- **Pantallas que se ven a medio conectar en cámara:** Connections (cuatro integraciones sin conectar), Comms (0 de 3 con correo, 57 datos en TBD) y Follow-ups (49 tarjetas casi iguales).
+- **Pantallas que se ven a medio conectar en cámara:** Connections (cuatro integraciones sin conectar), Comms (0 de 3 con correo, 57 datos en TBD) y Follow-ups (49 tarjetas casi iguales). Por eso no están en el guion.
+- **Ningún juez del top 8 tiene el badge Investor;** el guion no lo menciona.
 - **La pasada final de calidad se canceló a medias.** Recorrimos 12 rutas en escritorio sin encontrar nada roto; después revisamos el leaderboard, el link de sponsor de Finchip AI y seis páginas a 375 px, sin scroll horizontal.
 
 ## De Discord
