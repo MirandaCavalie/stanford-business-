@@ -4,6 +4,7 @@
 
 ## Estado (miércoles 18 de noviembre, 00:15 PT)
 - **La llamada con Saurabh ya se hizo** (ver `LLAMADA_RESULTADOS.md`). Su prioridad número uno es cargar a la gente nueva (unos 15 jueces por evento, uno por uno), con contactos dispersos en Excel, WhatsApp y LinkedIn.
+- **Incidente (miércoles 18, madrugada):** el hosting de producción de Enter (`*.prod.enter.pro`) corta todas las conexiones (ERR_CONNECTION_RESET), también con dominios inventados. Es una falla de la plataforma, no de nuestra app; volver a publicar no lo arregló. **Link alternativo que funciona sin login:** https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro
 - **Prototipo publicado:** https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
 - **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
 - **Listo, con datos reales en Enter Cloud:**
