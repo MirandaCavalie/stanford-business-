@@ -1,6 +1,6 @@
 # Demo video script (3:00 max)
 
-App: https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro · Covey agent: "Crewbase Copilot"
+App: https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro · Covey agent: "Crewbase Copilot"
 Record at 1280×800 with the browser zoom at 100%. Unlock editing with the organizer passcode before recording, so the Accept clicks work.
 Based on the call with Saurabh on Nov 17 (see LLAMADA_RESULTADOS.md).
 
@@ -12,7 +12,7 @@ Based on the call with Saurabh on Nov 17 (see LLAMADA_RESULTADOS.md).
 | 0:50–1:20 | **Plan an event → WinterHack 2026 → Recommendations → Judges** | "Now his real next event: WinterHack, December 18 at the AWS Builders Loft. He writes a brief, and Copilot ranks sponsors, judges and speakers. The score is computed from real history, not invented by AI: theme fit, experience in the role, recency, frequency, and a connector bonus. Colin Lowenberg comes first. He judged four hackathons and brought in three sponsors, a pattern nobody had recorded. Investor and big-name judges are flagged, because they're what fill the room. Saurabh accepts, dismisses or adds people himself, and each decision is logged." *(click Accept on 2 judges and 1 sponsor)* |
 | 1:20–1:35 | **Luma copy** → **Cover** (quick) | "From the accepted list, Copilot drafts the Luma page in his voice, and Framia makes the cover with the real sponsor logos. With his Luma Plus key, it pushes straight to Luma." |
 | 1:35–2:00 | **Comms → WinterHack → Judges** → open one email → show the WhatsApp and LinkedIn buttons | "Networking was his other pain: emailing every judge one by one. Comms writes the full sequence for each person, from invite and logistics to reminder and thank-you, using their real history. It goes out from his own Gmail, WhatsApp or LinkedIn, never in bulk, and every reply is tracked." |
-| 2:00–2:20 | **Event day → leaderboard → Sponsor report (Nebius)** | "On the day, teams submit through a form, judges score from their phones, and each sponsor gets a report of what was built with its tool. That report is what sponsors pay for, and the thank-you emails fill in the winners automatically." |
+| 2:00–2:20 | **Event day → leaderboard → Sponsor report (Nebius)** | "On the day, teams submit through a form, judges score from their phones, and each sponsor gets one link with the live demos built with its tool. Those demos are what he owes sponsors today, and the thank-you emails fill in the winners automatically." |
 | 2:20–2:35 | **Covey → Crewbase Copilot and Crewbase Growth** | "Two agents in Covey: one plans events from a chat, the other finds new sponsors and VC judges with sources and drafts his LinkedIn and X launch." |
 | 2:35–2:50 | **Impact** | "And we measure it: data health, recommendation acceptance, how much of the copy he keeps, and the outreach funnel, sponsor revenue, starting from today's baseline." |
 | 2:50–3:00 | Home | "It's built entirely on Converge, with Enter, Covey and Framia, and runs on Crewbase's data today. Any community that runs events can use it the same way." |

@@ -1,7 +1,7 @@
 # Crewbase Copilot: from partner records to AI-guided event planning
 
-**Team:** Miranda Cavalie · **Business:** Crewbase Collective (San Francisco) · **Built on:** Converge.AI (Enter, Covey, Framia)
-**Prototype:** https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro
+**Team:** Miranda Cavalie, Alejandro Gonzalez · **Business:** Crewbase Collective (San Francisco) · **Built on:** Converge.AI (Enter, Covey, Framia)
+**Prototype:** https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro
 
 ## The problem
 Crewbase runs AI hackathons, founder mixers, workshops and demo nights. Its real asset is the relationship network: who sponsored, judged, spoke or hosted, and at which event. Today that network lives in scattered records and in the organizer's memory.
@@ -9,7 +9,7 @@ Crewbase runs AI hackathons, founder mixers, workshops and demo nights. Its real
   - 2 duplicate profiles and typos like "Synk" and "NVDIA".
   - 76 of 116 organizations with no description, and 15 of 21 events with no theme.
   - A data health score of **18/100**.
-- **Choosing partners depends on memory.** 16 sponsor contacts actually belong to other companies: they are the connectors who bring sponsors in, but nothing records that.
+- **Choosing partners depends on memory.** 16 sponsor entries list a contact who works at a different company. Several look like connectors who brought the sponsor in (one person appears on 8 of them), but nothing records that.
 - **The Luma page is rewritten from scratch every time.**
 - **From the organizer interview:** the slowest step is adding new people. For every event he types each judge, sponsor and speaker into his admin portal one record at a time (about 15 judges per event: name, email, username, LinkedIn and image), pulling contact details from Excel sheets, WhatsApp chats and LinkedIn. He runs venues, judges and sponsors alone, and Crewbase is about a month old.
 
@@ -34,7 +34,7 @@ Crewbase Copilot turns 21 events, 116 organizations, 114 people and 517 particip
 5. **Event day:**
    - Teams submit through a public form.
    - Judges score on their phones and the organizer sees a live leaderboard.
-   - Each sponsor gets a report with the projects that used its tool, demo links and scores, which is exactly the deliverable sponsors pay for.
+   - Each sponsor gets one link with the projects that used its tool, their live demo URLs and scores. Live demos are what he already owes sponsors after a hackathon; today he collects them by hand.
 6. **Revenue and Luma:**
    - Sponsor cash, API credits and judge support fees are tracked per event.
    - Approved copy can be pushed to Luma through his Luma Plus API, and registrants imported back.
@@ -49,10 +49,10 @@ Crewbase Copilot turns 21 events, 116 organizations, 114 people and 517 particip
 | Metric | Before | After (measured in the app) |
 |---|---|---|
 | Records typed by hand per event | ~15 judges + sponsors + speakers, one by one | One paste, then review and approve |
-| Hours to prepare an event | [not measured yet] | [from Impact page] |
-| Data health score | 18/100 | [live] |
-| Recommendation acceptance rate | n/a | [logged per decision] |
-| Luma copy kept vs. edited | n/a | [logged per version] |
+| Hours to prepare an event | Not measured yet; the organizer enters it on the Impact page | Projected on the Impact page once he does |
+| Data health score | 18/100 | Recomputed live as fixes are approved |
+| Recommendation acceptance rate | n/a | Logged per decision |
+| Luma copy kept vs. edited | n/a | Logged per version |
 | Outreach: sent → replied → confirmed | Not tracked today | Logged per draft |
 
 Revenue comes from sponsors (cash or API credits) and from judge support fees ($100–500), and VC judges drive attendance. Recommendations flag investor and big-name judges, and outreach is tracked to confirmation, so the tool works on the steps that bring in money.
@@ -63,13 +63,13 @@ Revenue comes from sponsors (cash or API credits) and from judge support fees ($
   - Enter is the app and the database.
   - Covey runs the agent.
   - Framia makes the creative.
-- **Costs are credits, not engineers.** The whole prototype used about 500 credits.
+- **Costs are credits, not engineers.** The whole prototype used about 1,400 credits.
 - **There is human review everywhere.** Scores are computed in code, so they are auditable. AI only writes reasons and drafts.
 
 ## Assumptions and risks
 - **Contacts listed under other companies are treated as connectors.** Not yet confirmed by the organizer.
 - **The quality of recommendations depends on how complete the records are.** The Data Health module exists for this reason.
-- **Luma publishing is copy-paste today.** He has Luma Plus, which has an API, so the approved copy can be pushed through the API next.
+- **Luma push is built but not yet tested.** It needs his Luma Plus API key; until he adds it, the approved copy is copy-paste.
 
 ## Beyond Crewbase
 Any community that runs events, such as other organizers, accelerators or university clubs, can import its past events, people and sponsors. It gets the same network, data health, partner recommendations and copy. Every organizer's memory becomes reusable knowledge.
