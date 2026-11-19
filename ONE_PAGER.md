@@ -27,7 +27,21 @@ Crewbase Copilot turns 21 events, 116 organizations, 114 people and 517 particip
    - The Luma page is drafted only from the accepted partners, in Crewbase's own voice, with unknowns left as [TBD] and a quality checklist.
    - A Framia-generated cover carries the real sponsor logos.
    - Personal invite drafts cite each person's history with Crewbase. Nothing is published or sent automatically.
-4. **Covey agent:** "Crewbase Copilot" runs the same flow from a chat: "Let's plan our next hackathon."
+4. **Comms, his networking pain:**
+   - Pick an event and a group (for example, WinterHack's judges) and get a 4-email sequence per person: invite, confirmation with logistics, day-before reminder, and thank-you with results.
+   - Each email is personalized from that person's history with Crewbase.
+   - Messages go out from his own channels, never in bulk through Luma: Gmail drafts, WhatsApp with the text prefilled, or LinkedIn with the message copied. Sent, replied and confirmed are tracked.
+5. **Event day:**
+   - Teams submit through a public form.
+   - Judges score on their phones and the organizer sees a live leaderboard.
+   - Each sponsor gets a report with the projects that used its tool, demo links and scores, which is exactly the deliverable sponsors pay for.
+6. **Revenue and Luma:**
+   - Sponsor cash, API credits and judge support fees are tracked per event.
+   - Approved copy can be pushed to Luma through his Luma Plus API, and registrants imported back.
+7. **Two Covey agents:**
+   - **Crewbase Copilot** runs the planning flow from a chat ("Let's plan our next hackathon").
+   - **Crewbase Growth** finds new sponsors and VC judges with sources, drafts LinkedIn and X launch posts, and finds communities to recruit builders.
+   - A scheduled weekly digest flags data fixes and relationships that are cooling down.
 
 ## Expected value (how we measure it)
 | Metric | Before | After (measured in the app) |
