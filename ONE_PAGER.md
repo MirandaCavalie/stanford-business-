@@ -41,7 +41,9 @@ Crewbase Copilot turns 21 events, 116 organizations, 114 people and 517 particip
 7. **Two Covey agents:**
    - **Crewbase Copilot** runs the planning flow from a chat ("Let's plan our next hackathon").
    - **Crewbase Growth** finds new sponsors and VC judges with sources, drafts LinkedIn and X launch posts, and finds communities to recruit builders.
+   - Both agents read the app's live data through a read-only API (no contact details exposed), so chat answers match what the app shows.
    - A scheduled weekly digest flags data fixes and relationships that are cooling down.
+8. **Follow-ups:** a networking to-do list computed from the data: thank-yous due, relationships cooling down, warm sponsor-to-team intros and unanswered outreach, each with a drafted message.
 
 ## Expected value (how we measure it)
 | Metric | Before | After (measured in the app) |
