@@ -20,4 +20,4 @@ One story, five beats: his real next event, WinterHack 2026, from a messy contac
 **Recording tips**
 - Record in one take per beat, then cut them together.
 - Keep the cursor slow when clicking Accept.
-- over 0:08–0:30, show a text overlay: "Product discovery: interview with Saurabh Khire, Nov 17. Found: adding new people and writing to judges."
+- Over 0:08–0:30, show a text overlay: "Product discovery: interview with Saurabh Khire, Nov 17. Found: adding new people and writing to judges."
