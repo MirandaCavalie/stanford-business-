@@ -30,7 +30,8 @@ Detalles que quedaron: algunos nombres largos se cortan con puntos suspensivos e
 
 ## Links
 - **Prototipo (usar este en el envío):** https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro. Abre sin login, también con rutas directas como `/add-people`.
-- **Producción sigue caída:** `https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro` corta la conexión (comprobado a las 7:30 PM PT). No usarlo.
+- **Link de producción:** `https://da946762214b46049c66aa2e3a5f9580.prod.enter.pro`. Desde nuestra red corta la conexión (comprobado a las 7:30 PM PT), pero a Eric de Converge le abre bien.
+- **Confirmado por Converge:** a las 9:19 PM PT, Eric_Converge.AI respondió en Discord a nuestro reporte: "these 2 work well on my side, i think they are good for judging". Los dos links valen para la evaluación; enviamos el de preview, que es el que podemos comprobar nosotros.
 - **Proyecto en Enter:** `enter.converge.ai/project/da946762214b46049c66aa2e3a5f9580`
 - **Formulario de envío:** https://docs.google.com/forms/d/e/1FAIpQLSfI1_LcWKcYTHSCMG5zE6mTXwDrnn3iLH_g40fhvxoLOPhFLw/viewform
 - **Passcode de organizador:** el que definiste hoy. Rotarlo después del envío ("Change passcode" en Data Health).
@@ -72,7 +73,7 @@ Saurabh no dio horas, pero sí el proceso: unos 15 jueces, cada uno con nombre, 
 - **Preguntarle a Saurabh:**
   - Si "Finch" es Finchip AI. Ya está aceptado como sponsor en la shortlist de WinterHack; si no es él, cambiarlo antes de grabar.
   - Cuál es el sponsor principal de USD 1,100 (la transcripción dice "Braven(?)").
-- **Discord (hecho a las 8:49 PM PT, desde la cuenta de Alejandro):** reportamos la caída de `*.prod.enter.pro` en `#report-a-bug`, preguntando si el link de preview vale para la evaluación, y le pedimos revisión a Lani en `#team-19`. Revisar si contestaron antes de enviar.
+- **Discord (hecho a las 8:49 PM PT, desde la cuenta de Alejandro):** reportamos la caída de `*.prod.enter.pro` en `#report-a-bug`, preguntando si el link de preview vale para la evaluación, y le pedimos revisión a Lani en `#team-19`. Eric ya contestó que los dos links sirven para la evaluación (ver "Links"). Falta ver si Lani deja comentarios en `#team-19`.
 
 ## Hecho esta tarde (Alejandro y Claude)
 
