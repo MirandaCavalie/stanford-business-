@@ -3,7 +3,17 @@
 Deadline del envío: **hoy a las 11:59 PM PT**, sin extensiones. Este documento tiene todo lo pendiente, en orden. Si se lo pasas a tu agente, que siga la sección "Pendiente, en orden" de arriba abajo.
 
 ## Estado en una línea
-La app funciona en el link de preview, el bug de guardado de Data Health ya está arreglado y verificado, y los documentos están actualizados. Impact ya tiene actividad real y el one-pager ya está en PDF de una página. Falta: el video, subir el PDF con link público y el formulario.
+La app funciona en el link de preview, los bugs de guardado y de ranking están arreglados, Impact tiene actividad real y el one-pager está en PDF de una página. Falta: el video, subir el PDF con link público y el formulario.
+
+## Antes de grabar: esperar el retoque de interfaz
+A las 8:53 PM PT mandamos a Enter dos pasos seguidos, por el tip de Lani sobre el exceso de texto:
+1. **Retoque visual**, solo en componentes compartidos: encabezados más chicos, tarjetas con borde fino y sin sombra, el terracota reservado para una acción principal por pantalla, el aviso "Example preview" en una sola línea y más densidad en las listas.
+2. **Menos texto:** se quitan los subtítulos que repiten el título y los avisos repetidos. Tres etiquetas cambian de nombre:
+   - "Rep mismatch" → "Contact at another company"
+   - "Connector" → "Brings sponsors"
+   - "Handled" → "Resolved or dismissed"
+
+Los nombres de menús y botones que usa el guion no cambian. **No grabar hasta que el chat de Enter muestre los dos pasos terminados** y se haya dado una vuelta por Home, Add people, Data Health, Plan, Comms, Event day e Impact. Si algo se ve roto, Enter guarda versiones: se puede volver a la anterior desde el historial del proyecto.
 
 ## Links
 - **Prototipo (usar este en el envío):** https://da946762214b46049c66aa2e3a5f9580.live-preview.enter.pro. Abre sin login, también con rutas directas como `/add-people`.
@@ -49,7 +59,7 @@ Saurabh no dio horas, pero sí el proceso: unos 15 jueces, cada uno con nombre, 
 - **Preguntarle a Saurabh:**
   - Si "Finch" es Finchip AI. Ya está aceptado como sponsor en la shortlist de WinterHack; si no es él, cambiarlo antes de grabar.
   - Cuál es el sponsor principal de USD 1,100 (la transcripción dice "Braven(?)").
-- **Discord:** reportar la caída de `*.prod.enter.pro` en `#report-a-bug` (nadie lo ha hecho) y etiquetar a Lani en `#team-19`, que ofreció revisar antes de enviar.
+- **Discord (hecho a las 8:49 PM PT, desde la cuenta de Alejandro):** reportamos la caída de `*.prod.enter.pro` en `#report-a-bug`, preguntando si el link de preview vale para la evaluación, y le pedimos revisión a Lani en `#team-19`. Revisar si contestaron antes de enviar.
 
 ## Hecho esta tarde (Alejandro y Claude)
 
